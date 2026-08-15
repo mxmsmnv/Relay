@@ -1,0 +1,33 @@
+name: Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  php:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php: ['8.2', '8.3']
+    steps:
+      - uses: actions/checkout@v7
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php }}
+          extensions: pdo_sqlite
+      - run: find . -name '*.php' -print0 | xargs -0 -n1 php -l
+      - run: php tests/RelayClockTest.php
+      - run: php tests/RelayModuleInfoTest.php
+      - run: php tests/RelayStoreFilterTest.php
+      - run: php tests/RelayTranslationTest.php
+
+  javascript:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '20'
+      - run: node --check assets/relay.js
+      - run: node --test tests/RelayUiTest.mjs

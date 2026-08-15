@@ -1,0 +1,790 @@
+en,yi,description,file,hash
+%1$s on %2$s,%1$s on %2$s,,site/modules/Relay/Relay.module.php,9b8d8a252955b2de195c7fa72b7353cb
+%d action,סעלעקציע (%d),,site/modules/Relay/Relay.module.php,52e7ef0d09080ecf1c1cb9588f5a3346
+%d action in this view,דורכװײק (%d),,site/modules/Relay/Relay.module.php,edbb5b851dc7c7fce80a4ae79765fee1
+%d actions,סעלעקציע (%d),,site/modules/Relay/Relay.module.php,b702ff44d2b2006bf4888afc027e438c
+%d actions in this view,פֿאָרױסװײַז (%d),,site/modules/Relay/Relay.module.php,72a81c2788218d02e54496f5ce5bf4e8
+%d active lease,"%d"" אַקטיװ אַרײַנלײג",,site/modules/Relay/Relay.module.php,45997a700e47aac122a2064ff6b91e91
+%d active leases,דורכװײק (%d),,site/modules/Relay/Relay.module.php,03bbefe07fc6b64dc91467fe2d693ba0
+%d demo action loaded.,דאָזיקע אָפּעראַציע אַרײַנשטעלן (%d),,site/modules/Relay/Relay.module.php,02d8eec5f9e44fd4ae56063d0cf25009
+%d demo actions loaded.,דאָזיקע אָפּציעס אַרײַנשטעלן (%d),,site/modules/Relay/Relay.module.php,4c230d7f1e07dc373ab85519552dec77
+%d failed job,דורכפֿאַל אין עפֿענען TIFF בילד (%d),,site/modules/Relay/Relay.module.php,44def872a6aad957747b74cd20867980
+%d failed jobs,%d אַ פֿאָקוס אַרײַנשרײַבונג אין עפֿן טעקע,,site/modules/Relay/Relay.module.php,a0ddafd3319505d73b0891530663f509
+%d session-only demo action. No schedule jobs or page states are changed.,%d בלױז שסימן־דאָמפּאָזיציע. קײן schedule אַרבעטן אָדער זײַל־סטעס ענדערט זיך,,site/modules/Relay/Relay.module.php,b9df1d9878c0a28107069b73d2dcff88
+%d session-only demo actions. No schedule jobs or page states are changed.,%d בלױז אַדאָמאַ־אַקציען. קײן schedule אַרבעטן אָדער זײַנע מעניו ענדערט זיך,,site/modules/Relay/Relay.module.php,03ebae3d39cd1696b24b493d9db2d710
+%d template,מעק אַרױס (%d),,site/modules/Relay/Relay.module.php,2e97680673e9f48756601bd5672b0d45
+%d templates,מעק אַרױס (%d),,site/modules/Relay/Relay.module.php,f78cb52b393842a378dcbee7bd241ffe
+%d upcoming action,סעלעקציע (%d),,site/modules/Relay/Relay.module.php,2861365b8287f80b6b8c2d6fe56bd63e
+%d upcoming actions,באַקאַנטן אָפּציעס (%d),,site/modules/Relay/Relay.module.php,b718159aca4e0e94ed8db2f051112718
+%s (not installed),%s (ניט אינסטאַלירט),,site/modules/Relay/Relay.module.php,1307e7441c89b0828007900bfd3f2171
+3 days,3 טאָגן,,site/modules/Relay/Relay.module.php,45fe0d3293152fa29cf10ef8a3c1871d
+3-day calendar,סעלעקציע,,site/modules/Relay/Relay.module.php,38e6af5f4884e28e44bb23d5f6af6677
+Absolute path or a path relative to the ProcessWire root. Relay only generates the command; it never writes the system crontab.,אַבסאָלוט פּאַפּקע אָדער אַ פּאַפּקע־רשימה רעלאַטיװ צו דעם ProcessWire װאָרט. Relay נײַע פּאַפּקע בלױז דער באַפֿעל; עס קײן שרײַבן דעם סיסטעם crontab.,,site/modules/Relay/Relay.module.php,220d13541eac933c9acfb78f07514d20
+Access,צוריק,,site/modules/Relay/Relay.module.php,bf733d8a933c1601697f364223fc7ecb
+Action,ברוכטײל,,site/modules/Relay/Relay.module.php,004bf6c9a40003140292e97330236c53
+Actions,סעלעקציע,,site/modules/Relay/Relay.module.php,06df33001c1d7187fdd81ea1f5b277aa
+Actions in current view by status,סעלעקציע,,site/modules/Relay/Relay.module.php,af64477cfee328730682df824f4f4527
+Active,אַקטיװ,,site/modules/Relay/Relay.module.php,4d3d769b812b6faa6b76e1a8abaece2d
+Adds /relay-api/v1/ routes with session/CSRF or an explicitly rotated Bearer credential. CORS remains disabled.,צוגעבערט /relay-api/v1/ רוטן מיט שsion/CSRF אָדער אַ פּיליקט רוקטירט Bearer קענדינאל. CORS סטרויסן אומבאַקטיװ.,,site/modules/Relay/Relay.module.php,9b843d3fcc73feed1090d1cc97f93994
+Adds a compact action/clock marker and local-time tooltip for users with relay-view.,צוגעבער אַ קאַפּאַקטן אכטעלעך אָדער אָנזאָג־פּאַראַגראַף און לאָקאַלע-צײַט פּאַראַגראַף פֿאַר ניצערס מיט relay-view.,,site/modules/Relay/Relay.module.php,663e5ab2d43fd1eede404e7d7623588b
+Adds a subtle weekend background in date-based calendar views. Disable it for a uniform grid.,צוגעבער אַ סוטיל הינטערגרונט אין טאָג־באַדינונג־סימן. האַלט אים פֿאַר אַ אַרײַנגרינט.,,site/modules/Relay/Relay.module.php,75d3e7a7bfcdde3525309af275c77048
+AI planning proposals,AI פּלאנירן צופּאַסן,,site/modules/Relay/Relay.module.php,ce74f68e998d966d107b0e413109aafd
+"Alerts contain metadata, not editorial content",װאָרענונגען איז כּולל metadata; ניט רעדאַגיר־אינהאַלט,,site/modules/Relay/Relay.module.php,e2ff31dc656705e2b2d89110a4dac14c
+All actions,סעלעקציע,,site/modules/Relay/Relay.module.php,2701bbdc7ebed3bba6e85534149c85b1
+All editable templates,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,c4665cd5c7c6178de30de7f3c8056ba4
+Allowed templates,מעק אַרױס,,site/modules/Relay/Relay.module.php,309be34a512a2a051e6e43bb6da151b9
+All statuses,משפּחה,,site/modules/Relay/Relay.module.php,96e3d398260724e0a83da53a2e9f20e7
+All templates,מעק אַרױס,,site/modules/Relay/Relay.module.php,d4e3a3afd7f0073d8b3967cf2995edc9
+An action fails,קײן אַקציע ענדיקט זיך,,site/modules/Relay/Relay.module.php,c9987dc7822b8c86232ea7dac2a53950
+An action is cancelled,אַרײַנשרײַב־אָרט,,site/modules/Relay/Relay.module.php,d73a22447bf29c5c8b6ec10edb2ddf15
+An action is rescheduled,דורכװײק,,site/modules/Relay/Relay.module.php,de25faabb04cfecc9d35e31628b8fe76
+An action is scheduled,אַ אַקציע איז געפּראָגרעסירט,,site/modules/Relay/Relay.module.php,5c5c92a301f9adb4c09fd18daf4b2830
+An editor can request an editable publication-time and note proposal. Nothing is scheduled and no page is changed automatically.,אַ רעדאַגיר קען זײַן אַ רעדאַגירעװדיקער פֿאָרמאַציע־אױסגעפּראָגרעס און אָנזאָגן. קײן זײַט איז ספּאָזירט און קײן זײַט איז אױטאָמאַטישע פֿאַרװאַנדלט.,,site/modules/Relay/Relay.module.php,bf9d1f92b299ff2027159bb4ad01ee1c
+Any action completes,סעלעקציע,,site/modules/Relay/Relay.module.php,4c1a63ec3b633e25dff8c7c0d954fdf8
+A page is successfully published,האָט אַ זײַטהײַל צו באַהאַנדלען,,site/modules/Relay/Relay.module.php,f4fa1bf941f484b0acd75613e7fde479
+API,API,,site/modules/Relay/Relay.module.php,db974238714ca8de634a7ce1d083a14f
+API access,צוריק (API),,site/modules/Relay/Relay.module.php,333157a2df341277b8e5bf1ac7b9afd0
+API keys and SMTP passwords remain in the selected WireMail provider. Relay sends operational page and job metadata only; a delivery failure never blocks a job state change.,API שליסלעך און SMTP שפּריכעס בלױזט זיך אין דעם סעלעקטירטע WireMail געפֿיכער. Relay האַלטט אָפֿענעם זײַט און אַרבעט־מטטאַטע־מאַמע; אַ געפֿעלן־פֿעללאַך קײן פּראָגראַם־סטאַטוסװירונג בלױז בלאָקירט קײן אַרבעט־סטאַטרעף.,,site/modules/Relay/Relay.module.php,335db0f60c195441bf768ffc9a695a42
+Apply filters,סעלעקציע,,site/modules/Relay/Relay.module.php,79ee641715155ec7d121815215f2b70c
+"A request triggers the check, not the clock","אַ בקשה פֿאַרגיכערט דעם קאָנטראָלירן, ניט דאָס זײגער",,site/modules/Relay/Relay.module.php,8b8b2dee506dea84460e65c8dac45ce2
+A runtime credential is active; the saved token is not used.,אַ קאָנטראָל־קלאַװיש איז אַקטיװ; די אױפֿגעהיטן איז ניט ניצט.,,site/modules/Relay/Relay.module.php,c4956cadc1053597ded6bac69c666e50
+"A session-only demo sandbox. Create, reschedule, cancel, filter, and run test actions without writing schedule jobs or changing pages. Real jobs are hidden and workers are paused while enabled.","אַ בלױז געװײנטלעכע דעמסעפּיכעסל סאַדיק. צײכן, צוריק סערפּינגל, angaאָס, פֿאָרױס, און אַרײַנצושטעלן טסטעוס־אַקציע אָן אַנימאַציע אָן שרײַבן schedule אַרבעטן אָדער ענדערן זײַנען זײַנען. רעכטן אַרבעטן זײַן באַהאַלטן און אַרבעטערס זײַן פֿאָקוסירט בשעת אַקטיװירט.",,site/modules/Relay/Relay.module.php,e021fd243bfab1b74a65440ec0649a84
+Assistance,געהילף,,site/modules/Relay/Relay.module.php,1741ec6ed69cf571adac9eeb641c4f87
+Authentication does not bypass permissions,סעלעקציע:,,site/modules/Relay/Relay.module.php,3105bd97f2e5366f5c658323e62a7d61
+Available,אױסגעלאָשן,,site/modules/Relay/Relay.module.php,78945de8de090e90045d299651a68a9b
+Batch limit,פֿאָרױסװײַז־גרענעץ,,site/modules/Relay/Relay.module.php,c434994f87d80496315aabb424d301ac
+Bearer token,שריפֿט (Bearer),,site/modules/Relay/Relay.module.php,25d95961a44037e555767a429cb7864e
+Bounded filtered job list.,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,d28acff2ebaac2f03b246ad07ab890cb
+Bounded filtered jobs.,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,a63e0c300eda884def8ac90cee995aee
+"Bound execution, retry failed work, and configure the optional traffic-driven fallback.","באַאַרבעטן־באַפֿעל, פֿאָרױס צוערבן אַרבעט, און צופּאַסן די אָפֿציע־ראַפֿריגירט גרונטבאַטרעף",,site/modules/Relay/Relay.module.php,1287ef14325adcd0c658131d23c85733
+Browse pages,נײַע פּאַפּקע,,site/modules/Relay/Relay.module.php,5e0b73696a62c55958548373ca1b8685
+Build a server-ready crontab line from the detected paths and worker limits. This page never installs or executes it.,פֿאָרמיר אַ סערװירער ריכט crontab ליניע פֿון די געפֿונען פּאַפּקעס און אַרבעטער גרענעצן. די זײַנען קײן אינטפּלירט אָדער באַאַרבעטן אים.,,site/modules/Relay/Relay.module.php,c6716b8ef9880688b036ee21e2b24786
+"Build the exact production worker command to review, copy, and install in the server scheduler.","פֿאָרמיר דעם פֿקט פאַראַקציע אַרבעטער קאַמד צו רעזענטירן, קאָפּירן, און אינסטאַלירן אין דער סערװער סעפּינגער.",,site/modules/Relay/Relay.module.php,3dc3e866979d8821bbbaf6c1593d8b46
+Calendar,באַשרײַבונג,,site/modules/Relay/Relay.module.php,8ff922bbcd8ad41cdfc48d3c5163b2ab
+Calendar is clear,באַזײַטיק,,site/modules/Relay/Relay.module.php,97c3f628453fd7631afa4ff83e6cf353
+Calendar range,סעלעקציע,,site/modules/Relay/Relay.module.php,1421ce9923c5e5d1c1b17300282da3d1
+Cancel,רוף אָפּ,,site/modules/Relay/Relay.module.php,ea4788705e6873b424c65e91c2846b19
+Cancel action,רוף אָפּ,,site/modules/Relay/Relay.module.php,1bf87e44da33943a3baad59edd51f4a0
+Cancel a pending action.,רוף אָפּ טעקע,,site/modules/Relay/Relay.module.php,b6d129c814ed58a2a5f019b6dbbf3cb5
+Cancel editing,קלײַב אַלץ אױס,,site/modules/Relay/Relay.module.php,12c110ad1b37cf8db33fa1246ec4143d
+Cancelled,גרײס,,site/modules/Relay/Relay.module.php,a149e85a44aeec9140e92733d9ed694e
+Cancel pending job.,רוף אָפּ אַרבעטן,,site/modules/Relay/Relay.module.php,8bdd42c19fd7e9a544c6f8b007ab0bde
+Cancel this scheduled action?,רוף אָפּ,,site/modules/Relay/Relay.module.php,a5ff052f361c36edf80cdd32fbd0d468
+Cards are grouped by status; open any card for full details and actions.,די קאָפּצעטלעך זײַנען איבער דער מצבֿ; אָפֿן אַלע פּאַליטרע צוליב פֿאָרױסװײַזן מצבֿ און אַקטיװיטעטן,,site/modules/Relay/Relay.module.php,49a239f405913b1094ea1cbab8dce2b7
+Channel and capability manifest.,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,d424fe59c2ccbde6fc73ac9b8d3d9993
+Channels and stable capabilities.,קאַנאַלס און סאַסטראַטן קװאַלאַסן,,site/modules/Relay/Relay.module.php,a0b7a50f9cffaa9bcbe43579ecb44fa0
+Check paths,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,46380281d1978ca571499940ac460734
+"Choose an interface to see what it does, whether it is ready, what it can change, and where to configure it.","קלײַב אַ צובינד צו זענען זי טאָנען, אױב עס רעפֿערט, וואָס זי קען ענדערן, און װוּ צו צופּאַסן זי.",,site/modules/Relay/Relay.module.php,792b6c4ecd8ede98fda36a2d900e5909
+Choose a schedule action first.,סעלעקציע: (schedule),,site/modules/Relay/Relay.module.php,b5ca6bee4a1a4df268843a5ed568baea
+Choose Kanban column,סעלעקציע (Kanban),,site/modules/Relay/Relay.module.php,a75a612ebcfc9a2c29b980d76c23dfc7
+Choose month and year,סעלעקציע,,site/modules/Relay/Relay.module.php,a7175c2ee9b6981892ad0d0cb0770a3c
+Choose one or more page templates. Leave empty to allow every editable non-admin page.,סעלעקציע:,,site/modules/Relay/Relay.module.php,62f53ddacf90ac1a1a282667dd84f6ba
+Choose publish or unpublish.,סעלעקציע,,site/modules/Relay/Relay.module.php,52a5e2ae21b418ac0b637e80b695e59b
+Choose the roles whose users may be selected by someone with relay-run-as permission.,סעלעקציע: (relay-run-as),,site/modules/Relay/Relay.module.php,cc5c4664914c5717b118af4ffbb7b656
+Choose timeline date,קלײַב אַלץ אױס,,site/modules/Relay/Relay.module.php,58c26170f40ee134863a4e2265318259
+Choose up to eight scalar fields. Only these bounded values are included after an editor requests a proposal. Use title alone for the smallest disclosure.,קלײַב אױס צו אַקט סקאַליר פֿעלערן. בלױז די גאַנצט באַטרעפֿן זײַן כּולל נאָך אַ רעדאַגיר בקשה אַ פֿאָקוס. ניצן טיטל בלױז פֿאַר דער קלענסטער דעמאָנסטרירונג.,,site/modules/Relay/Relay.module.php,9caa28121a764be018236b2647157e0b
+"Choose what should happen to the page, when it should happen, and who should perform it.","קלײַב וואָס מוזן טרעפֿן צו די זײַט, ווי עס זאָל טאָן, און וואָס זי אַרבעטן.",,site/modules/Relay/Relay.module.php,03029f0acc3df7ea5b91d1fcf3694bd7
+Choose which pages and editorial identities Relay may operate on.,קלײַב ווי זײַנען און רעדאַגירע אינטעראַציע Relay טאָר אַרבעטן אױף.,,site/modules/Relay/Relay.module.php,6b448a4ff5e5058375e4118a2718db83
+Clear all demo actions from this session?,באַהאַלט אַלע־דאַמעקס פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,0afe20513d4c6a3d9f609d4983d57823
+Clear demo data,באַזײַטיק דאַטן,,site/modules/Relay/Relay.module.php,a13c9b268dc6b84aa629f0d3974fb7a6
+Clear filter,סעלעקציע,,site/modules/Relay/Relay.module.php,f53b6f6ba5a4c2c190041fe59d8926a0
+Clear filters,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,0b275442d6556cff30b75f37f1918899
+CLI,CLI,,site/modules/Relay/Relay.module.php,91af5705f16502125e8b2187e64202c0
+CLI + LazyCron,CLI + LazyCron,,site/modules/Relay/Relay.module.php,29cf269ee8cf09d63ec883b3f88f9b1b
+CLI worker,CLI אַרבעטער,,site/modules/Relay/Relay.module.php,0450b38d94a0f09d42a2e35a093d82ac
+Close details,פּונקטן,,site/modules/Relay/Relay.module.php,d1a5096b0b613e40eea77aa1dd350342
+Comma-separated administrator addresses.,געװײנטלעכע מולטער צעלן צוליב אױפֿשפּרינג־addresserס,,site/modules/Relay/Relay.module.php,83feeffce6708ac3652653cce1ef4372
+Command,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,ee97be03cb04119af45014d815621ce1
+Command-line access,באַפֿעל־ליניע צוריק,,site/modules/Relay/Relay.module.php,1ae7429170bfbb819a1fafac758dbaff
+Commands,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,c441ee50c88f6e5e3a7c69fc69dad8b8
+Compare pages across a two-week planning board and spot competing publication changes.,גלייַן זינגן צוריק אַ צװײ-וועכט פּאָנגלאַך קולד און שטאַק פוליאַציע ענדערונגען.,,site/modules/Relay/Relay.module.php,36416f7fba3b68afaa8caf609a6b402d
+"Compare three months at a glance, then select any date to inspect it in detail.","גלייַן דריי מענטשן צו אַ וויז, און קלײַב לעבן אַלע טאָג צו זי זי אין פּייַזן.",,site/modules/Relay/Relay.module.php,44fb40bb578f67863cc572f8ccc6837f
+Completed,ענדיקט זיך,,site/modules/Relay/Relay.module.php,07ca5050e697392c9ed47e6453f1453f
+Completed action,אָנזאָג אָפּרוקונג,,site/modules/Relay/Relay.module.php,bded5a028477d97fee35867fc5306474
+Configuration snapshot,צופּאַס־עקראַן,,site/modules/Relay/Relay.module.php,a0723ddce45680734891027186cc3da4
+Configured,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,61aa63eb3ac1c3408640463ee5fe8aa3
+"Configure editorial defaults, module boundaries, and worker safety. Planning tools remain in the Relay workspace.","צופּאַס רעדאַגרי־דאַפֿן, מאָדול־ראַנדן, און אַרבעט־סאָרט. פּנאַזינגן־פּראָגראַמן בליבן אין דער Relay שטחה.",,site/modules/Relay/Relay.module.php,840ee1e2378e3ae14ab5a2612a6cb829
+Connect a trusted application with a ProcessWire session or one scoped Bearer token. Every request still acts as the assigned user.,קײנען אַ פֿאָקוס־פּראָגראַם מיט אַ ProcessWire ער אײן אַפּליקירט Bearer דאָקומענט. פּראָגראַם אײַנגעפֿריסטט אױף דער געבירטער ניצער.,,site/modules/Relay/Relay.module.php,832dbb4732956012611aaa8902c9020d
+Connected,צי איבער,,site/modules/Relay/Relay.module.php,2ec0d16e4ca169baedb9b2d50ec5c6d7
+Connect trusted internal tools through the PHP API or REST while keeping ProcessWire permissions in control.,צוצובינדן צוטפֿינערלעכע אינערלעכן מער דער PHP API אָדער REST בשעת מען האַלט ProcessWire דערלױבענטן אין קאָנטראָל.,,site/modules/Relay/Relay.module.php,c68fa890692512c3064dfde4ea5e0374
+"Controls the weekday order and range boundaries in month, week, quarter, and timeline views.","קאָנטראָלירט דעם וועכעסלעך־סאָרט און גאַמע־ראַנדן אין מאש, וויקע, שורט, און צײַט־צײַט.",,site/modules/Relay/Relay.module.php,a35093bd21860077027b3bed0a40b3b2
+Copied,קאָפּיר,,site/modules/Relay/Relay.module.php,a588b1abc58b8b758c4b34b69b9e10bb
+Copy failed,עפֿן טעקע,,site/modules/Relay/Relay.module.php,5496a81d145ee0c172e6c616cabbf89c
+Copy line,קלעפּ,,site/modules/Relay/Relay.module.php,1b318b7364fe667573f0b08a40bf3504
+Copy now,קלעפּ,,site/modules/Relay/Relay.module.php,68b3e342561fc3fd7a4b776bce7b32de
+Copy publication URL,קאָפּיר,,site/modules/Relay/Relay.module.php,de31ad66e8f4c571db77ca043fc64151
+Could not copy the publication URL.,ניט געקענט איבערמאַכן טעקע־נאָמען,,site/modules/Relay/Relay.module.php,7de6cdd0cea64636b71bb7daf2eb4330
+Create a bot with @BotFather. TeleWire module settings are not used; Relay owns this credential and a private runtime override takes precedence.,צײכן אַ בלאָט מיט @BotFather. TeleWire מאָדול־פּינטלעך זײַנען ניט גענוצט; Relay איז מײנט די קענדציע און אַ פּריװטיק אינטערגרונט אונטערשטריך איז פֿאָרױס.,,site/modules/Relay/Relay.module.php,1e104bb8cac50f1203e2b0082cc35378
+Create action/window from JSON.,סעלעקציע (JSON),,site/modules/Relay/Relay.module.php,e809c38a148988d6868a2e26132820d3
+Create an action or publication window.,נײַע פּאַפּקע,,site/modules/Relay/Relay.module.php,6724697fdf125552ad446dbd15a9006b
+Credential boundary,צענטער,,site/modules/Relay/Relay.module.php,0068e8594ce82519d038f615bd036630
+Credentials,דורכװײק,,site/modules/Relay/Relay.module.php,2daf1cb573c2c61422faf64610cf9402
+Credentials remain encrypted in Squad. Leave blank to use its active default provider and model.,דורכװײקלעך װי אײן לױפֿער לאָזט זיך קאָדירט אין Squad. לאָזט בלױז צו ניצן זײַנע אַקטיװע געװײנטלעכע געװײנטלעכע פּראָגרעס און מאָדעל.,,site/modules/Relay/Relay.module.php,4fe66c555255afc3d6071252d53ae094
+Cron paths may contain only ordinary path characters and must not contain line breaks.,Cron פּאַפּקעס קען זײַן בלױז נאָרמאַלע פּאַפּקע־רשימה שריפֿטצײכנס אָדער מוזן ניט כּולל ליניע־פּאַראַקטערס,,site/modules/Relay/Relay.module.php,e18eb6890a7d414858d490f91d52ed60
+Crontab,Crontab,,site/modules/Relay/Relay.module.php,7ac05e39c9ac2dca8d85eb369276b5f9
+Crontab command builder,Crontab באַפֿעל צובינדער,,site/modules/Relay/Relay.module.php,436b64e2d82ccd300bdd7083fcb96bb7
+Crontab interval,Crontab פֿאַרװאַנדלונג:,,site/modules/Relay/Relay.module.php,413239b7ad45b126284d48d2d302a307
+Crontab log path,קאָנטראָלירונג (Crontab),,site/modules/Relay/Relay.module.php,2a0e6f286d79fee4d193ded7d101565a
+Crontab PHP binary,Crontab PHP בייַנע,,site/modules/Relay/Relay.module.php,298c1b65b0849b7b8d4608bdeb172f14
+Current runtime,איצטיקע α,,site/modules/Relay/Relay.module.php,1ff985a7372fb2007f693065be4ec93f
+Current state,הײך:,,site/modules/Relay/Relay.module.php,48358648336d501e2336d5360a559533
+Date,טאָג,,site/modules/Relay/Relay.module.php,44749712dbec183e983dcd78a7736c41
+Date and time,טאָג,,site/modules/Relay/Relay.module.php,2b0b7c9cbd6d6e9fa6b99aa06e828673
+Dates are entered in this timezone and stored as UTC. Existing jobs retain their timezone snapshot.,טאָפֿענישן אַרײַנשרײַבן אין דעם צײַטזײַל־זײַט און היט זיך װי UTC. עקראַן אַרבעטן קאָנטראָלירט זײַן צײַטזײַל־ספּאַסטעקט.,,site/modules/Relay/Relay.module.php,ef3b9053e482cbbbcb81b70404c333b8
+Default planning view,געװײנטלעכע אָפּרוקונג,,site/modules/Relay/Relay.module.php,7bfd5d7d9aa3cd647746fdd0b268ea2d
+Default scheduling time,געװײנטלעכע אָפּרוקונג,,site/modules/Relay/Relay.module.php,5139b5fa243889383ebcf2eb4e4b6ff3
+Defaults editors see when they plan and review publication changes.,געװײנטלעכע רעדאַגירער זײַנען װען זײַן פּאָזיציע און זײַן בשעת ענדערונגען,,site/modules/Relay/Relay.module.php,866a71238cd697abfcdfe659271e4924
+Default time %s,געװײנטלעכע צײַט %s,,site/modules/Relay/Relay.module.php,39d05a37d73e961af3d143549681cbf4
+Default workspace,געװײנטלעכע סעקונדעס,,site/modules/Relay/Relay.module.php,200b2afc357800a45e6f94aff0e41378
+Delivery,באַהאַנדלונג,,site/modules/Relay/Relay.module.php,065ab3a28ca4f16f55f103adc7d0226f
+Demo: action currently being processed,דאָזיק: קנעפּל צוטײלן די איצטיקע אױסקלײַבער,,site/modules/Relay/Relay.module.php,4e977e78254673a0518e9506f0e3b26e
+Demo: afternoon editorial release,דאָמפּ: מצההין רעדאַגליע פֿליגונג,,site/modules/Relay/Relay.module.php,53a7d9e119530324a72233463166c2a1
+Demo: article published successfully,דעמפּיוטער: סטיל,,site/modules/Relay/Relay.module.php,c219f7ee8f274c285b2fda9764660d1a
+Demo: campaign closed on schedule,דאָמפּא: קאמפֿאלינג צומאַך אין schedule,,site/modules/Relay/Relay.module.php,37bb96a328e8c40cffcd48749cf3b0c7
+Demo: campaign closing action,דאמפּאָזיציע: קאמפֿאניסטע צומאַך,,site/modules/Relay/Relay.module.php,f066f0c72cf4115df0e3d170591f9e17
+Demo: campaign landing page,דאמפּ: קאמפנים אינפֿליפֿינגער זײַט,,site/modules/Relay/Relay.module.php,8e385810eed22833bdc5e78b324ec556
+Demo: cancelled weekend release,דאָמפּאָזיציע: פֿאַרצײַכענונג די וועכסאנפֿענצטער,,site/modules/Relay/Relay.module.php,16d5392b56592788fe2acee7e9baf7e0
+Demo: due action for testing the worker,דאָמפּאָזיציע: מײַזל אַקציע צו סטרוקן דעם אַרבעטער,,site/modules/Relay/Relay.module.php,0abcb64269c52b16d25131c1d6ffab99
+Demo: duplicate launch cancelled,דאָקומענט: צוגעבער אָנצופֿלאָגן,,site/modules/Relay/Relay.module.php,382ba1f1057626ca2237b4bfa2705463
+Demo: early campaign publication completed,דאָמפּא: פון פֿעלערן פון פֿעלערן,,site/modules/Relay/Relay.module.php,e3d5f3a32b5421ced92d87f5ffbeceac
+Demo: editorial launch was cancelled,דאָמפּאָזיציע: האָט זיך באַאַרבעטן רעדאַגיר־אַרײַנצופֿעלן,,site/modules/Relay/Relay.module.php,a01270e1dbfc1e2769918d75edf321c9
+Demo: evening feature release,דאָמפּו: טייַן פֿעלערטלאַזי,,site/modules/Relay/Relay.module.php,567f1fb2c94383e790f3418e142baf74
+Demo: evening launch cancelled,דאָמפּאָזיציע: די סיכער אָנצופֿעלן אָפּרוקט זיך,,site/modules/Relay/Relay.module.php,01fc1bca507f5108d78708c516c816b4
+Demo: expired publication removed,דאָזיק: פֿאָרױסװײַז צוגעלאָשן,,site/modules/Relay/Relay.module.php,b763e6b4f53c3fd7a9de4f47a0c2114e
+Demo: failed action ready for review,דאָמפּאָזיציע: דורכפֿאַל אין עפֿענען קאָפּצעטל װוּ רעקאָמענט,,site/modules/Relay/Relay.module.php,5859cace48df8a80fd1e50d0a44db568
+Demo: fortnight editorial milestone,דאמפון: פארנאַכט רעדאַגליטריקטור מילג,,site/modules/Relay/Relay.module.php,628d6aee4011ccee88dc1bf6b6c6a870
+Demo: future content retirement,דאָמפּ: צוקונפֿטיק אינהאַלט ריינגירט,,site/modules/Relay/Relay.module.php,bdc873844e059ddcae9990287bc292bd
+Demo: knowledge-base update,דאָמפּאָזיציע: דערהײַנטיקן קלײַב־ביזע,,site/modules/Relay/Relay.module.php,c48930a7b7c6f8ff23ff055391d425ac
+Demo: late editorial release,דאָמפּ: פֿעלערט רעדאַגרישע־פּליטש,,site/modules/Relay/Relay.module.php,b791b6bcfd612979c4687115f84eb08e
+Demo: long-range publication plan,דאָמפּאָזיציע: הײב־פּולקציע פּראָגראַם,,site/modules/Relay/Relay.module.php,400ab62682aa49552e4380713ad93e0a
+Demo: midday failure awaiting review,דאָמפּ: טהייגן פֿעלפֿן אין דער וואסן רעזענטירונג,,site/modules/Relay/Relay.module.php,89c5dec77182b2aa09c797b388425c12
+Demo: morning product announcement,דאָמפּ: ברינגן ענדיקן ענדיק,,site/modules/Relay/Relay.module.php,cfc62a32cc355880439d5fdef545d001
+Demo: morning publication completed,דאָמפּאָזיציע: ברײט־פּולאַקציע איז געפֿענט,,site/modules/Relay/Relay.module.php,2e8dff2e51605dbdeab759499467499c
+Demo: next-month opening slot,דאָמפּאָזיציע: דערהײב־מעניו־אױפֿן אַרײַנשרײַב שורות,,site/modules/Relay/Relay.module.php,a878e7698bf4faedb78c19170b1cf719
+Demo: next-month preview release,דאָקומענט: בלעטער־מענסיטער פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,af1bd2075439d8df12b07e11bf05d1b9
+Demo: older unpublication plan was replaced,דאָמפּאָזיציע: האט געלײגט ער איר אונטער־פּליטיקאַציע פּלאַזין,,site/modules/Relay/Relay.module.php,34c8d916e9e146e6fb5fc3dd901b44a8
+Demo: partner announcement,דאָמפּו: פֿאָרמיר־באַפֿעלן,,site/modules/Relay/Relay.module.php,b2a018fc7c3d19dcdf4d0695c724acc6
+Demo: planned unpublication,דאָמפּאָזיציע: געפֿינט זיך אונטער־פּליטיקאַציע,,site/modules/Relay/Relay.module.php,e7d5b5bc493fabbe51504d69e0f43ca6
+Demo: primary publication slot,דאָמפּאָזיציע: פֿאָרױסװײַז־שטח,,site/modules/Relay/Relay.module.php,4483db70aab9eca19c24e99fcbad5e9d
+Demo: publication failed after retries,דאָמפּאָזיציע: פֿאָרמירונג איז דורכגעפֿאַלן נאָך צוריקװירונגען,,site/modules/Relay/Relay.module.php,6f60e14c8fd741c66345e49096581f4c
+Demo: quarterly archive plan,דעמאָנס: קװװירערער־ארכטײל פּלגל,,site/modules/Relay/Relay.module.php,97590c824e1a54db97e0e72240d1c493
+Demo: queued editorial processing,דאָמפּאָזיציע: קאירטירטע רעדאַגיר־פּראָגראַם,,site/modules/Relay/Relay.module.php,ece98969aa73936c424d7448d63bacb3
+Demo: replaced end-of-day plan,דאָמפּו: געלײגט אַ סוף פֿון טאָג־פּלאַנג,,site/modules/Relay/Relay.module.php,2679b07e8c9e4e61109af074c6186e6e
+Demo: scheduled release completed,דאָמפּאָזיציע: סעקונדירט פֿאָרױסװײַזן,,site/modules/Relay/Relay.module.php,ec72c83754784238e397d3339ae104d9
+Demo: short-lived notice expiry,דאָמפּאָזיציע: קײַר-לינגער אױפֿשפּרינג,,site/modules/Relay/Relay.module.php,fb8069cd90115c02ca5e02390962d2e2
+Demo: temporary page expiry,דעמאָנס: צײַטװײַליקע זײַט,,site/modules/Relay/Relay.module.php,777528530b00495f5bbffd74c0bb0d22
+Demo: timed content expiry,דעמאָנס: דורכגעפֿאַלן אינהאַלט,,site/modules/Relay/Relay.module.php,0609257a5b1203389dca701490616329
+Demo: weekend publication,דאָמפּאָזיציע: וואָס־סופֿינג פּאָליטירונג,,site/modules/Relay/Relay.module.php,772e6de1d5d877a83cf5234d6d45d09a
+Demo: weekly editorial opening,דאָמפּ: וואָסיקע רעדאַגירע־עפֿן,,site/modules/Relay/Relay.module.php,517174a2ddde8d07dd50a71b3156a195
+Demo action cancelled. No real data was changed.,דאָזיק־אַקציע איבעריקט. קײן צוריקװעגירטן דאַטן.,,site/modules/Relay/Relay.module.php,9a3da0c5f659e2d591b558084f562a16
+Demo action created. No real data was added.,דאָמפֿאָרמאַציע געשאַפֿטט. קײן מאָדנע דאַטן ניט געלײגט.,,site/modules/Relay/Relay.module.php,84aa0e76a7be503b5914d4aaad23b893
+Demo actions,דעמפּאַסע אַקצימאַציע,,site/modules/Relay/Relay.module.php,dc058d439f9787fa13ea7d0189fc9a67
+Demo action updated. No real data was changed.,דאָזיק אַקציע דערהײַנטיקט. קײן צוריק דאַטן ניט געענדיקט.,,site/modules/Relay/Relay.module.php,5e788eab456f5d2537002e54d9028edd
+Demo failure: retry limit reached,דאָקומענט־צופֿעלן: דער פֿרונט צו־רעזענטן,,site/modules/Relay/Relay.module.php,1b648a384fab436f6371cbb50fed1432
+Demo publication window created. No real data was added.,געשאַרט אַדאָג־פּאָגלאַציע פֿענצטער. קײן מאָדנע דאַטן ניט געלײגט.,,site/modules/Relay/Relay.module.php,fe51125b66789ffd624b0fcb116cd4e4
+Demo sandbox cleared.,דומזע מעניו־װירע מעק אַרױסשרײַבט,,site/modules/Relay/Relay.module.php,0f4bc421a79c379c6088bfc9da36d518
+Disabled,אױסגעלאָשן,,site/modules/Relay/Relay.module.php,b9f5c797ebbf55adccdd8539a65a0241
+Disable this option to return to the real schedule. Imitation data can be cleared from the Relay workspace.,אָנצוהײבן די אָפּציעס צו פֿאַרװאַנדלן צו דעם נױטיקן schedule. די אינפֿאָרמאַציע דאַטן מען בלױז קלײַבן אױף דעם שטח פֿאַרב־װײַזער Relay,,site/modules/Relay/Relay.module.php,44d4af7a081e376050300527f4ccf823
+Dismiss notification,סעלעקציע,,site/modules/Relay/Relay.module.php,f60fdb90ef3ee39faa9ae1dcf41b99bc
+Drag selected fields into priority order; only fields present on the requested page are sent.,שלעפּ סעלעקטירטע פֿאָרױסװײַז אין אױפֿריִיִקער סאָרט; בלױז פֿאָרױס צוגעגעבענע זײַט איז זײַן סאָרט,,site/modules/Relay/Relay.module.php,75cd4af5e243ca9b7097e3efb57820eb
+"Drag this pending action to another date, or open it for exact rescheduling.","שלעפּ דאָס פֿעלפֿעריר־קנעפּל צו אַנדער טאָג, אָדער אָפֿן זי צו פֿריִער צו דערהײַנטיקן",,site/modules/Relay/Relay.module.php,6c838aa8af183942b8654bc03625178e
+Edit,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,7dce122004969d56ae2e0245cb754d35
+Editorial identity,סעלעקציע,,site/modules/Relay/Relay.module.php,e439c9c6d21a35df29cc1f53267b38ef
+Editorial identity roles,סעלעקציע,,site/modules/Relay/Relay.module.php,d61b0692a07d7f1642dc1884b7d65530
+Editorial planning,סעלעקציע,,site/modules/Relay/Relay.module.php,e58d817da46eec7830b8d99de903ca60
+Editorial planning assistance,סעלעקציע,,site/modules/Relay/Relay.module.php,811e14b0c4ed2ee9fd897d35100089dc
+Editorial timezone,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,ad7793c2d4edb026f49afee8542b6620
+"Editors can explicitly request a draft publication time and note. Squad never creates, changes, or executes a schedule job.","דירעפֿערן קען פּאַפּקע אַ אַנדער־טאָג און אַ טאָמאַטירונג. Squad קײן ניצט זײַן, ענדערונגען, אָדער באַאַרבעטן אַ schedule אַרבעט.",,site/modules/Relay/Relay.module.php,be5bd4d8f894e2fc2b7e3b7b4b09752d
+Editors with relay-manage can move pending actions between calendar dates. The original local time is preserved and permissions are checked again on drop.,די קאָפּצעטלעך מיט relay-manage מען קען באַװעגן פֿעלעקטן צװישן קאָנטראָל טאָגן. די אָריִאַלאָג־אָלגער צײַט איז פֿאַרװאַנדלט און דערלױבענישן צוריק אױף דער געװײנטלעכער שריפֿט.,,site/modules/Relay/Relay.module.php,707dbc0e342d941c54ee8a2a45e8412f
+Edit page,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,3fa4031425bbfdb55a03849422d8d9dc
+Edit settings,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,54a029420d74c0dff69239155cf510b5
+Email,מאָדע,,site/modules/Relay/Relay.module.php,ce8ae9da5b7cd6c3df2929543a9af92d
+Email delivery,טאַבעלע אָפּרוקונג,,site/modules/Relay/Relay.module.php,d359a149116a34dbb0a901aa8c337c4c
+Email notifications,אָנזאָג־אָנזאָגן,,site/modules/Relay/Relay.module.php,a67ce68ccac082ad54a552bdbcb6ecd7
+Email recipients,טאַבעלע באַקומטירער,,site/modules/Relay/Relay.module.php,f5faf8c2381b3d9154eb5f5dd691f283
+Enabled,אַקטיװ,,site/modules/Relay/Relay.module.php,00d23a76e43b46dae9ec7aa9dcbebb32
+Enable drag-and-drop rescheduling,דערמעגלעך שלעפּן און טראָפּירן צוצוגעבער,,site/modules/Relay/Relay.module.php,de3d3578ddd25bffda96bf156db01bf3
+Enabled — workers paused,אַקטיװירט — אַרבעטן,,site/modules/Relay/Relay.module.php,3256a4eb4f44a634d22d59a68ba3f48d
+Enable imitation mode,דערמעגלעך אױפֿשפּרינג־מאָדע,,site/modules/Relay/Relay.module.php,24b73324071c5dfbb0e305ce0206866e
+Enable LazyCron fallback,דערמעגלעך LazyCron גרונטבאַקט,,site/modules/Relay/Relay.module.php,106a7d734be466cb4eb1286c0db300a3
+Enable local JSON interface CLI,דערמעגלעך לאָקאַלע צובינד JSON CLI,,site/modules/Relay/Relay.module.php,7793def117fcb0eb807953482ecc3d0f
+Enable operational email notifications,דערמעגלעך אָפֿאָקוסירטן אָנזאָג־אָננעמען,,site/modules/Relay/Relay.module.php,4bea2ffacb2de7eb3fce6499b0eda9ec
+Enable or pause the every-minute fallback and set its bounded batch size.,דערמעגלעך אָדער האַלט די אַלע מעניו גרונטבאַטרעף אָדער באַשטעטיקן זײַנע גרעסטע גרײס,,site/modules/Relay/Relay.module.php,ca52ee9554bac5b7dd4c0d3e6e463a0d
+Enable permission-gated PHP API,דערמעגלעך דערלױבער אױפֿגעפֿאַלן PHP API,,site/modules/Relay/Relay.module.php,3bdac8c3a13162887c083f74520a6ea0
+Enables bin/relay-interface. Mutations require --execute. The production worker bin/relay.php remains independent.,דערמעגלעך bin/relay-interface. מטטאציעס געפֿינט --execute. דער אַרבעט־אַרבעטער bin/relay.php מוזן אויפֿעלט.,,site/modules/Relay/Relay.module.php,172e32e49e129e75af69a597d99dfe23
+Enable Squad planning proposals,דערמעגלעך אַפּליקיר אַנימאַציע (Squad),,site/modules/Relay/Relay.module.php,42c93340016391831d130f75b7cefac5
+Enable Telegram administrator notifications,דערמעגלעך Telegram אַנימאַציע־קלאַװישן קאָפּצעטלעך,,site/modules/Relay/Relay.module.php,89ac77e9a3dc9c1f4dc60866931a1a19
+Enable template filtering and sorting,סעלעקציע,,site/modules/Relay/Relay.module.php,b3bdbdea4bd2dd92725bc5f4c3430130
+Enable versioned JSON REST API,דערמעגלעך װײַזער JSON REST API,,site/modules/Relay/Relay.module.php,e256b106ec9f9f22f30ca9baab8e0c77
+Event move cancelled.,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,91e1342594826d2f3f00b8eabcab926f
+Events,טרעפֿענישן,,site/modules/Relay/Relay.module.php,87f9f735a1d36793ceaecd4e47124b63
+Every %d minute,עפֿן טעקע (%d),,site/modules/Relay/Relay.module.php,157ec7e34382181c1058341d45a28e43
+Every %d minutes,פּונקטן (%d),,site/modules/Relay/Relay.module.php,1158687b6e1022c76fd594985a098e3c
+Executable,אויספֿירבאַר,,site/modules/Relay/Relay.module.php,38492e6b60e40c59a376e2151778e2c7
+Execution,סעלעקציע,,site/modules/Relay/Relay.module.php,8f44785c8c19412c5b6611db30984514
+Execution boundary,באַאַרבעטן צאַמרינע,,site/modules/Relay/Relay.module.php,51df7f1559f4fbd296dfe38ee563d54c
+"Expose Relay only through explicit, independently enabled API, CLI, email, and Telegram channels.","מעק אַרױס Relay בלױז דורך פּליפּיטישע, אינפֿאַליז אַקטיװירט API, CLI, מייד, און Telegram קאַנאַלן.",,site/modules/Relay/Relay.module.php,9dd22c58984eec93da8fde0494aa42d7
+Failed,טראַכּרון,,site/modules/Relay/Relay.module.php,d7c8c85bf79bbe1b7188497c32c3b0ca
+Failed action,דורכפֿאַל אין עפֿענען TIFF בילד,,site/modules/Relay/Relay.module.php,662cd226c08fafcf8b4f965552624506
+Failed jobs need attention,דורכפֿאַל אין אַרבעטן דורכגעפֿאַלן,,site/modules/Relay/Relay.module.php,a1c2d57aa9f8db4ba9d478c64c57c7b1
+Fallback,ניץ פֿאַרצײַכענונג,,site/modules/Relay/Relay.module.php,882277bdf25efaeb8295e842ebcb3d11
+First day of the week,װאָז־טאָג פֿון דעם סוף,,site/modules/Relay/Relay.module.php,6a4bb3d78eae10076729e0a34d8a9bc6
+Focus on the immediate publishing window without losing action status and ownership.,פֿאָקוס אױף דער קאַנאַל פּאָזיציע־סאָרטירונג־סאָרט אָן אַקטיװיטעט און פּאָזיציע.,,site/modules/Relay/Relay.module.php,c0ae0b20995ff568f22be3f233ac6780
+Future changes,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,dccd1fc1b7511b0993d6c5601d8cc8f6
+Generated crontab line,פֿאָרױסװײַז (crontab),,site/modules/Relay/Relay.module.php,6d49833d3be123d974723812cc883631
+Generate one scoped token for an eligible ProcessWire actor. Rotation invalidates the previous token immediately.,נײַע פּאַפּקע אַן אינפֿאָרמאַטירטע דאָקענע פֿאַר אַן אָלטיװירן אַקטיװער ProcessWire. דער ראָטירונג אומלעקסיקט דעם פֿריִער־ביטאָל אױף אױף כּפּרות.,,site/modules/Relay/Relay.module.php,b3bd0cf5e92005a5a280e61572e36ab9
+Generate token,סעלעקציע,,site/modules/Relay/Relay.module.php,2d171048040ef7ea557988caa0812bf3
+Grouped by template; actions inside each template stay in date and time order.,סעלעקציע,,site/modules/Relay/Relay.module.php,c6bdd1ee6744c0d8c508beae22506ef5
+Highlight Saturdays and Sundays,הײך,,site/modules/Relay/Relay.module.php,5e69b54c3f595a4538ca6332fdfc394b
+Hook,קאָפּ,,site/modules/Relay/Relay.module.php,b9b371458ab7c314f88b81c553f6ce51
+Imitation mode,דורכװײק,,site/modules/Relay/Relay.module.php,e49ea13b6b7d1e7986b0b673e50d2e6a
+Imitation mode is active,דאָס קאָפּ־מדרגה צעפּיכעסל איז אַקטיװ,,site/modules/Relay/Relay.module.php,cd10da6ada8f971f2ccb20212441b5fe
+Imitation mode is active. All workers remain paused until it is disabled.,די אינפֿאָרמאַציע־מאָדע איז אַקטיװ. אַלע אַרבעטערס האַלט זיך האַלט געהילט זיך בשעת זי איז פֿאַרקערט.,,site/modules/Relay/Relay.module.php,ce7f4690cdb1bde226ad1e65a0ca7ff2
+Imitation mode is not enabled.,דאָס בילדל ניט געפֿונען,,site/modules/Relay/Relay.module.php,1c594cab0cc5d4a93ba7c2f22312b715
+Imitation mode · Empty,סעלעקציע,,site/modules/Relay/Relay.module.php,9a55c7c8a6199466be3e92737d2ffd36
+Imitation sandbox,סעלעקציע,,site/modules/Relay/Relay.module.php,32fdfe79a9795a093f89f2cf94a3c501
+Inactive,ניט־ניט באַקאַנט,,site/modules/Relay/Relay.module.php,3cab03c00dbd11bc3569afa0748013f0
+Inspect schedule data from the server shell. Commands that change data run only when --execute is supplied explicitly.,זיכערן schedule דאַטן פֿון דעם סערװירער האַלב. באַפֿעלן װאָס ענדערן דאַטן אַרײַנצושטעלן בלױז װען --execute איז געפֿינט פֿאָרמירט פּילקעדיק.,,site/modules/Relay/Relay.module.php,7df86ea815079226f0c495188750143c
+Installed,אינסטאַלירטע,,site/modules/Relay/Relay.module.php,98dd43dfae05b11befe1f140e0ec787a
+Install or update TeleWire 1.0.2 before enabling Telegram delivery.,אינטאַלליר אָדער דערהײַנטיק TeleWire 1.0.2 אײדער אָנצואָבירט Telegram צולײגן,,site/modules/Relay/Relay.module.php,3351985839729c8df5d2d82d9a27a734
+Install Squad and configure an active provider key before enabling planning assistance.,אינטאַלל Squad און צופּאַסן אַ אַקטיװ געפֿינגער־קלאַװיש אײדער אָנצובינדן אַפּליקירן פּראָגראַך,,site/modules/Relay/Relay.module.php,2922e4e68f2a4db397c7f04f566b2045
+Install the ProcessWire LazyCron module before enabling the fallback.,אינטאַלליר דעם ProcessWire מאָדול LazyCron אײדער דער גרונטבאַטרעף קײן אַרײַנצוגעבן,,site/modules/Relay/Relay.module.php,4112d9917c9abf8290c7c7a716f0481d
+Integration,איכאַלירונג,,site/modules/Relay/Relay.module.php,1115b855bb2a508bc2ca0609cc2d0f65
+Interface CLI,צובינד CLI,,site/modules/Relay/Relay.module.php,4a4d79b6ea4d61e67ecb97d0574c7a37
+Interfaces,קלעפּ,,site/modules/Relay/Relay.module.php,756640f0aea5f5bea1cbe250a9d08989
+Internal note,אינערלעכע פּונקטן,,site/modules/Relay/Relay.module.php,08643daceac5930a01274e8e41de11b3
+Interval,צײַט,,site/modules/Relay/Relay.module.php,d16dd01adf735ed9b87eebff5fc39ce5
+Job,הײב,,site/modules/Relay/Relay.module.php,cf51066f49e517f274b8173cc265c60b
+Job totals by status.,שריפֿט סעלעקטירונג,,site/modules/Relay/Relay.module.php,dd221ff89b3a59a63d0e27a8de45ce07
+Kanban,Kanban,,site/modules/Relay/Relay.module.php,39b32dd45982038aa5704ca2728334ee
+Keep plans within a deliberate time range and reject accidental far-future dates. Choose 1–20 years.,האַלטן פּלאנן אין אַ וועגלאָד זייַן גאַמע און רעלאזן פאַרפֿאַרפֿער טאָמפֿן. קלײַב 1-20 יאר.,,site/modules/Relay/Relay.module.php,04eb067bbaefa7a4d7146998be7c1f66
+LazyCron,LazyCron,,site/modules/Relay/Relay.module.php,30d7a80090e845f560b7784238e85969
+LazyCron configuration,LazyCron צופּאַסונג,,site/modules/Relay/Relay.module.php,4cdafc253d9d807533e365465062d98a
+LazyCron fallback,LazyCron גרונטבאַקט,,site/modules/Relay/Relay.module.php,c7a86287d25be0c5760532c8788231ab
+LazyCron module,מאָדע (LazyCron),,site/modules/Relay/Relay.module.php,b4ad066173e7adbff3a86a8c55f8ac29
+Let an editor request an editable timing and note suggestion without scheduling or changing the page automatically.,לאָזט אַ רעדאַגיר בקשה אַן צורעדאַגיר־בלױזן צײַט און אָנזאָג־ספּאָזיציע אָן אַטאָמאַטישע צו ענדערן דעם זײַט.,,site/modules/Relay/Relay.module.php,e58a884e8d5501418d957557e3b6f34a
+Load demo data,אַרײַנשטעלן דאַטן,,site/modules/Relay/Relay.module.php,efa922b4fc033e3663ba85d6e1fe21b1
+"Load the dense demo dataset to test calendars, filters, drag-and-drop, popovers, and worker behavior.","אַרײַנצושטעלן די טענע דאַטן סימן צו טסטן קאַלאַלער, פֿיטערס, שלעפּן און דראָקן, פופופערס, און אַרבעטער פֿעלער.",,site/modules/Relay/Relay.module.php,232a41cb2fee127ed68c4c339000f97c
+Local command interface,לאָקאַלע באַפֿעל צובינד,,site/modules/Relay/Relay.module.php,0d7995182e070137ea07a8db7e3a07db
+Local command line,לאָקאַלע פֿאַפֿעל ליניע,,site/modules/Relay/Relay.module.php,5d7396f39b94d305ebae8c1b8b950893
+Log file,מאַשין־נאָמען,,site/modules/Relay/Relay.module.php,46b3eff0289269c9569c3801c3a158d4
+Log path,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,18d84cc78011f06226f5bf0e008c971a
+"Low traffic, full-page caches, or downtime can delay publication because LazyCron runs only after ProcessWire serves a request. Use system crontab when publication time matters.","לאַנג צוריק, פֿלינגער־זײַל־צאַפּיכעסל, אָדער געדױערטורן קען געדרוקן פֿאָקוסירונג װוּ LazyCron אַרײַנצושטעלט בלױז נאָך ProcessWire שטעלט א בקשה. ניצן סיסטעם crontab בשעת פּאָזיציע־טרעפֿענישן.",,site/modules/Relay/Relay.module.php,ebf34db04b06669a0bece9fbc4e70562
+Manual page status remains in effect.,די אינטעראַמעקט זײַט־סטאַטוס װי אין ניט־פֿאָקוס,,site/modules/Relay/Relay.module.php,fa56368b78047c00be805dabf845f0d8
+Maximum attempts,גרעסטע פּרוּסן,,site/modules/Relay/Relay.module.php,c01198d652d05f1acc9926e7b0c509a0
+Maximum jobs per run,גרעסטע אױפֿשפּרינג־מעניו,,site/modules/Relay/Relay.module.php,c4741f245b222b56dab3620fe125ee70
+Maximum jobs per worker run,גרעסטע אַרבעטן אין אױפֿער,,site/modules/Relay/Relay.module.php,b66f2e57b112512e97f199ba2dd8da04
+Maximum planning horizon (years),גרעסטע פּאַנגלינג־האָריזאָנט (יאן),,site/modules/Relay/Relay.module.php,ec35405bc94e0e2f6fb1840d174b0cbe
+Method,מצבֿ,,site/modules/Relay/Relay.module.php,4c3880bb027f159e801041b1021e88e8
+Missing,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,2aee0be2678ee90fd327cc186826438e
+Mode,מאָדע,,site/modules/Relay/Relay.module.php,650be61892bf690026089544abbd9d26
+Model,מאָדע,,site/modules/Relay/Relay.module.php,a559b87068921eec05086ce5485e9784
+Module,קלעפּ,,site/modules/Relay/Relay.module.php,e55f75a29310d7b60f7ac1d390c8ae42
+Monday,מעניו,,site/modules/Relay/Relay.module.php,6f8522e0610541f1ef215a22ffa66ff6
+Monday first,מעניו־פֿאַרפֿער,,site/modules/Relay/Relay.module.php,ecccd7a021822f5de320382dec458cc6
+Month,שריפֿט,,site/modules/Relay/Relay.module.php,7cbb885aa1164b390a0bc050a64e1812
+Month calendar,שריפֿט,,site/modules/Relay/Relay.module.php,93608c3a92a31b6a7edbfae7fe10df07
+Move a pending action.,סעלעקציע,,site/modules/Relay/Relay.module.php,56222c089d75401f4efc1688af31ee6c
+Move pending job.,קלעפּ,,site/modules/Relay/Relay.module.php,9bda1fe484d54380e8cbcaf72e221bde
+Moving {title}. Drop it on another date.,באַװעגן {title}. דאַלאָפּ זי אונטער אַנדער טאָג.,,site/modules/Relay/Relay.module.php,d229f7f122905e3dd8eb0db922dde96e
+Needs attention,מוז זיכערן,,site/modules/Relay/Relay.module.php,d6f5722e464f95d8d6411841b90ee6d2
+Never,ניץ,,site/modules/Relay/Relay.module.php,6e7b34fa59e1bd229b207892956dc41c
+New Bearer token,טעקסט פֿאַרב (Bearer),,site/modules/Relay/Relay.module.php,ec95928654904601bc79fa9e4fad48c8
+Next,נײַ,,site/modules/Relay/Relay.module.php,10ac3d04253ef7e1ddc73e6091c0cd55
+No actions,סעלעקציע,,site/modules/Relay/Relay.module.php,7259b16f470234d3719d77cff1d16546
+No actions in this period,סעלעקציע,,site/modules/Relay/Relay.module.php,f0a919427679873de1e9fb5fcece5b72
+No eligible actor exists. Grant relay-api and relay-manage first.,קײן אַקער רעלאַגטיקט איז ניט. גאַנצן relay-api און relay-manage פֿישער.,,site/modules/Relay/Relay.module.php,0b6f09497bdafdeff6f1c07174ca5653
+No note added.,ניט קײן כּװעל צוגעבעט,,site/modules/Relay/Relay.module.php,8f9b824270285fdbd6576c818b62d0b9
+No publication actions are waiting.,קײן פֿאָקוסירונג־אַקציעס װאָרט זיך,,site/modules/Relay/Relay.module.php,7523610678d36a96eca668bb6345af4a
+No real schedule jobs or page states will be changed.,קײן נױטיקע schedule אַרבעטן אָדער זײַט מעניון זײַנען זיך מעניון.,,site/modules/Relay/Relay.module.php,8b6a8ab06f4ccbe94b4efb731b028bb5
+No scheduled changes,קײן אױסגעלאָשן ענדערונגען ניט,,site/modules/Relay/Relay.module.php,31b760361559b4324cbeff339370c53e
+Not assigned,סעלעקטירט ניט,,site/modules/Relay/Relay.module.php,63d8c71daa2adfb569eb9c363eaa7a89
+Not configured,ניט געפּאַסטער,,site/modules/Relay/Relay.module.php,db3f921088947d83680a80a0285ef414
+Not detected,ניט געפֿונען,,site/modules/Relay/Relay.module.php,60a449ec73e10cf5e78387d34fe72f59
+Not exact: it runs only when the site receives traffic. Use the CLI worker every minute for production.,ניט פוטפֿיקט: עס שטעלט בלױז ווען דער זייַט קומען טראַפאַג. ניצן די CLI אַרבעטן יעדער מיניט פֿאַר אַרבעט.,,site/modules/Relay/Relay.module.php,a9bf497e7f1342ddd4343ce0d3499aca
+Nothing has been scheduled for this page yet.,קײן איז געפּאַסיק פֿאַר די זײַט.,,site/modules/Relay/Relay.module.php,1312da3b07492d4a595b2cb50f92a7fa
+Notify administrators when,באַפֿעל צופּאַסערער װען מען אָנצוקלײַב,,site/modules/Relay/Relay.module.php,8fed5cbdb8a11b579bce0ac7c5d9fd88
+Not installed,ניט אינסטאַלירטע,,site/modules/Relay/Relay.module.php,d12fb360f73c34226d1e50228875d8cf
+Not ready,ניט איבערמאַכן,,site/modules/Relay/Relay.module.php,486fbd81a5c5c8fe1c1dd191fdbe007f
+"On a touch screen, open an action and use Date and time to move it precisely.","אױף אַ נוקסיק־עקראַן, אָפֿן אַ אַקציע און ניצן טאָג און צײַט צו באַװעגן זי פּרטאַקט.",,site/modules/Relay/Relay.module.php,126b6ef26659b11b064b012fe276e301
+One job.,אַן אַרבעט.,,site/modules/Relay/Relay.module.php,3c0a103ef790e8e82393eb1a88c73af8
+One numeric chat ID or @channel username per line.,אַ נומערישע אידענטיפֿיקאַציע אָדער @channel ניצער־נאָמען אױף שורה.,,site/modules/Relay/Relay.module.php,842b87c91f0657be0e639360d4f550e7
+One redacted schedule job.,באַװעג אײן צײַטװײַליקן אַרבעט (schedule),,site/modules/Relay/Relay.module.php,863ffcec3f7ead672fa6c84d75fe4687
+Only pending demo actions can be cancelled.,בלױז פֿעלעקטירן דאָזיציעס לאָזט זיך אָפּרוקן,,site/modules/Relay/Relay.module.php,b925c34b94090f0ced19051090d08a70
+Only pending jobs can be cancelled.,בלױז פֿעלעקטירן טעקע לאָזט זיך אָפּרוקן,,site/modules/Relay/Relay.module.php,bcca68fda82c77a19c4b030ee533a8cc
+Only pending jobs can be rescheduled.,בלױז פֿעלעקטירטע פֿאָקוסן מען קען זײַן אַדרוקירן,,site/modules/Relay/Relay.module.php,0ae30f650cf62061be0428786afd053f
+Open %s in the three-day view,נײַע פּאַפּקע (%s),,site/modules/Relay/Relay.module.php,a0147078e5c3807099e3c6e8bc6aad4f
+Open %s on the timeline,עפֿן טעקע (%s),,site/modules/Relay/Relay.module.php,b8dc0edc3bfc72a166efb5aed4cf64bf
+Open actions for details or drag pending work while preserving its local time.,אָפֿן אַקציע צוליב פֿאָרױסװײַז אָדער שלעפּן צו אַרבעט בשעת זײַן לאָקאַלירן צײַט,,site/modules/Relay/Relay.module.php,9e264d47eed20ad7d80b3f6853964f33
+"Open a day for its agenda, or use compact pending events for details and drag-and-drop.","אָנצופֿעלן אַ טאָג אין זײַנע אױטאָמאַטישע, אָדער ניצן קאַפּקע טרעפֿענישן צוליב פּונקטן און שלעפּן און טראָפּירן",,site/modules/Relay/Relay.module.php,47d6571ba24fc70978d56035315ad1be
+"Open an action for details, or drag a pending action between days.",סעלעקציע,,site/modules/Relay/Relay.module.php,de8ad42583797a15bdc14d2a3dd629bb
+Open editorial calendar,סעלעקציע,,site/modules/Relay/Relay.module.php,36f4faf1ae1fc2650cd33907e9675e48
+Open publication URL,עפֿן טעקע,,site/modules/Relay/Relay.module.php,bf638fae3ec3b3189fd18ebe6f5249a1
+Open Relay,עפֿן טעקע (Relay),,site/modules/Relay/Relay.module.php,cce1ea74532483448976cd6c0bcbaf14
+Operational email,אָפּעראַציע־מיטלעך,,site/modules/Relay/Relay.module.php,a59c893dbf6463dc7fa4f413eaaa16e1
+Operational interfaces,אָפּעראַציע־צובינדן,,site/modules/Relay/Relay.module.php,b9d0716888f640c6bb55253e02e8b9cf
+Optional absolute CLI PHP path. Leave empty to use the binary detected by Relay.,אפֿאָקוסאָלוטיקע CLI פּאַפּקע־רשימה. לאָזט פּאַלס צו ניצן דעם באַטנימאַציע דורך PHP. (Relay),,site/modules/Relay/Relay.module.php,fc1cc364c1fae024089655e4416bfacc
+Order,סאָרטירונג,,site/modules/Relay/Relay.module.php,a240fa27925a635b08dc28c9e4f9216d
+Output,סעלעקטיר אַרום,,site/modules/Relay/Relay.module.php,29c2c02a361c9d7028472e5d92cd4a54
+Overall schedule,סעלעקציע (schedule),,site/modules/Relay/Relay.module.php,ee288d53bc1c1b1d9d09360b05449721
+Overview,עקראַן,,site/modules/Relay/Relay.module.php,3b878279a04dc47d60932cb294d96259
+Page,זײַט,,site/modules/Relay/Relay.module.php,193cfc9be3b995831c6af2fea6650e60
+Page fields shared with Squad,"גרעסטע פֿאָרױס אַרײַנצושטעלן מיט ""שװײַז־צוגאָב (Squad)",,site/modules/Relay/Relay.module.php,03322b57054de30f2db31c5035092c67
+Page published,גרעסטע גרײס,,site/modules/Relay/Relay.module.php,d6b0fb88c2bc70d9227d8c6019627014
+Page schedule,צײַט schedule צום צײַט,,site/modules/Relay/Relay.module.php,0e511b74ffb214e3bc957b2692d5056d
+Page timeline,גרעסטע צײַט,,site/modules/Relay/Relay.module.php,c4e84ad73fa62b34e6d144c5344ab976
+Past and future publication actions for this page.,קלעפּטיקע און צוקונפֿטיקע פֿאָקוס־אכפֿירונגען פֿאַר דעם זײַל.,,site/modules/Relay/Relay.module.php,dbb371ac27ab91f9ee3d12048000f604
+Paused by imitation,קלעפּ,,site/modules/Relay/Relay.module.php,ba990f624cbd7c08aeb24c927a7e595b
+Pending actions,סעלעקציע,,site/modules/Relay/Relay.module.php,c054a7deca822c899ac734543443b094
+Permanent safety and planning instructions. Page values are supplied separately as untrusted context.,פּליטיקע סאָרט און פּנערינגירונג־איינפֿאָרמאַציע. זײַל באַטרעפֿן זײַן צװײטער ווי ניט־געשטיצט קאָנטעקסט.,,site/modules/Relay/Relay.module.php,9bd18b00c6a90c138599c718422b9bf2
+Permissions and mutation CSRF token.,דערלױבענישן און מוטאַציע CSRF דאָזיקע,,site/modules/Relay/Relay.module.php,72043eca1d63f5feedc439ec34d80def
+PHP binary,PHP בייַנאַלישע,,site/modules/Relay/Relay.module.php,557a2a23ac67051108310879203374d7
+PHP facade,PHP פאסט,,site/modules/Relay/Relay.module.php,3f397dbe47b1a9452df9f6a4e3c72887
+Plan a publication change,פּנזאָג אַ פֿאָקוס־ענדערונג,,site/modules/Relay/Relay.module.php,642e182b6c20b48e7a14e599af12f91c
+Planning,פּראָגראַם,,site/modules/Relay/Relay.module.php,21d28aa03f67eb242b1c95a6a0594ff5
+Plan publication changes without adding fields to the page template. Times are displayed in,פּראָגרעס־פּאָליטירונג ענדערן אָן אַלע מאָל צוגעבלען שורות צו דעם זײַטער מוסטער. צײַט װערטיקן צו װײַזן,,site/modules/Relay/Relay.module.php,644874957871efb8ae73f9f9bc27021f
+Previous,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,dd1f775e443ff3b9a89270713580a51b
+Privacy boundary,דאַטן־גרױס,,site/modules/Relay/Relay.module.php,283b0ce628b8a10d8923af1921d7d447
+Private runtime override,דאַטן קאָנטראָליר־צײַט,,site/modules/Relay/Relay.module.php,70fad1ed108d3bef630c20886e1f3516
+Processed %d job(s).,פֿאַרװאַנדלט %d אַרבעט(ס).,,site/modules/Relay/Relay.module.php,8a4ef761295f6617787a6d547aac80ff
+Processing,סעלעקציע,,site/modules/Relay/Relay.module.php,643562a9ae7099c8aabfdc93478db117
+ProcessWire root,פֿאָרױסװײַזWire רוכטל (ProcessWire),,site/modules/Relay/Relay.module.php,ac3e4a2dfc1b73ebfab04e602e1458b1
+Production worker,נוצער אַרבעטיקער,,site/modules/Relay/Relay.module.php,f8d760f032ce10447934c3f875ceafb8
+Production worker schedule,נוצער־אַרבעטאָר schedule,,site/modules/Relay/Relay.module.php,2a5d3927d22a2485302a2dc679a57936
+Provider,געװײנטלעכע מצבֿ,,site/modules/Relay/Relay.module.php,27703c8f150ac4bb0a3a83a7857353af
+Publication,פּאָזיציע,,site/modules/Relay/Relay.module.php,6bd6beac1da76b2d2a9c3b7914ba034c
+Publication action,פֿאָקוסירונג־אקציע,,site/modules/Relay/Relay.module.php,dadb48cbe16dd21fd1830c5f05a048a6
+Publication action cancelled,די פֿאָקוסירונג־אקציע אָפּעראַציע,,site/modules/Relay/Relay.module.php,72cd0abc0ea0d13d5f3401d9e4d922f8
+Publication action completed,פֿאָקוסירונג־אקציע איז געענדיקט,,site/modules/Relay/Relay.module.php,24e41131b3e3ede705f75e6fb30ded07
+Publication action failed,פּאָליטירונג־אַקציע איז דורכגעפֿאַלן,,site/modules/Relay/Relay.module.php,2b82ba46560cc49cc5a4b2590e7a3810
+Publication action rescheduled,פֿאָקוסירונג־אקציע צו־סעקונדירט,,site/modules/Relay/Relay.module.php,452f960923936bc6387c2bfdf7c58642
+Publication action scheduled,פֿאָקוסירונג־אקציע העטיקעט,,site/modules/Relay/Relay.module.php,f192c92be12428895c71979f8f262e48
+Publication details,פֿולאָקוס־פּילקער פּונקטן,,site/modules/Relay/Relay.module.php,5b5a5357b1225e7c4782d8b87ae5f1f9
+Publication schedule,פֿאָקוסירונג schedule,,site/modules/Relay/Relay.module.php,391360562ffbf7e7954e887515d12d2f
+Publication URL copied.,פֿאָקוסירונג־URL קאָפּירט.,,site/modules/Relay/Relay.module.php,8c1922f45f474187f4011a72721121ce
+Publication window dates must use the same timezone.,פּאָזיציע־טאָגן מוזן ניצן דעם זעלעלן צײַט,,site/modules/Relay/Relay.module.php,aa4b2fe1dd956f414211bc54fcdf1543
+Publication window scheduled.,פֿאָקוסירונג־סאָרט,,site/modules/Relay/Relay.module.php,dc2d62b1b17fc08c73fae9f7f4479f4d
+"Publication window — publish, then unpublish","פֿאָקוס־אַדמיניסטראַטאָר — פֿאָקוסירט, און דערנאָך אונטער־פֿלייסע",,site/modules/Relay/Relay.module.php,773c3734d225c29503114fa7f60bdfb3
+Publish,באַפֿעלן,,site/modules/Relay/Relay.module.php,110a4b01beabd53b661a47d4b44bd7a8
+Publish date and time,באַפֿעלן טאָג און צײַט,,site/modules/Relay/Relay.module.php,ea8c357a79ebe2a4776d4e8926954151
+Published,באַפֿעלן,,site/modules/Relay/Relay.module.php,9b9d8a976b42e0bd66381797644943d5
+Published page,באַפֿעלן זײַט,,site/modules/Relay/Relay.module.php,ac2a2b7773d5d957c03b0fcd272f921d
+Publishing plan is active,פֿאָרױסװײַז־פּלאַנג איז אַקטיװ,,site/modules/Relay/Relay.module.php,dce2e31c5cbc865e6ea6dcd91d3dc65d
+Publishing schedule,סעלעקציע (schedule),,site/modules/Relay/Relay.module.php,2f2cc68111d3ba853e4e5d6990cfcbc7
+Publish page — make publicly visible,פֿאָרױסװײַז זײַטן זײַטן,,site/modules/Relay/Relay.module.php,89da54a14225a280d2c77d2ae5d30866
+Purpose,נאָמען,,site/modules/Relay/Relay.module.php,261addf78c7b2c961032b3dd08ba0b1f
+Quarter,קאטר,,site/modules/Relay/Relay.module.php,b25cde1e74f3d27f678c2e309e06102e
+Quarter calendar,קאָפּצעטל,,site/modules/Relay/Relay.module.php,07077e5577bf3b7664ff7ca6b9d9badb
+Readiness,ריכטונג,,site/modules/Relay/Relay.module.php,7236964cf567c0cdefc5aca8def85044
+Reading is direct; changing data is deliberate,די־לײען איז רעכט; די ענדערונגען איז געזעמלט,,site/modules/Relay/Relay.module.php,8af38c119c4181af57682d2b90b67d76
+Read schedule data or run an explicit write command from the ProcessWire host with JSON input and output.,לײענע schedule דאַטן אָדער באַאַרבעטן אַן פּליטיקע שרײַבן באַפֿעל פֿון דעם ProcessWire קאָמפּיוטער מיט JSON אַרײַנשרײַב און אַרײַנשרײַב.,,site/modules/Relay/Relay.module.php,5a6abfdec389c6d18190138bac698807
+Ready,איבער־פֿאַרקער,,site/modules/Relay/Relay.module.php,e7d31fc0602fb2ede144d18cdffd816b
+Recipients,באַפֿעלן,,site/modules/Relay/Relay.module.php,5959cf158e76f7c6f27bff2917ee05b1
+Requested by,פֿאָרױסצובאַקט,,site/modules/Relay/Relay.module.php,aeaf08746080e6e79b89c08174a2e279
+Request failed.,די בקשה איז דורכגעפֿאַלן.,,site/modules/Relay/Relay.module.php,52c1432f44aebb8c91042d5403ef378b
+Requires an authenticated actor with relay-api and relay-manage. This setting alone creates no HTTP route.,דאַרפֿינען אַ אַקטיװירט מיט relay-api און relay-manage. די באַשטעטיקונג בלױז ניצט ניט קײן HTTP רױט.,,site/modules/Relay/Relay.module.php,006c98c53ba58e195e03a23ee7b90d19
+Reschedule,סעלעקציע,,site/modules/Relay/Relay.module.php,4d71f6e4d505e2025e99a24491603763
+Rescheduled,סעלעקציע,,site/modules/Relay/Relay.module.php,5d9213fc51a33bdcf4ea64ca0e6bf3ff
+Resolved worker,אָנזאָג־אַרבעטער,,site/modules/Relay/Relay.module.php,d7b756bab3cd854eb0074b7353f22628
+Restricted page,סעלעקציע,,site/modules/Relay/Relay.module.php,74fba10d490b0e79128d4556d1fab9a2
+REST routes,REST רובן,,site/modules/Relay/Relay.module.php,0e1dd55276c7cc41ed8b90fd98b21999
+Review before installing,בײַט האַלט אײדער אַן אינסטאַלירן,,site/modules/Relay/Relay.module.php,2855cd389ae46f7150a74786c46cfbaa
+Review boundary,בײַטער־שורה איבער,,site/modules/Relay/Relay.module.php,af14605022be44ba7700df309cff9c62
+"Review every action in the selected quarter, grouped by its current workflow status.",סעלעקציע,,site/modules/Relay/Relay.module.php,ce45fc23baf863964adfb9ba188b1938
+Review every field before scheduling. Nothing has been saved.,רעדאַגיר יעדער פֿעלד אײדער ערינגירט. קײן ענדיקט זיך אױפֿגעהיט.,,site/modules/Relay/Relay.module.php,2d64e2d7a74b0eaa81954c485817ab81
+Review seven days of publishing work in a focused editorial agenda.,רעזענטן שיב טאגן פון פון פוקסירן אַרבעט אין אַ פוקסקעט רעדאַגירע עגן.,,site/modules/Relay/Relay.module.php,9f4168a8b552a24996b30e6051e082af
+Revoke token,סעלעקציע,,site/modules/Relay/Relay.module.php,8df393176f0b6666eec544975d0a3b6c
+Rotated,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,4f8d7de5d5a3860f0a27f8848de1ba40
+Rotate token,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,7891287d5d2427e8faee133c41901ac7
+Route,רוט,,site/modules/Relay/Relay.module.php,9405c3aff9112c3c60d03b94792877dc
+Routes,קלעפּ,,site/modules/Relay/Relay.module.php,b41067229f91bece9cdfc66681cdd7a3
+Rows are pages and columns are days; pending markers can move within their page row.,שורות קען זײַלן די צײַטן; דער פֿעלער־מעניון קען באַװעגן אין זײַנע זײַל־שורה.,,site/modules/Relay/Relay.module.php,41d9070c5262e27ee3cea2804a06d701
+Run a bounded due batch.,סײַעק אַ גאַנצער טאָג,,site/modules/Relay/Relay.module.php,0642a222de1ff1a1375a3c14d6a6dccf
+Run a bounded worker check after ProcessWire receives traffic. Use this only when a system cron is unavailable and exact timing is not required.,באַאַרבעט אַ גאַנצט אַרבעטער קאָנטראָל נאָך ProcessWire באַקומען טראַפֿאַפֿיק. ניצן בלױז װען אַ פּראָסטע מאָדנע קאָנס איז ניט באַקומען און ניט געפֿונען דורך אַ פּראָפּיסטע.,,site/modules/Relay/Relay.module.php,70b9cc9a548b4d31d68f8d972198a8f1
+Run as,באַאַרבעטן װי,,site/modules/Relay/Relay.module.php,825c8c5da55b0d246ab35912cde99aac
+Run due work.,באַאַרבעטן נײַע פּאַפּקע,,site/modules/Relay/Relay.module.php,4ec0317dfd667cf1ea28c65bf4e2ba16
+Runs after LazyCron::everyMinute only when ProcessWire receives traffic.,אַרײַנצושטעלן נאָך LazyCron::everyMinute בלױז װען ProcessWire באַקומען טראַפֿפֿאַפֿן.,,site/modules/Relay/Relay.module.php,396a8708fb8c535fcd258f267e89a4b1
+Save command settings,סעלעקציע,,site/modules/Relay/Relay.module.php,0a02d8ee124737719ed52932810b7cb1
+Save LazyCron settings,סעלעקציע (LazyCron),,site/modules/Relay/Relay.module.php,02799bf7d51707a718d5d8fa0b390ca8
+"Save the worker parameters, then copy the generated line into the server scheduler.","עפֿן דעם אַרבעטטער־פּאַראַמעטערס, און דערנאָך קאָפּירן דעם געגעבן ליניע אין דעם סערװירער סעפּיכערער.",,site/modules/Relay/Relay.module.php,4497bce9b3413429dc9d4b484c3596a9
+"Saving changes only rebuilds the preview. Review the line, copy it, and install it manually through the hosting control panel or crontab -e. Relay never changes the operating-system crontab itself.","אױפֿגעהערן ענדערונגען בלױז דער פֿאָרױסװײַז צוגעבערט. עקזיִיִקיר די ליניע, קאָפּירן זי, און זי אינסטאַלירן manuשלט דורך דעם האָסטראַטאָר־קאָנטראָל־פֿאַרלאַך אָדער crontab -זי Relay קיינער ענדערט זיך די אונטער־סיסטעם crontab זי זי זי.",,site/modules/Relay/Relay.module.php,838bdc97c66c8b90affd256b5a43c2e4
+Saving…,בילד,,site/modules/Relay/Relay.module.php,eedf6b8bfc83284c3294ec4b38188e8a
+"Scan the whole month, then select a date to focus on its three-day window.","געשטאַלט די גאַנצער ម៉אנז, און דערנאָך קלײַב אױס אַ טאָג צו פֿאָקוסירן אױף זײַנע דרײגן פֿענצטער.",,site/modules/Relay/Relay.module.php,c6eff67605658e3fa969495e5f52ce07
+Relay,Relay,,site/modules/Relay/Relay.module.php,34c4c50fc7bdd0394f3954f73f2be34d
+Relay action,סעלעקציע (Relay),,site/modules/Relay/Relay.module.php,bc6e5c9481818496ad06bada8db6065b
+Relay an action from the Relay tab on any editable page.,Relay אַ אכטעלעך פֿון דעם Relay טאַבוליר אױף יעדער רעדאַגירעװדיקער זײַט.,,site/modules/Relay/Relay.module.php,e7de8a5c45a47d62cce702d6fda42783
+Relay API,שױן־געשטאַלט API (Relay),,site/modules/Relay/Relay.module.php,fd139cd3b339b5dd4cacb9198e7c9708
+Relay cancelled.,Relay פֿאַרצײַכנט.,,site/modules/Relay/Relay.module.php,308879894150f15f521978d7de6322f6
+Relay CLI,Relay CLI,,site/modules/Relay/Relay.module.php,700b7cd4efdbde8995559f09e07a4e0c
+Relay Crontab,Relay Crontab,,site/modules/Relay/Relay.module.php,9c5bb04149de105b0544738e49392d18
+Scheduled,עפֿן טעקע,,site/modules/Relay/Relay.module.php,2b7dabba0077abe3732e0418b048a56b
+Scheduled time must be in the future.,געפּעזירטע צײַט מוז זײַן אין דער צוקונפֿט.,,site/modules/Relay/Relay.module.php,4a8938e0be67e8218ffe647920934232
+Scheduled time must be within %d year.,די סעקונדירטע צײַט מוז זײַן אין %d־טעקסט,,site/modules/Relay/Relay.module.php,556596b0352043f7550b5fff986db808
+Scheduled time must be within %d years.,די סעקונדירטע צײַט מוז זײַן אין %d־טעקסט,,site/modules/Relay/Relay.module.php,94b26dddc83ca453798de71f57709a87
+Relay Email,Relay מעבר,,site/modules/Relay/Relay.module.php,74fcc5c1b75a38459f00d339ef766ec3
+Relay interface sections,Relay צובינד פּלקעס,,site/modules/Relay/Relay.module.php,002e36c95cd81d780b0e04796f927f24
+Relay job was not found.,Relay אַרבעט איז גענוצט ניט.,,site/modules/Relay/Relay.module.php,891fd33172e4a9103bc03b2005ca7529
+Relay LazyCron,Relay LazyCron,,site/modules/Relay/Relay.module.php,ade801d2aa5012bc778747c19b94a1ca
+Relay module configuration,Relay מאָדול צופּאַסונג,,site/modules/Relay/Relay.module.php,6f97efa222704d2538ca50d8d0047c0e
+Relay prepares the command; the server runs it,Relay פּרעפֿערט דעם באַפֿעל; דער סערװירער אַרײַנצושטעלט עס,,site/modules/Relay/Relay.module.php,ef46e5c4590731647e15c08cb9da8bba
+Relay saved.,אױפֿגעהיטן Relay,,site/modules/Relay/Relay.module.php,6fdeb40961fd2a7c94dd84bd694f52b9
+Relay settings,באַשטעטיקן (Relay),,site/modules/Relay/Relay.module.php,fa74697402c50a411e724fb85df17d30
+Relay Squad,Relay Squad,,site/modules/Relay/Relay.module.php,e65c203724174e0969fe5d232ab63b92
+Relay Telegram,Relay Telegram,,site/modules/Relay/Relay.module.php,bf3d25a0cd41e60c2470e7e510a484ac
+Relay updated.,דערהײַנטיקט Relay,,site/modules/Relay/Relay.module.php,dac54da6f9c47a10599bd2cdbe6bb2e3
+"Relay uses TeleWire 1.0.2+ as its transport while keeping separate credentials, recipients, and events.","Relay ניצט TeleWire 1.0.2""+ אַז זייַן טראַנספֿאָרמירונג בשעת זײַן געשטאַלט אַדורך קאָמפּיוטערס, באַקומערס, און טרעפֿענישן.",,site/modules/Relay/Relay.module.php,d36d792a034e2ebac9299bea1b78123b
+Relay uses WireMail without copying its secrets,Relay ניצט WireMail אָן זײַן ספּעקטן קאָפּירן,,site/modules/Relay/Relay.module.php,9f282271d9a1bb1bbdaf0fe97b425b56
+Relay views,פֿאָרױסװײַז (Relay),,site/modules/Relay/Relay.module.php,19b03bd34d883dd67044e451f0c47f6a
+Scope,נאָמען,,site/modules/Relay/Relay.module.php,5d113f2038d289f391614c39043629e8
+Scope and identities,שריפֿט,,site/modules/Relay/Relay.module.php,f6d175a2ad3bc8d4c126c6aa3d1f03de
+Security boundary,אױסלײג־גראַם,,site/modules/Relay/Relay.module.php,ccfb9379aea5c468f7e4cbdcb63a42e1
+"Select a date number for its agenda, or drag a pending action to another day.","קלײַב אַלץ אױס אַ טאָג־נומער פֿאַר זײַנע אײנס אין בילדצעלן אױפֿשפּרינג־אָנזאָג, אָדער שלעפּן אַ צוריק אַקציע צו אַנדער טאַבעלע",,site/modules/Relay/Relay.module.php,ff39b7f4335248b0f13610903a1d755e
+Selected provider,סעלעקטירטער טעקע־נאָמען,,site/modules/Relay/Relay.module.php,294f9cfd19e5d6500b0c9cb102a3b4c0
+Send concise operational alerts to configured chats through TeleWire without sharing page content or notes.,לאַנג בלױז פֿאָרמירטן װאָרענונגען צו צופּאַסן זאַך דורך TeleWire אָן פּאַראַגראַף זײַנע אינהאַלט אָדער נאָטלעך.,,site/modules/Relay/Relay.module.php,ce28ebaa0958d33c9457e9ff88bdb850
+Send concise Relay lifecycle alerts to configured administrator chats through TeleWire.,זענען קײנע Relay געטוועגל־טעקסט וויסטארט צו צופּאַסן צויכערן אינפֿאָרמאַטירער שוטאטן דורך TeleWire.,,site/modules/Relay/Relay.module.php,e8fef1bba9abc855a3cf27c9247cc6ec
+Sender,ציל,,site/modules/Relay/Relay.module.php,8aace3ec18d83874d22850b7eee93c7d
+Sender email,רױט אױף,,site/modules/Relay/Relay.module.php,31df4171f2ebec0b6f84d0cc0b91722a
+Sender name,שריפֿט נאָמען,,site/modules/Relay/Relay.module.php,90ed58883831551ef960da4f7cde1240
+Send selected Relay lifecycle alerts to configured administrators through the chosen WireMail provider.,זײַ אױפֿשפּרינג־סעלעקטירטע Relay וויסטרוקטאָר צו צופּאַסן אינפֿאָרמאַטירערס דורך דער סעלעקטירטער WireMail געפֿיכערער.,,site/modules/Relay/Relay.module.php,3184695774b7ce8d46240d77e3b7d458
+Send selected schedule lifecycle alerts to configured administrators through WireMail.,זײַ אױפֿשפּרינג־סעקונדעס צו געפּינזט זיך צו־פּאַסן אינפֿאָרמאַטירערס דורך schedule (WireMail),,site/modules/Relay/Relay.module.php,1d4736ac334186e59f4b3709a1ec5a5d
+Sends only selected Relay events through the chosen WireMail provider.,זײַן בלױז סעלעקטירטע Relay טרעפֿענישן דורך דער אָנזאָג־אָנזאָגן WireMail געװײנטלעכער.,,site/modules/Relay/Relay.module.php,b1b747dea5f2b3e4764a5e0f7dbff71c
+Server boundary,דער נאָמען פֿון דעם צעפּיכעסל,,site/modules/Relay/Relay.module.php,4356fb4a1555a50268cf85c65d1ea0ec
+"Session writes require the Relay CSRF token. Bearer requests inherit the assigned actor permissions, are rate-limited, stay header-only, and receive no CORS opt-in.","ששסיע שרײַבן געווען דעם Relay טיטל. CSRF ביביבן געווען געהערט די צוגעבענע אַקטיװער־לױבענישן, זענען געפֿינגט, סטרון קאָפּצעטל-בלױז, און באַקומען קײן CORS אָפּאָז-אין. (Bearer)",,site/modules/Relay/Relay.module.php,933f5263de2bc390e24db941cef497f2
+Settings sections,באַשטעטיק פּאָזיציע,,site/modules/Relay/Relay.module.php,b52d9089601abe3bbeeac633f861452f
+Shared fields,עטלעכע פֿעלן,,site/modules/Relay/Relay.module.php,5c3a0d6a114881631d89967e1c21ab1b
+Shown once; Relay stores only its SHA-256 hash.,װײַזט זיך אײדער אַן אײנס; Relay האַלטן בלױז זײַנען SHA-256 הײב,,site/modules/Relay/Relay.module.php,d966820b08bf17d8b76a0d7e71477a42
+Shows Template and Order controls in the calendar. Disable it to keep the filter bar focused on actions and statuses only.,באַװעג מוסטער און סאָרטירונג אין דער קאָנטראָלירונג. האַלט אים צו האַלבן די עקראַן־װירע פֿאָקוסירט אױף אַקציע און מצבֿ.,,site/modules/Relay/Relay.module.php,9b279845771dcc102a125174f026f6a4
+Show upcoming actions in the page tree,װײַז קנעפּלעך אױפֿשפּרינג־מעניו,,site/modules/Relay/Relay.module.php,9b07c108973c9d089250e5f081b9bd33
+Site default,געװײנטלעכע דרינען־צעטל,,site/modules/Relay/Relay.module.php,1da71dc1ead54d8aaf7c8692a1f32f84
+Squad,Squad,,site/modules/Relay/Relay.module.php,5c7d6a353fd951a31ea16999f68e4000
+Squad assistance,Squad געהילף,,site/modules/Relay/Relay.module.php,aa303e704380c37cb628597efafac7c6
+Squad could not prepare a planning proposal. Check the active provider and model.,Squad קען ניט פּרעפֿערן קײן פּנאַגן־פּראָפּאָזיציע. קאָנטראָליר דעם אַקטיװ געבירער און מאָדול.,,site/modules/Relay/Relay.module.php,1e5fde775b3f5abaa33ab93e1fa844ad
+Squad default,Squad געװײנטלעך,,site/modules/Relay/Relay.module.php,379df8c2ecca7f514c9cf71e7f215a34
+Squad integration,Squad אינקאָפּירונג,,site/modules/Relay/Relay.module.php,4a5aa6e91723703b9aba5bebb36a2b34
+Squad is preparing a draft…,Squad איז פּרעגיכט אַ אַנדערש...,,site/modules/Relay/Relay.module.php,dbc9a475d4dc30ebce9e2ddca9a80e74
+Squad planning assistance is not ready. Check Relay and Squad settings.,Squad פּנאַגן הילף איז ניט געפֿונען. קײן Relay און Squad מעניון.,,site/modules/Relay/Relay.module.php,128015bacf398a0ecd43821dfa17e9e7
+Squad planning instructions,Squad פּנגנאַגן איינפֿציען,,site/modules/Relay/Relay.module.php,62af3c6cbbf24210b93a87e66bb99322
+Squad prepared a draft. Review it before scheduling.,Squad רעפֿערט אַ אַנדער. ריכט עס אײדער זײַן פּראָגראַם.,,site/modules/Relay/Relay.module.php,4b308a2648f48f1f7cd2804f68f6c17a
+Squad proposal,Squad פון,,site/modules/Relay/Relay.module.php,eb01d96b0694bb51e9568e730594237b
+Squad provider %s is available for staff-requested planning proposals.,"Squad געבאַפֿן %s"" איז נוצן פֿאַר טבעלע־בקשה פּנאַזינג־פּראָפּאָרץ.",,site/modules/Relay/Relay.module.php,8919d8320580135a8c15a3b24f445fdf
+Squad provider and model,Squad געבירער און מאָדעל,,site/modules/Relay/Relay.module.php,4f25e2685a2049f4af30cad48a44a488
+"Squad receives only the configured page fields after an editor clicks Suggest with Squad. Its response fills editable draft fields; it never creates a job, changes a page, or publishes content.","Squad באַקומט בלױז די צופּאַסטערטע זײַל־פֿעלן נאָך אַ רעדאַגיר־קליקס סוף מיט Squad. זייער ענדיקט פֿילט רעדאַגירעװדיקער רעדאַגירעװדיקער פּראָגרעס; עס קײן קײן אַרבעט, ענדערט א זײַט, אָדער פֿאָרמירט אינהאַלט.",,site/modules/Relay/Relay.module.php,156c58483cdd610da0e391bf689e2680
+Squad request timeout,Squad בקשה פֿאַרגרעסער גרײס,,site/modules/Relay/Relay.module.php,95f4e4ed4ee2023064debfde651b150c
+Squad returned an invalid planning proposal.,Squad צוריקט אַ אומלעקסיק פּלאַגינג־פּאָפּלג.,,site/modules/Relay/Relay.module.php,e13be6ab7b91e3dd243fd6e0350cadbe
+Squad returned an invalid publication-window end.,Squad צוריקט אַ אומלעקסיקע פּאָזיציע־סוף,,site/modules/Relay/Relay.module.php,1fa12c42fb5d940b4b4e2bd48f1810e3
+Squad returned an invalid publication time.,Squad צוריקט אַ אומלעקסיקער פּאָזיציע־טאָג,,site/modules/Relay/Relay.module.php,11450c816307ff3927e519de70bdcc45
+Squad returned a publication window whose end is not after its start.,Squad צוריקט אַ פופּאָקציע־סאָרט ווער סוף איז ניט נאָך זייער אָנהײב.,,site/modules/Relay/Relay.module.php,a1fde4c31f6f82d305dd8da461e7859b
+Squad returned invalid JSON.,Squad פֿאַרטאַנדלט אומלעקסיק JSON.,,site/modules/Relay/Relay.module.php,3adc431d9a2e2a3c05d5c4277371f773
+Stale worker lease (minutes),סטיל אַרבעטער האַלט (מיניט),,site/modules/Relay/Relay.module.php,6ea94094dde312460ff1802f0b3a606b
+Status,כּללים־רמז,,site/modules/Relay/Relay.module.php,ec53a8c4f07baed5d8825072c89799be
+Status totals.,מצבֿ שטימט ניט,,site/modules/Relay/Relay.module.php,b91b08b793e3d113e560274a9bae7e47
+Stored in ProcessWire module configuration. Never commit this value to source control.,פֿאַרגיכערט אין ProcessWire מאָדול צופּאַסונג. מאָל שטעלן אַ באַטרעף קײן מאָל אין װערט־נאָרט,,site/modules/Relay/Relay.module.php,d49465138a8719cfe49fe22d2b9b2bbe
+Suggest with Squad,שפּילקע מיט Squad,,site/modules/Relay/Relay.module.php,49a05dfada822101eace8367d7a0f35a
+Sunday,צאַמרינע,,site/modules/Relay/Relay.module.php,9d1a0949c39e66a0cd65240bc0ac9177
+Sunday first,צאנער פֿיש,,site/modules/Relay/Relay.module.php,41cdf74bf9ebafbd753cb060c3fc8904
+Superseded,פֿאַרקירט,,site/modules/Relay/Relay.module.php,f5a5364cf9b9f4f0517ad12aa15e62f5
+System and admin templates are excluded from the choices.,די קאָפּצעטלעך אין דער צײַטװײַליקן מעק אַרױסשרײַבונגען,,site/modules/Relay/Relay.module.php,edea33aa1473a69423b4fa9b319c1ef6
+System crontab,שטײַג (crontab),,site/modules/Relay/Relay.module.php,ed3e1432479765f2f7680b891f8cee13
+Telegram,Telegram,,site/modules/Relay/Relay.module.php,c915683f3ec888b8edcc7b06bd1428ec
+Telegram administrator chat IDs,Telegram צופּאַס־צאַפּקע אידענטיפֿיקאַציע,,site/modules/Relay/Relay.module.php,c5aaf43e47f0525c523f1658214ce647
+Telegram bot token,Telegram בלאָגן־בילד,,site/modules/Relay/Relay.module.php,2a50bfce0518bfdbd83d423bc8215859
+Telegram delivery,Telegram אָפּרוקונג,,site/modules/Relay/Relay.module.php,6db01305cec63ac02d94c0df7781088b
+Telegram delivery timeout,Telegram צוגעבער גרײס,,site/modules/Relay/Relay.module.php,6e21b9d7bd3cbf93cf1f8de1751903c6
+Telegram notifications,Telegram אָנזאָגן,,site/modules/Relay/Relay.module.php,0f026cfdc57a9d3e0221adf5a6a6e62a
+Telegram payload,Telegram פאַרגראָפּירונג,,site/modules/Relay/Relay.module.php,44fb59600a0cb3e319734febe4797d84
+"Telegram receives only the publication event, job ID, action, page title, scheduled time, workflow status, and an authenticated admin link. Notes, page content, credentials, and unpublished field values are excluded.","Telegram באַקומט בלױז דעם פֿאָקוסירונג טרעפֿעניש, אַרבעט־אידענטיפֿיקאַציע, זײַט טיטל, ספּאָזירט צײַט, אַרבעט־סטאַטוס, און אַן אױפֿשפּרינגטע אידענטיפֿער־ליניע. נעמען, זײַט אינהאַלט, קאָמפּליטירונג, און ניט פֿאָקומענדירטע פֿאָרמיר באַטרעפֿן זענען אָן סלאָקסלעקסירט.",,site/modules/Relay/Relay.module.php,4ce25769237eb0aaf05c81c21934ac4e
+"Telegram receives the event, job ID, action, page title, scheduled time, status, and authenticated admin link. Internal notes, credentials, unpublished fields, and page content are excluded.","Telegram באַקומט דעם טרעפֿעניש, אַרבעט אידענטיפֿיקאַציע, אַקציע, זײַטטיטל, ספּאָזירט צײַט, סטאַטוס, און אַכפֿאַדיקט אידענטיפֿער־ליניע. אינערלעכע נאָך, קאָמפּליטירונגען, ניט פֿאָרמירט פֿאָרמירונגען, און זײַג אינהאַלט זענען סלאָקסלעקסירט.",,site/modules/Relay/Relay.module.php,eb799b76f4380517b3a65f03f9409f50
+TeleWire integration,TeleWire אינגלאַציע,,site/modules/Relay/Relay.module.php,ebe56336ad6b1f8dc0fc8ca3f47d5482
+Template,מעק אַרױס,,site/modules/Relay/Relay.module.php,278c491bdd8a53618c149c4ac790da34
+"Template, then time",מעק אַרױס,,site/modules/Relay/Relay.module.php,57cfda444a642bc1df7a3c485e60f3a8
+That editorial identity is not available.,די רעדאַגירע־אינטעקטציע איז ניט נוצן.,,site/modules/Relay/Relay.module.php,56007d46cd54d89379e66c438ba8b50e
+The cron PHP binary must use an absolute path.,דער cron PHP ביטרי מוז ניצן אַן אַבסאָלוט פּאַפּקע־רשימה,,site/modules/Relay/Relay.module.php,611816ea91c6b3a42c9eb237b041db4d
+The demo action changed before it could be updated. Reload and try again.,די דאָזאָג־אַקציע ענדערט זיך אײדער זי קען דערהײַנטיקן. אַרײַנצוהײַנט  און פּרוּװ איבעריק.,,site/modules/Relay/Relay.module.php,bf24741245dc72bf5a7511b1026dd68f
+The editorial identity cannot publish this page.,די רעדאַגירע־אינטעקסט קען ניט פֿאָרמירן די זײַט.,,site/modules/Relay/Relay.module.php,c4f94b0d8597f9b86084a0167c25b824
+The editorial identity cannot unpublish this page.,די רעדאַגירע־אינטענטיאַציע קען ניט אומבאַליץ די זײַט.,,site/modules/Relay/Relay.module.php,6046e7956d4a1da5b28412f97d566803
+The editor remains responsible for every change,די רעדאַגירע קײן צוגעגעבענע צו יעדער ענדערונג,,site/modules/Relay/Relay.module.php,89592dc559483ffee0485fbbc2b81c8f
+The first view editors see when opening the global publishing schedule.,די ערשטע געזעמל־רעדאַגירער זײַן בשעת מען עפֿן דעם גלאָבאַלע פּאָזיציע schedule.,,site/modules/Relay/Relay.module.php,301de59d31a321c59aee9934dfb655d9
+"The local CLI accepts no remote API credentials. Relay, reschedule, cancel, and run commands require --execute. The production cron worker remains a separate command.","די לאָקאַלע CLI מאַנגלינגט קײן שרימט API קענדיקעטן. Relay, צוזעמל, צוריקן, און אַרײַנצושטעלן קאַמענטן ניצט --execute. דער אַרבעט קראן אַרבעט סאָרט אַ צװײטער קאָמפּאַס.",,site/modules/Relay/Relay.module.php,5e9cd48e7b02c1e4ec15b46e0b0554e6
+The page will become publicly visible at the selected date and time.,די זײַט זײַל װעט פּרײַגיִקער זעעװדיק אױף דער טאָג און דעם סעלעקטירטער צײַט,,site/modules/Relay/Relay.module.php,5ef702851db7ec75248c031237cb0356
+The page will be published at the start time and automatically unpublished at the end time.,די זײַט זײַנען פֿאָרמירט אין דער אָנהײב־צײַט אָדער אָנזאָג אין אָנזאָג אין זײַנען.,,site/modules/Relay/Relay.module.php,0025461727a3f38f67b286d0d3cbf6eb
+The page will be removed from public view at the selected date and time.,זעעװדיקט זיך אױפֿגעהערן פֿון דער באַטרעף־ביז אױף דער טאָג און דעם טאָג,,site/modules/Relay/Relay.module.php,324263f15f143e97061db73fa27af279
+The schedule changed before it could be updated. Reload and try again.,די schedule פֿאַרװאַנדלט אײדער זי קען דערהײַנטיקן זײַן. אַרײַנצוהײבן און פּרוּװ איבעריק.,,site/modules/Relay/Relay.module.php,ed5b65fc8e47df872e8361a969a5260b
+The unpublish time must be after the publish time.,די אונטערפולישע צײַט מוז זײַן נאָך דעם פֿאָרמיר־טאָג.,,site/modules/Relay/Relay.module.php,b256f48698bcbd56a67cc2fe103f574e
+This view is limited to the first 500 actions. Narrow the date range or filter by page.,די געשטאַלט איז בענדיקט צו די ערשטע 500 אכפֿעסל. סאָרט די טאָג גאַמע אָדער פֿאָרױס בײַ זײַט.,,site/modules/Relay/Relay.module.php,6617095af8e90baef9ed214af694badb
+Three-day calendar,סעלעקציע,,site/modules/Relay/Relay.module.php,216ec29317538ae9831370e3ac588212
+Timeline,צײַט,,site/modules/Relay/Relay.module.php,3d1f92a565d3b1a61880236e33c49bf3
+Timeout,צײַט,,site/modules/Relay/Relay.module.php,c85a251cc457840f1e032f1b733e9398
+Timing boundary,טאַמן־גרױס,,site/modules/Relay/Relay.module.php,2f7693a70392d8d205fcfc8fb33917e0
+Timing guarantee,דורכגעבלעטערער,,site/modules/Relay/Relay.module.php,59e5f69a5cae791d501c40d3f447c221
+Today,מאָדאַל,,site/modules/Relay/Relay.module.php,1dd1c5fb7f25cd41b291d43a89e3aefd
+Token,מאָדע,,site/modules/Relay/Relay.module.php,459a6f79ad9b13cbcb5f692d2cc7a94d
+Token actor,טאָקענע־סקאַלירער,,site/modules/Relay/Relay.module.php,e9cd3513139fa56b9cacb7a1a9df2115
+Token credential,טוקענער קענדציאַל,,site/modules/Relay/Relay.module.php,2a17031b5c7436758ae73f8b99428e7f
+Traffic-dependent; not exact,דאַרפֿאַקס־אױפֿלאָמט; ניט פּאַסיק,,site/modules/Relay/Relay.module.php,160bba82791037658b083547ea220f2c
+Traffic-driven fallback,ראַפֿאָרמירטן גריכטאַפֿקע,,site/modules/Relay/Relay.module.php,40f7b4c59b308653c5fd3a66375ec73f
+unavailable,ניט־געהילף,,site/modules/Relay/Relay.module.php,7060e0481896e00b3f7d20f1e8e2749a
+Unavailable,ניט־פֿאָקוס,,site/modules/Relay/Relay.module.php,453e6aa38d87b28ccae545967c53004f
+Undo,פֿאַרקער,,site/modules/Relay/Relay.module.php,1cdc076b28f70afac5fcedadf99fa119
+Unknown template,אומבאַקאַנטער פּאַראַמעטער,,site/modules/Relay/Relay.module.php,caeb7ef6eeac742432695cbfbe74b306
+Unknown version,אומבאַקאַנטע װאַריאַנט,,site/modules/Relay/Relay.module.php,387e333b81cffff0a5c1dda54022d2d8
+Unpublish,ניץ פֿאַרצײַכענונג,,site/modules/Relay/Relay.module.php,181e9a13059454fb2212f1bf10f394ac
+Unpublish date and time,ניץ פֿאַרצײַכענונג,,site/modules/Relay/Relay.module.php,5f50bf511f799a6e5e8df774ce09d774
+Unpublished,ניט־פֿריִיִקירטע,,site/modules/Relay/Relay.module.php,0774e163cd7df482edd2abd498189f8b
+Unpublish page — remove from public view,סעלעקציע,,site/modules/Relay/Relay.module.php,3d7ed8258d1fa9431daa7e7c9c0f07a5
+Unsupported crontab interval.,ניט געשטיצט «crontab» פֿאַרװאַנדל,,site/modules/Relay/Relay.module.php,cbe0436307964bf4adb5ac60f11c4459
+Unsupported worker settings action.,ניט געשטיצט אַרבעט־פּינקס־פּאַסקעס,,site/modules/Relay/Relay.module.php,5d2e322c8ba533b20f361984a7774144
+Update schedule,סעלעקציע (schedule),,site/modules/Relay/Relay.module.php,7db2303554a3114e1319ce0e5c6682f1
+URL,אומלעקסיקע פּאַראַמעטער־געשטאַלט,,site/modules/Relay/Relay.module.php,e6b391a8d2c4d45902a23a8b6585703d
+Used to generate the crontab line in Interfaces. One minute is recommended for publication timing.,ניצט צו ניצן דעם crontab ליניע אין צובינדן. אַן מיניט איז רעקאָמענדירט צו פֿאָפּאָגירן דעם צײַט.,,site/modules/Relay/Relay.module.php,38d50dc182610ff7d7437a4f7f651418
+Used when the page composer opens. Enter a 24-hour time such as 09:00.,מען ניצט װען דער זײַל־אַרײַנשרײַבער אָפֿן. אַרײַנשרײַב אױף אַ 24 שעה־צײַט װי 09: 00.,,site/modules/Relay/Relay.module.php,d85f4acf0f24b317cf32ddbe9e3ace21
+Use request-triggered processing only when a system cron is unavailable; publication timing is not exact.,ניצן בקשה־צעפּיכעסל באַאַרבעטן בלױז װען אַ פּראָצעס קאָנטראָליר ניט באַקאַנט; פּאָזיציע־טעקסט איז ניט קײן פּאַקטעקסט,,site/modules/Relay/Relay.module.php,8ed4620a0c5c6d82423ae90a510a4dbd
+Use Squad default,ניץ פֿאַרצײַכענונג (Squad),,site/modules/Relay/Relay.module.php,ed6b70adfc15258a993bfdc380f6202d
+Uses TeleWire with Relay-owned credentials. Delivery failures never block scheduling or worker execution.,ניצט TeleWire מיט Relay ניצט סימן־סימן. דורכגעפֿאַלן פֿעלפֿן קײן בלאָקירט סעקונדירן אָדער אַרבעטער פֿעלפֿער.,,site/modules/Relay/Relay.module.php,1a679bbcdd3dbca5ed2bcdf8db9773e1
+Verify path,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,ea0622132e10c30a3825ac1290dce969
+Version,װערסיע,,site/modules/Relay/Relay.module.php,34b6cd75171affba6957e308dcbd92be
+Versioned JSON API,װערסיע אַרױסשרײַב־API (JSON),,site/modules/Relay/Relay.module.php,9f45df513d8330f482b9136d9280b933
+View details,פֿאָרױסװײַז,,site/modules/Relay/Relay.module.php,6e9783376d951cfd780e9fdb67a0f02c
+View guide,טעקסט פֿאַרב,,site/modules/Relay/Relay.module.php,bd88923f0c9ed90337d46b307d2db0c0
+View publication,אָריִענטירונג,,site/modules/Relay/Relay.module.php,4bd261e9317cac5c142ecff3b338f70b
+Week,פּונקטן,,site/modules/Relay/Relay.module.php,d2ce009594dcc60befa6a4e6cbeb71fc
+Week calendar,באַפֿעל צום צאַמרינע,,site/modules/Relay/Relay.module.php,73b400870ae42805d484abfe1ab22672
+When,װען מען רײַן,,site/modules/Relay/Relay.module.php,4e97aeeaa8b15ca1180fcd1f3ac478d1
+WireMail provider,WireMail געבאַפֿן,,site/modules/Relay/Relay.module.php,ba8eadbaf0afa17524d7e45cbd03e28e
+Worker,היט זיך,,site/modules/Relay/Relay.module.php,62efb9ec331e364b96efe68c8b03ca20
+Worker and resilience,אַרבעטן און פֿריזאל,,site/modules/Relay/Relay.module.php,fdb167a27270e0f8813dfbd99798d796
+Worker is processing jobs,אַרבעטאָר איז באַאַרבעטן אָפּעראַציעס,,site/modules/Relay/Relay.module.php,ff9e3ff8b90a1b3df939bf14c6e5ac2e
+Worker script,הורבער סעקטאָרט,,site/modules/Relay/Relay.module.php,6a1f4c4267380d303284e243d78ca3b1
+Workflow board,בילד,,site/modules/Relay/Relay.module.php,44ea1fd1cf8d30c84c82517187e32b61
+You cannot choose another editorial identity.,אינטערעמענט אינפֿאָרמאַציע.,,site/modules/Relay/Relay.module.php,c9ead31d055944e5901624db6159dcd6
+You cannot schedule this page.,מעק אַרױס (schedule),,site/modules/Relay/Relay.module.php,736325c3318166ea2cc0b8029d69fd77
+You do not have permission to manage schedules.,דו האָסט ניט געלױבטע צו אױסגלײַכן דרינען.,,site/modules/Relay/Relay.module.php,3aa7945fd4b4ec5c8aa613a5bb1c634d
+You do not have permission to run scheduled jobs.,דו האָסט ניט געלױבטע אַרבעטן אױפֿצואַרבעטן,,site/modules/Relay/Relay.module.php,eeb96a29f3ee6505dbbc06b23bf6c016
+"%d job imported.","%d job imported.",,site/modules/Relay/Relay.module.php,99df9023a345e7c121c7c8c6d9a6cdb9
+"%d jobs imported.","%d jobs imported.",,site/modules/Relay/Relay.module.php,5e40cb82680881b314be113df12789cf
+"Apply the reviewed import","Apply the reviewed import",,site/modules/Relay/Relay.module.php,d92d3d6c6c97a5d1278cc0f439f74ca6
+"Choose a Relay JSON file or paste its contents.","Choose a Relay JSON file or paste its contents.",,site/modules/Relay/Relay.module.php,072e531156d35668bab2182f44bdd30c
+"Confirm the reviewed import before applying it.","Confirm the reviewed import before applying it.",,site/modules/Relay/Relay.module.php,b0841c56d7ae36d82a81b8dfe541324f
+"Create a portable file without credentials, page content, worker locks, or delivery data.","Create a portable file without credentials, page content, worker locks, or delivery data.",,site/modules/Relay/Relay.module.php,a59187c6e59a1f66c8b6032c28013887
+"Create real scheduled jobs. Existing pending actions for the same page and action may be superseded.","Create real scheduled jobs. Existing pending actions for the same page and action may be superseded.",,site/modules/Relay/Relay.module.php,a96042f32289532dca3d9c0c899c70a4
+"Create session-only imitation jobs. No database rows or page states will change.","Create session-only imitation jobs. No database rows or page states will change.",,site/modules/Relay/Relay.module.php,71d9ead14aed41fbe0cfc23673cbb9c1
+"Data boundary","Data boundary",,site/modules/Relay/Relay.module.php,1e3d23d4ce31aa5ec10f04fbfed82e5c
+"Download a portable JSON document or preview a reviewed file before creating future scheduled actions.","Download a portable JSON document or preview a reviewed file before creating future scheduled actions.",,site/modules/Relay/Relay.module.php,8899e970266cf311b689826c25c40bf1
+Errors,Errors,,site/modules/Relay/Relay.module.php,5ef0c737746fae2ca90e66c39333f8f6
+Export,Export,,site/modules/Relay/Relay.module.php,0095a9fa74d1713e43e370a7d7846224
+"Export complete history","Export complete history",,site/modules/Relay/Relay.module.php,b2fb0e17a4aef79552efe04a6e29644c
+"Export jobs","Export jobs",,site/modules/Relay/Relay.module.php,9dbe7b4a10bb060737f81a9a3a896cb2
+"Export scheduled jobs","Export scheduled jobs",,site/modules/Relay/Relay.module.php,23b07e71b6fc53221c54ef993822b950
+"History remains useful for audit and backup, but only future scheduled jobs are importable.","History remains useful for audit and backup, but only future scheduled jobs are importable.",,site/modules/Relay/Relay.module.php,54c17e0acff6496f77e15bbc8e56f139
+Imitation,Imitation,,site/modules/Relay/Relay.module.php,1b3ed33b29533474215c6a1e3e1efffe
+"Imitation import","Imitation import",,site/modules/Relay/Relay.module.php,53180b337719b54217bbb24ce98807a9
+"Imitation mode is active. Applying this preview changes session data only.","Imitation mode is active. Applying this preview changes session data only.",,site/modules/Relay/Relay.module.php,a62b50b6b76adf4e23af7444e7b40e75
+Import,Import,,site/modules/Relay/Relay.module.php,72d6d7a1885885bb55a565fd1070581a
+"Import %d job","Import %d job",,site/modules/Relay/Relay.module.php,06ef11d6e0a3a21deff43fcc8cdd0e3f
+"Import %d jobs","Import %d jobs",,site/modules/Relay/Relay.module.php,187d4fe55f98ae3848e8905b97b3683a
+"Import / Export","Import / Export",,site/modules/Relay/Relay.module.php,97ccd1af9113ed7817b0a3c77b8ac1de
+Importable,Importable,,site/modules/Relay/Relay.module.php,79e41f293980da78b8ed7b49ad5462b5
+"Import complete","Import complete",,site/modules/Relay/Relay.module.php,a218495ad30949e8ea1f64a261e37463
+"Import creates scheduled actions only after review","Import creates scheduled actions only after review",,site/modules/Relay/Relay.module.php,3f54b8c0d5545c43472b1b8e41515bdb
+"Import jobs","Import jobs",,site/modules/Relay/Relay.module.php,d0c38066743cc00a3d5d04b94ececf4e
+"Import preview","Import preview",,site/modules/Relay/Relay.module.php,3ec77b90818695cb749d4241faabd2f5
+"Jobs in this mode","Jobs in this mode",,site/modules/Relay/Relay.module.php,0ccbaa77437d50c80a74ce56e1cbae21
+"JSON document","JSON document",,site/modules/Relay/Relay.module.php,7c29c6870694a046f8ea037e7a37d389
+"JSON file","JSON file",,site/modules/Relay/Relay.module.php,a6c9e3a7671c1fd9d7328c3be5d107b5
+"Maximum per file","Maximum per file",,site/modules/Relay/Relay.module.php,d2a32ac018b0ca2b9fbba07d716768f7
+"Move a bounded set of scheduled actions between Relay installations with a preview-first portable file.","Move a bounded set of scheduled actions between Relay installations with a preview-first portable file.",,site/modules/Relay/Relay.module.php,ba536c1bc2375004d5abe09434134d67
+"Move Relay jobs safely","Move Relay jobs safely",,site/modules/Relay/Relay.module.php,5ec726fe17755ff823ce13cd72960ded
+"No jobs are created until you confirm and apply this preview.","No jobs are created until you confirm and apply this preview.",,site/modules/Relay/Relay.module.php,a2a025c3b1414269bf022599ad44a451
+"or paste JSON","or paste JSON",,site/modules/Relay/Relay.module.php,614df38ddf67ab911fab871a6e0935a0
+"Preview first","Preview first",,site/modules/Relay/Relay.module.php,07b6d3bdbff97a2e0657ccce87b6ee7b
+"Preview import","Preview import",,site/modules/Relay/Relay.module.php,3e1851ccdc15d8e7195d313526955cfc
+"Ready to apply","Ready to apply",,site/modules/Relay/Relay.module.php,4a62a41a6b2b3cbd4822e298319cf498
+"Real jobs","Real jobs",,site/modules/Relay/Relay.module.php,dc195b5cff0d69be25307e946d76b20c
+"Relay Import / Export","Relay Import / Export",,site/modules/Relay/Relay.module.php,258b4848bf113d241cbc0ae3196992ed
+"Relay import files are limited to 1 MiB.","Relay import files are limited to 1 MiB.",,site/modules/Relay/Relay.module.php,313c5fe2eadeb9351bf5901ea9b1fdd3
+Result,Result,,site/modules/Relay/Relay.module.php,8eea62084ca7e541d918e823422bd82e
+"Review the reported problems","Review the reported problems",,site/modules/Relay/Relay.module.php,d19f29de88a277c8320b89afdb85b86c
+Rows,Rows,,site/modules/Relay/Relay.module.php,530f488f7a9800411efc6926ab189708
+Skipped,Skipped,,site/modules/Relay/Relay.module.php,d9c8f187972e6320a34e9c40b4cba605
+"The imported jobs are now visible in the Relay calendar and stored in relay_jobs.","The imported jobs are now visible in the Relay calendar and stored in relay_jobs.",,site/modules/Relay/Relay.module.php,b6e56816598ec43bba0cd7d8feeb163f
+"The imported jobs exist only in this session; relay_jobs was not changed.","The imported jobs exist only in this session; relay_jobs was not changed.",,site/modules/Relay/Relay.module.php,8478594c53b24e417cab7818082b8a66
+"The import preview expired or the execution mode changed. Preview the file again.","The import preview expired or the execution mode changed. Preview the file again.",,site/modules/Relay/Relay.module.php,3f12825e2cc16fc2bef5b25115f0ef3a
+"The portable file contains page paths, dates, editorial identities, and internal notes. Processing history is export-only. Secrets, lock tokens, errors, and page content are never included.","The portable file contains page paths, dates, editorial identities, and internal notes. Processing history is export-only. Secrets, lock tokens, errors, and page content are never included.",,site/modules/Relay/Relay.module.php,001861faf79da3316d1ab758133bc03b
+"The uploaded JSON file is empty.","The uploaded JSON file is empty.",,site/modules/Relay/Relay.module.php,d7fc4d9661a5d9678fb744c3b8145e70
+"The upload must be a valid JSON file no larger than 1 MiB.","The upload must be a valid JSON file no larger than 1 MiB.",,site/modules/Relay/Relay.module.php,a61694ff49cacee832b069df7e7624aa
+Transfer,Transfer,,site/modules/Relay/Relay.module.php,6950810f0d2bba97a6f710c7b965b84e
+"Unsupported transfer action.","Unsupported transfer action.",,site/modules/Relay/Relay.module.php,04e666a28a66505ee68e85ba75e588a6
+"Upload a Relay JSON file or paste its contents. Preview performs no writes.","Upload a Relay JSON file or paste its contents. Preview performs no writes.",,site/modules/Relay/Relay.module.php,c6f77b8d4dca901f21edb474b29b10a0
+Warnings,Warnings,,site/modules/Relay/Relay.module.php,e17fdb615452f440c793b5ddad90dd5e
+"Action must be publish or unpublish.","Action must be publish or unpublish.",,site/modules/Relay/Relay.module.php,021e6c0032a196ee19244fe964a54992
+"A Relay import can contain at most 500 jobs.","A Relay import can contain at most 500 jobs.",,site/modules/Relay/Relay.module.php,a57978e377a8b69513d72f8eacd5dfff
+"Date or timezone is invalid, past, or outside the planning horizon.","Date or timezone is invalid, past, or outside the planning horizon.",,site/modules/Relay/Relay.module.php,b7a1db6f535332d50db4ee5687ca2b96
+"Editorial identity was not found; the importing user will be used.","Editorial identity was not found; the importing user will be used.",,site/modules/Relay/Relay.module.php,6b4440f75d52684be232bc2796b83f10
+"Export scope must be scheduled or all.","Export scope must be scheduled or all.",,site/modules/Relay/Relay.module.php,3fd8ad697d365cc986d3bff7c55902df
+"Job must be a JSON object.","Job must be a JSON object.",,site/modules/Relay/Relay.module.php,007d4d870d75820810562b481cda510a
+"Only scheduled jobs can be imported.","Only scheduled jobs can be imported.",,site/modules/Relay/Relay.module.php,2a717a4dbcc1f8424bd3463e5a8a1a6b
+"Page is missing, outside the allowed templates, or not editable.","Page is missing, outside the allowed templates, or not editable.",,site/modules/Relay/Relay.module.php,f1563262a6076eaad5d3c9c78afc97ad
+"Relay import and export access denied.","Relay import and export access denied.",,site/modules/Relay/Relay.module.php,7ad3caf22c2cad8546e0dfba59de7ce7
+"Resolve every import error before applying the file.","Resolve every import error before applying the file.",,site/modules/Relay/Relay.module.php,a7f2db5031b0e320f5995192440efa50
+"The file is not a supported Relay jobs export.","The file is not a supported Relay jobs export.",,site/modules/Relay/Relay.module.php,684f5fc3cc078c7dadeb6a078f3b902e
+"The file repeats the same page and action.","The file repeats the same page and action.",,site/modules/Relay/Relay.module.php,56171623d2f03e2fb91ad3b6a6fb75f6
+"The import file is not valid JSON.","The import file is not valid JSON.",,site/modules/Relay/Relay.module.php,33b9217caa3b3d4d49059456287750c8
+"The page or editorial identity cannot perform this action.","The page or editorial identity cannot perform this action.",,site/modules/Relay/Relay.module.php,7b9acfb38d6c6f4b6d356e6412b54f09
+"The Relay jobs list is missing.","The Relay jobs list is missing.",,site/modules/Relay/Relay.module.php,7bf3ceb4403422597213761f7f9f16e5
+"+{count} more","+{count} more",,site/modules/Relay/Relay.module.php,ee3a220a25f825b902611b941f4c15d1
+"+%d more","+%d more",,site/modules/Relay/Relay.module.php,29a572c2a49d00d40c4aafb6a1af35e4
+"Choose file","Choose file",,site/modules/Relay/Relay.module.php,cbe55e77ffa67d13322eb1ce7d22f1ba
+"No file selected","No file selected",,site/modules/Relay/Relay.module.php,f787618e514c038851726224d7e4421e
+"Enable Relay logging","Enable Relay logging",,site/modules/Relay/Relay.module.php,533bc56d23c3e93cdd179b96ab03f13a
+"Writes audit, integration, and performance events to ProcessWire logs and keeps the generated crontab worker output file.","Writes audit, integration, and performance events to ProcessWire logs and keeps the generated crontab worker output file.",,site/modules/Relay/Relay.module.php,4aefeb4b9802db4809449d8a36bdd846
+"Disable this only when another observability system captures Relay activity. Existing log files are not deleted.","Disable this only when another observability system captures Relay activity. Existing log files are not deleted.",,site/modules/Relay/Relay.module.php,2109f3a4862a495139f428c1a0fa70c2
+"Relay logging is disabled. Generated worker output will be discarded.","Relay logging is disabled. Generated worker output will be discarded.",,site/modules/Relay/Relay.module.php,da4554f39cb33bb55e32853b27a8828f
+"Add one preset per line in the form Label|HH:MM. Relay ignores invalid and duplicate times.","Add one preset per line in the form Label|HH:MM. Relay ignores invalid and duplicate times.",,site/modules/Relay/Relay.module.php,96e58763589530293ae0c2da8675d4a3
+"Presets change only the time and keep the date already selected by the editor. Leave empty to hide them.","Presets change only the time and keep the date already selected by the editor. Leave empty to hide them.",,site/modules/Relay/Relay.module.php,38919c8a8d31aa520c89319d7fae7dd9
+"Set time to %s","Set time to %s",,site/modules/Relay/Relay.module.php,e5af3eb0740f1cb104b20af4011f2e6f
+"Scheduling rules","Scheduling rules",,site/modules/Relay/Relay.module.php,8ae221bca544e684cbfba6e254b6d302
+Rules,Rules,,site/modules/Relay/Relay.module.php,1f4da964f8eab62e96e8cfe406e44364
+"Template scheduling rules","Template scheduling rules",,site/modules/Relay/Relay.module.php,860137b4703925b360e60d7fc70c0c71
+"Define recurring editorial slots once, then let matching page templates start with the next suitable date and action.","Define recurring editorial slots once, then let matching page templates start with the next suitable date and action.",,site/modules/Relay/Relay.module.php,fa6bf7ec51e9bda167a3c8787c3dc42e
+Templates,Templates,,site/modules/Relay/Relay.module.php,7df96b18c230f90ada0a9e2307226338
+"Editorial boundary","Editorial boundary",,site/modules/Relay/Relay.module.php,18d987483da6378c508d113dcd27d0a8
+"Rules propose the next slot; editors still create the job","Rules propose the next slot; editors still create the job",,site/modules/Relay/Relay.module.php,04c7df306105619a0b7486ef4084d877
+"A matching rule fills the page planner with an editable action, date, time, window, and note. It never publishes a page or creates repeated jobs automatically.","A matching rule fills the page planner with an editable action, date, time, window, and note. It never publishes a page or creates repeated jobs automatically.",,site/modules/Relay/Relay.module.php,78e060b4c21a8cbf7fbc4cd7ad603b76
+"Scheduling rule deleted.","Scheduling rule deleted.",,site/modules/Relay/Relay.module.php,21425017f0cce16b44369de0f09375a4
+"Unsupported scheduling rule action.","Unsupported scheduling rule action.",,site/modules/Relay/Relay.module.php,b3372e7678f04c07f40a9273c009f7f8
+"Rule name and page template are required.","Rule name and page template are required.",,site/modules/Relay/Relay.module.php,00d766e19b4bf219afb06711095e6413
+"Choose an available page template.","Choose an available page template.",,site/modules/Relay/Relay.module.php,161623c829c1ca5bc07ade3537d90a03
+"Relay supports up to 50 scheduling rules.","Relay supports up to 50 scheduling rules.",,site/modules/Relay/Relay.module.php,d642efc4627330efd4887f627a2fb36f
+"Scheduling rule updated.","Scheduling rule updated.",,site/modules/Relay/Relay.module.php,75cd6e00a5c0cf6a250f8a16a17f9299
+"Scheduling rule created.","Scheduling rule created.",,site/modules/Relay/Relay.module.php,fc46e7cc1080043445e66fabeb692bf6
+"Custom schedule","Custom schedule",,site/modules/Relay/Relay.module.php,b2575a80ba7e221059a294ef3fee3b6e
+"Scheduling rule","Scheduling rule",,site/modules/Relay/Relay.module.php,524eb74f4ae6dfa7ccacc499ca368894
+"Automatically matched to template %s","Automatically matched to template %s",,site/modules/Relay/Relay.module.php,fe8d1b8d76e476062b5d46d5ae437305
+day,day,,site/modules/Relay/Relay.module.php,628b7db04235f228d40adc671413a8c8
+week,week,,site/modules/Relay/Relay.module.php,172a8327fcd3685ab3c0f740d031da09
+month,month,,site/modules/Relay/Relay.module.php,7436f942d5ea836cb84f1bb2527d8286
+year,year,,site/modules/Relay/Relay.module.php,84cdc76cabf41bd7c961f6ab12f117d8
+"Every %1$d %2$s at %3$s","Every %1$d %2$s at %3$s",,site/modules/Relay/Relay.module.php,fa5b4b03600b524ff4c847bcbf607f49
+Mon,Mon,,site/modules/Relay/Relay.module.php,fd29458ae58ac32a2d8734ed90ad51ec
+Tue,Tue,,site/modules/Relay/Relay.module.php,2ddecde85408faf230652444db78cb72
+Wed,Wed,,site/modules/Relay/Relay.module.php,510c292b1686eb070d9e90a575f74106
+Thu,Thu,,site/modules/Relay/Relay.module.php,ed5e8353dfc585f4c6b3a55d1a9fc01d
+Fri,Fri,,site/modules/Relay/Relay.module.php,ac616f844b9a5ea5a827bf7fb99b1ad5
+Sat,Sat,,site/modules/Relay/Relay.module.php,13c7d2d737f81f7bf89aed9fbcd0ad55
+Sun,Sun,,site/modules/Relay/Relay.module.php,ef6572e4cd58bb39a3f4e82fc64fe9f0
+"Rule library","Rule library",,site/modules/Relay/Relay.module.php,1764d3e08320cd01a30297263498f17a
+"Recurring editorial slots","Recurring editorial slots",,site/modules/Relay/Relay.module.php,7e5fe4774a8ef413fa1c269b5fd3ae3d
+"Rules are matched by page template and ordered by their next available occurrence.","Rules are matched by page template and ordered by their next available occurrence.",,site/modules/Relay/Relay.module.php,877d710df5ae427e34bbff9e3563bd9c
+"New rule","New rule",,site/modules/Relay/Relay.module.php,39567c78b6d13fd92f369db9977a97fb
+"No scheduling rules yet","No scheduling rules yet",,site/modules/Relay/Relay.module.php,fdcf10d5e8ed307a2fe25859a421d209
+"Create a rule to give one page template a reliable next publication slot.","Create a rule to give one page template a reliable next publication slot.",,site/modules/Relay/Relay.module.php,76a313dbc6fe82167c0f517336e4f904
+Paused,Paused,,site/modules/Relay/Relay.module.php,e99180abf47a8b3a856e0bcb2656990a
+"Next slot","Next slot",,site/modules/Relay/Relay.module.php,6f979d33177a6b8239eb47d44c42a00f
+"No future slot","No future slot",,site/modules/Relay/Relay.module.php,2630c2ef96f94a56f923edc149248463
+"Delete this scheduling rule?","Delete this scheduling rule?",,site/modules/Relay/Relay.module.php,2fc15909352c70fdf7f11b62fe7b2be6
+Delete,Delete,,site/modules/Relay/Relay.module.php,f2a6c498fb90ee345d997f888fce3b18
+"Choose template","Choose template",,site/modules/Relay/Relay.module.php,52a868afead26bf5092fb277c07a25e7
+"Edit rule","Edit rule",,site/modules/Relay/Relay.module.php,2f47901af231c2bfae1e437fe5f43397
+"Create scheduling rule","Create scheduling rule",,site/modules/Relay/Relay.module.php,2b8343238d23edbdde23ab05801a33db
+"Choose the template, slot cadence, default action, and when the rule should stop offering dates.","Choose the template, slot cadence, default action, and when the rule should stop offering dates.",,site/modules/Relay/Relay.module.php,10dc12728edd33a2b5a0cca08ab723db
+"Rule name","Rule name",,site/modules/Relay/Relay.module.php,a4257b70dd090b12a16890a8df21a097
+"Page template","Page template",,site/modules/Relay/Relay.module.php,3ef41dd629e48b66e03d80ec31d6dbe6
+"Default action","Default action",,site/modules/Relay/Relay.module.php,97958f6549e2103b384d135fa5c9b7e6
+"Publication window","Publication window",,site/modules/Relay/Relay.module.php,314f5debfa27ae88d61a427282221e9e
+"Starts on","Starts on",,site/modules/Relay/Relay.module.php,b26018154712daf8cb06967bcc03395a
+"Slot time","Slot time",,site/modules/Relay/Relay.module.php,cd9a7d9cc6cc3c1c40efdd16bb3a28ef
+"Repeats every","Repeats every",,site/modules/Relay/Relay.module.php,1eedcd9e6f76a006ca6a27389b638375
+Day,Day,,site/modules/Relay/Relay.module.php,03727ac48595a24daed975559c944a44
+Year,Year,,site/modules/Relay/Relay.module.php,537c66b24ef5c83b7382cdc3f34885f2
+"Repeat on","Repeat on",,site/modules/Relay/Relay.module.php,db439ba7bc091c4b9ecefdcf502d9de8
+Ends,Ends,,site/modules/Relay/Relay.module.php,da22a1837931d6562e6f8491055bcd14
+"On date","On date",,site/modules/Relay/Relay.module.php,4f3ea7ccd964ef365f7102d2d4ce85bf
+"After occurrences","After occurrences",,site/modules/Relay/Relay.module.php,ff3212eb9994fbe409a2be3e2392a7b5
+"End date","End date",,site/modules/Relay/Relay.module.php,b7de7e4247d4ab279ef031b7a44c201d
+Occurrences,Occurrences,,site/modules/Relay/Relay.module.php,e52e6aa1a43a0187e44f048f658db5f9
+"Window duration (hours)","Window duration (hours)",,site/modules/Relay/Relay.module.php,b127a5cb615aafee4bea40ab809846e0
+"Default internal note","Default internal note",,site/modules/Relay/Relay.module.php,d6e9e0df93a9ae398fc374b88761af88
+"Rule enabled","Rule enabled",,site/modules/Relay/Relay.module.php,9acb703046d26c3a2fc13e1742821f6a
+"Matching page templates receive this rule in the publication planner.","Matching page templates receive this rule in the publication planner.",,site/modules/Relay/Relay.module.php,8438a9948179cc4890f65d2b2795b641
+"Save rule","Save rule",,site/modules/Relay/Relay.module.php,ca017e490bc70576d70074c5d17f92d0
+"Create rule","Create rule",,site/modules/Relay/Relay.module.php,ccee2cbec967e636d931fe9909b28d4e
+"%d day","%d day",,site/modules/Relay/Relay.module.php,fdb916cf48513ee9884330392f49349b
+"%d days","%d days",,site/modules/Relay/Relay.module.php,cdca48ec5dde79b84b395c0c557bb290
+"Anyone with the subscription URL can read its events","Anyone with the subscription URL can read its events",,site/modules/Relay/Relay.module.php,c33801adc47e6f5db49ee75ec66e0989
+"Calendar feed","באַשרײַבונג · iCalendar",,site/modules/Relay/Relay.module.php,11b4bddfe26514a629a9a7b02a73d02b
+"Calendar subscriptions","באַשרײַבונג · iCalendar",,site/modules/Relay/Relay.module.php,bffc346ac077c9438f2cecb4b9a87338
+"Copy URL","Copy URL",,site/modules/Relay/Relay.module.php,9de711d6eb379d46caa26e86cdafa0e9
+"Created / rotated","Created / rotated",,site/modules/Relay/Relay.module.php,174e4ed62e0b3269d9e13d2a76e3b7d5
+Credential,Credential,,site/modules/Relay/Relay.module.php,03bc142e6422dbb9b288ad2cabee08c7
+"Enable calendar feed","Enable calendar feed",,site/modules/Relay/Relay.module.php,3cd7dec28cd7fc59838a4ba5954880df
+Feed,Feed,,site/modules/Relay/Relay.module.php,a80425472d94ae02c836da5b6f205b7b
+"Future days","Future days",,site/modules/Relay/Relay.module.php,7f80e12001fc7412f69a08100aba0682
+"Future range","Future range",,site/modules/Relay/Relay.module.php,6dc13c307100a5d27100df8ba323dc8d
+"Generate a secret URL before enabling the calendar feed.","Generate a secret URL before enabling the calendar feed.",,site/modules/Relay/Relay.module.php,29beb671e34bd6ad5f8029f0bac18b0d
+"Generate secret URL","Generate secret URL",,site/modules/Relay/Relay.module.php,08895a1bc9177d54ef8f7aa3959885cc
+"Google and Apple Calendar","Google & Apple באַשרײַבונג",,site/modules/Relay/Relay.module.php,4754bab0892390ba9d548c360a1ec1ad
+Hidden,Hidden,,site/modules/Relay/Relay.module.php,7acdf85c69cc3c5305456a293524386e
+"HTTPS is required before sharing this subscription URL.","HTTPS is required before sharing this subscription URL.",,site/modules/Relay/Relay.module.php,df9966cb3024b20476f29705aa25fdc6
+Included,Included,,site/modules/Relay/Relay.module.php,984ceac16fab685fc50b8d8a5eabf7de
+"Include page titles","Include page titles",,site/modules/Relay/Relay.module.php,30aad8938f4665c9bdcb6133b59bbe50
+"Include public page links","Include public page links",,site/modules/Relay/Relay.module.php,6c5c4a89e59e77000f8d5092e2279f3a
+"May reveal titles of unpublished pages to anyone holding the URL.","May reveal titles of unpublished pages to anyone holding the URL.",,site/modules/Relay/Relay.module.php,505fc9043d4c77ba6d5f3c3d844040b8
+"New calendar subscription URL","New calendar subscription URL",,site/modules/Relay/Relay.module.php,5c15fa41c7eebfc551badb14a9e64611
+"Only links viewable to the public visitor are exported.","Only links viewable to the public visitor are exported.",,site/modules/Relay/Relay.module.php,8ed921338aa3e7c6a224dbe1641f6294
+"Open Google Calendar","Open Google Calendar",,site/modules/Relay/Relay.module.php,4e9b909b58679ba978d2bba213c030f7
+"Page titles","Page titles",,site/modules/Relay/Relay.module.php,a5e05237783f08f5f0423df1ca29b9fd
+"Past days","Past days",,site/modules/Relay/Relay.module.php,89d94ffaa5116bc604041aa68d2fd46e
+"Past range","Past range",,site/modules/Relay/Relay.module.php,cb52a3578357615ed8c4a25793458d7f
+"Pause or resume access without changing the secret URL.","Pause or resume access without changing the secret URL.",,site/modules/Relay/Relay.module.php,d53b3543d4c0d9ae9d9afe8aaad0bb09
+"Public page links","Public page links",,site/modules/Relay/Relay.module.php,2b2d4d59d42cd3ea1829c5116a48d279
+"Publish a revocable read-only subscription without granting calendar providers control of Relay or ProcessWire.","Publish a revocable read-only subscription without granting calendar providers control of Relay or ProcessWire.",,site/modules/Relay/Relay.module.php,4157e57e86a68b6e06761f210ed2d5bc
+"Publish Relay dates to Google Calendar, Apple Calendar, and other iCalendar clients without granting control of jobs or pages.","Publish Relay dates to Google Calendar, Apple Calendar, and other iCalendar clients without granting control of jobs or pages.",,site/modules/Relay/Relay.module.php,4d923d056ac86529534cebe5e3a9b1a1
+"Read-only calendar subscriptions","באַשרײַבונג · iCalendar",,site/modules/Relay/Relay.module.php,75a65ffe5eb3d5dc6e2d58931729689c
+"Read-only scheduled publication actions from Relay.","Read-only scheduled publication actions from Relay.",,site/modules/Relay/Relay.module.php,2799f12d69329ba9b5511108d576c3e3
+"Relay Calendar subscriptions","Relay Calendar subscriptions",,site/modules/Relay/Relay.module.php,0e54c5c26592611f76730d6835b814c9
+"Relay publication schedule","Relay publication schedule",,site/modules/Relay/Relay.module.php,a7811d09168471e83a24272d9cce0338
+"Relay stores only a SHA-256 hash of the 256-bit token. Keep the URL out of tickets, analytics, public documents, and screenshots; rotate it immediately if exposed. Internal notes, users, errors, page content, and non-public links are never exported.","Relay stores only a SHA-256 hash of the 256-bit token. Keep the URL out of tickets, analytics, public documents, and screenshots; rotate it immediately if exposed. Internal notes, users, errors, page content, and non-public links are never exported.",,site/modules/Relay/Relay.module.php,c3687f2996379f1605ad253f97baa2c3
+Required,Required,,site/modules/Relay/Relay.module.php,b651efdb98a5d6bd2b3935d0c3f4a5e2
+"Revoke access","Revoke access",,site/modules/Relay/Relay.module.php,e4c27e9d17bd34073a120ad7bba9e8f4
+"Rotate secret URL","Rotate secret URL",,site/modules/Relay/Relay.module.php,03db98bbf89829a9045772fba1ff8b20
+"Save feed settings","Save feed settings",,site/modules/Relay/Relay.module.php,ffa9683aa35402f84a059c0208cdfbc2
+"Secret-link boundary","Secret-link boundary",,site/modules/Relay/Relay.module.php,1e02069ba39a738771590035a877bd4e
+Secure,Secure,,site/modules/Relay/Relay.module.php,7a2ccf251ecb20b2b84ce0e3c3f72a29
+"SHA-256 hash stored","SHA-256 hash stored",,site/modules/Relay/Relay.module.php,c4e1a2d0be5fe09f917e140bb2d34a76
+"Shown once. Add the HTTPS URL to Google Calendar or open the Apple subscription link before leaving this page.","Shown once. Add the HTTPS URL to Google Calendar or open the Apple subscription link before leaving this page.",,site/modules/Relay/Relay.module.php,5704fefc59a7bb23cce6db5de5d662f8
+"Subscribe in Apple Calendar","Subscribe in Apple Calendar",,site/modules/Relay/Relay.module.php,f436219c58e0b4558bf97f62fe0d688f
+"Subscription access","Subscription access",,site/modules/Relay/Relay.module.php,51d9c1977cf5ecdd13b56a6f5089f5fa
+"Subscription feed","Subscription feed",,site/modules/Relay/Relay.module.php,3bfdec8675034d2609c199fc713a73cf
+"Unsupported calendar feed action.","Unsupported calendar feed action.",,site/modules/Relay/Relay.module.php,78b8674309b41a942d595de8ac3a90c3
+"Use one revocable secret URL for read-only calendar clients. Relay never receives Google or Apple credentials.","Use one revocable secret URL for read-only calendar clients. Relay never receives Google or Apple credentials.",,site/modules/Relay/Relay.module.php,4e85a1678fb755b6e2413b739db02b54
+"%d preset","%d preset",,site/modules/Relay/Relay.module.php,97a902674aea87e2ee3b6f38408fa78b
+"%d presets","%d presets",,site/modules/Relay/Relay.module.php,4a348fcac91df1ca58f74618186f5973
+Apply,Apply,,site/modules/Relay/Relay.module.php,9639e32cab248434a17ab32237cb3b71
+"Delete preset","Delete preset",,site/modules/Relay/Relay.module.php,89a090484b7a165093ab2a8927d5bcec
+"Delete preset %s","Delete preset %s",,site/modules/Relay/Relay.module.php,5acc386b2dfeb241b994bdfaf5c42b1e
+"Delete this quick preset?","Delete this quick preset?",,site/modules/Relay/Relay.module.php,77d3fa8033b52679ff3ad871ed8af1f2
+"Give the quick preset a name.","Give the quick preset a name.",,site/modules/Relay/Relay.module.php,1e5d071a5025ab995ffa47630c4061e5
+"Quick preset deleted.","Quick preset deleted.",,site/modules/Relay/Relay.module.php,4ad33d9deb0e9c50bcbdd97d719a3990
+"Quick presets","Quick presets",,site/modules/Relay/Relay.module.php,fbb3efd0159bf546249e5754b541a44a
+"Quick preset saved. A preset with the same name is updated.","Quick preset saved. A preset with the same name is updated.",,site/modules/Relay/Relay.module.php,50be3b0ac692d3750c23caa67f3f9662
+"Save the current rule form as your first quick preset.","Save the current rule form as your first quick preset.",,site/modules/Relay/Relay.module.php,a4d842ef315c4b664f997b3a58e1fe4b
+"Unsupported quick preset action.","Unsupported quick preset action.",,site/modules/Relay/Relay.module.php,91075084e5229b9bcca7f9ec666e51f2
+"Choose a common interval, or enter any custom number and unit in the rule editor.","Choose a common interval, or enter any custom number and unit in the rule editor.",,site/modules/Relay/Relay.module.php,dd6961f98983a28091881daec00b3577
+days,days,,site/modules/Relay/Relay.module.php,44fdec47036f482b68b748f9d786801b
+"Every %1$d %2$s from %3$s","Every %1$d %2$s from %3$s",,site/modules/Relay/Relay.module.php,3ff98f442b32515e8037549ee4b4e51d
+"Every 4 days","Every 4 days",,site/modules/Relay/Relay.module.php,22132f358ac6d0c93d34ae4d6b19bc1a
+"Every 15 minutes","Every 15 minutes",,site/modules/Relay/Relay.module.php,cb2531191d62f80599c99e6e62d27b62
+"Every 30 minutes","Every 30 minutes",,site/modules/Relay/Relay.module.php,4f6969a7095a445329e6510879d4e23a
+"Every 69 minutes","Every 69 minutes",,site/modules/Relay/Relay.module.php,eb50677e21f3ab19ffb2ff57aa6acd73
+"Every month","Every month",,site/modules/Relay/Relay.module.php,8ed91b71d01993965915f3b296c20336
+"Every week","Every week",,site/modules/Relay/Relay.module.php,64863d871b7d8ecb1eb689ceb3595cb5
+minute,minute,,site/modules/Relay/Relay.module.php,0a7d55be9d12a369a6a8da0fb517fba4
+minutes,minutes,,site/modules/Relay/Relay.module.php,640fd0cc0ffa0316ae087652871f4486
+Minutes,Minutes,,site/modules/Relay/Relay.module.php,f670ea66cfb0e90bd6090472ad692694
+months,months,,site/modules/Relay/Relay.module.php,da36cfaf48b9e19896e23e1207040d1e
+"Save cadence as preset","Save cadence as preset",,site/modules/Relay/Relay.module.php,774d84fa10bffbba1b5f24fe1e21d0af
+"Set recurrence in one click","Set recurrence in one click",,site/modules/Relay/Relay.module.php,c84c558af56aa0100fd62d3fcdb920ea
+weeks,weeks,,site/modules/Relay/Relay.module.php,ae60f11ab51860bdb22794a943335a34
+years,years,,site/modules/Relay/Relay.module.php,75aeb98e5241592ad6a6c2c4c78a16ef
+"Publication times","Time presets",,site/modules/Relay/Relay.module.php,5798acc428b14872ea2560dcc171b307
+"Quick publication times","Quick time presets",,site/modules/Relay/Relay.module.php,5db75e05b8b61398235e02849a07d651
+"Quick time choices for one-time publication scheduling. Recurrence is configured in Rules.","Create quick time choices for the page editor publication planner. Recurrence is configured in Rules.",,site/modules/Relay/Relay.module.php,2cfe58ac3966b2dee715959f32bc0b6f

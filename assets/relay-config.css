@@ -1,0 +1,214 @@
+/* Relay module settings: native ProcessWire inputfields with a compact workspace overview. */
+#ModuleEditForm .RelayConfigOverview,
+#ModuleEditForm .RelayConfigSection {
+  --relay-config-gap: 1rem;
+  box-sizing: border-box;
+}
+
+#ModuleEditForm .RelayConfigOverview .InputfieldContent {
+  padding: 1.25rem;
+}
+
+#ModuleEditForm .RelayConfigIntro > p {
+  max-width: 72rem;
+  margin: 0 0 1.25rem;
+  color: var(--pw-muted-color);
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+#ModuleEditForm .RelayConfigImitation {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin: 0 0 1rem;
+  padding: .85rem 1rem;
+  border: 1px solid color-mix(in srgb, #9c6ade 45%, var(--pw-border-color));
+  border-radius: var(--pw-input-radius);
+  background: color-mix(in srgb, #9c6ade 9%, var(--pw-blocks-background));
+}
+
+#ModuleEditForm .RelayConfigImitation > i {
+  color: #9c6ade;
+  font-size: 1.2rem;
+}
+
+#ModuleEditForm .RelayConfigImitation span,
+#ModuleEditForm .RelayConfigImitation strong {
+  display: block;
+}
+
+#ModuleEditForm .RelayConfigImitation strong {
+  margin-bottom: .15rem;
+}
+
+#ModuleEditForm .RelayConfigStatusGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--relay-config-gap);
+  margin-bottom: 1rem;
+}
+
+#ModuleEditForm .RelayConfigStatus {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: .75rem;
+  padding: 1rem;
+  border: 1px solid var(--pw-border-color);
+  border-radius: var(--pw-input-radius);
+  background: var(--pw-blocks-background);
+}
+
+#ModuleEditForm .RelayConfigStatus__dot {
+  width: .65rem;
+  height: .65rem;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--pw-muted-color);
+  box-shadow: 0 0 0 .25rem color-mix(in srgb, var(--pw-muted-color) 10%, transparent);
+}
+
+#ModuleEditForm .RelayConfigStatus[data-state="active"] .RelayConfigStatus__dot {
+  background: #2e8540;
+  box-shadow: 0 0 0 .25rem color-mix(in srgb, #2e8540 10%, transparent);
+}
+
+#ModuleEditForm .RelayConfigStatus small,
+#ModuleEditForm .RelayConfigStatus strong {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+#ModuleEditForm .RelayConfigStatus small {
+  margin-bottom: .2rem;
+  color: var(--pw-muted-color);
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+#ModuleEditForm .RelayConfigStatus strong {
+  color: var(--pw-text-color);
+  font-size: .95rem;
+  font-weight: 500;
+}
+
+#ModuleEditForm .RelayConfigMeta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.25rem;
+  margin: 0 0 1rem;
+  color: var(--pw-muted-color);
+  font-size: .82rem;
+}
+
+#ModuleEditForm .RelayConfigMeta span {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+}
+
+#ModuleEditForm .RelayConfigNav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+}
+
+#ModuleEditForm .RelayConfigNav a {
+  display: inline-flex;
+  min-height: 2.25rem;
+  align-items: center;
+  padding: .4rem .8rem;
+  border: 1px solid var(--pw-border-color);
+  border-radius: 999px;
+  background: var(--pw-blocks-background);
+  color: var(--pw-text-color);
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration: none;
+}
+
+#ModuleEditForm .RelayConfigNav a:focus-visible {
+  border-color: var(--pw-link-color);
+  color: var(--pw-link-color);
+  text-decoration: none;
+}
+
+#ModuleEditForm .RelayConfigNav a:focus-visible {
+  outline: 2px solid var(--pw-link-color);
+  outline-offset: 2px;
+}
+
+#ModuleEditForm .RelayConfigSection {
+  scroll-margin-top: 5rem;
+}
+
+#ModuleEditForm .RelayConfigSection:target {
+  outline: 2px solid color-mix(in srgb, var(--pw-link-color) 45%, transparent);
+  outline-offset: 2px;
+}
+
+#ModuleEditForm .RelayConfigSection > .InputfieldHeader {
+  font-weight: 500;
+}
+
+#ModuleEditForm .RelayConfigSection > .InputfieldContent > .description {
+  max-width: 76rem;
+  line-height: 1.5;
+}
+
+#ModuleEditForm #wrap_Inputfield_timezone select,
+#ModuleEditForm #wrap_Inputfield_default_view select,
+#ModuleEditForm #wrap_Inputfield_default_time input,
+#ModuleEditForm #wrap_Inputfield_max_future_years input,
+#ModuleEditForm #wrap_Inputfield_max_batch input,
+#ModuleEditForm #wrap_Inputfield_max_attempts input,
+#ModuleEditForm #wrap_Inputfield_stale_minutes input {
+  max-width: 28rem;
+}
+
+#ModuleEditForm .RelayConfigSection .InputfieldAsmSelect .asmContainer {
+  max-width: 52rem;
+}
+
+#ModuleEditForm .RelayConfigSection .InputfieldAsmSelect .asmSelect {
+  width: 100%;
+}
+
+@media (max-width: 1100px) {
+  #ModuleEditForm .RelayConfigStatusGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  #ModuleEditForm .RelayConfigOverview .InputfieldContent {
+    padding: 1rem;
+  }
+
+  #ModuleEditForm .RelayConfigStatusGrid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: .75rem;
+  }
+
+  #ModuleEditForm .RelayConfigStatus {
+    padding: .85rem;
+  }
+
+  #ModuleEditForm .RelayConfigNav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: .35rem;
+    scrollbar-width: thin;
+  }
+
+  #ModuleEditForm .RelayConfigNav a {
+    flex: 0 0 auto;
+  }
+}

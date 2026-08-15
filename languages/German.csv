@@ -1,0 +1,790 @@
+en,de,description,file,hash
+%1$s on %2$s,%1$s auf %2$s,,site/modules/Relay/Relay.module.php,9b8d8a252955b2de195c7fa72b7353cb
+%d action,%d-Aktion,,site/modules/Relay/Relay.module.php,52e7ef0d09080ecf1c1cb9588f5a3346
+%d action in this view,%d-Aktion in dieser Ansicht,,site/modules/Relay/Relay.module.php,edbb5b851dc7c7fce80a4ae79765fee1
+%d actions,%d-Aktionen,,site/modules/Relay/Relay.module.php,b702ff44d2b2006bf4888afc027e438c
+%d actions in this view,%d-Aktionen in dieser Ansicht,,site/modules/Relay/Relay.module.php,72a81c2788218d02e54496f5ce5bf4e8
+%d active lease,%d aktive Lease,,site/modules/Relay/Relay.module.php,45997a700e47aac122a2064ff6b91e91
+%d active leases,%d aktive Leasingverträge,,site/modules/Relay/Relay.module.php,03bbefe07fc6b64dc91467fe2d693ba0
+%d demo action loaded.,%d Demo-Aktion geladen.,,site/modules/Relay/Relay.module.php,02d8eec5f9e44fd4ae56063d0cf25009
+%d demo actions loaded.,%d Demo-Aktionen geladen.,,site/modules/Relay/Relay.module.php,4c230d7f1e07dc373ab85519552dec77
+%d failed job,%d Job fehlgeschlagen,,site/modules/Relay/Relay.module.php,44def872a6aad957747b74cd20867980
+%d failed jobs,%d fehlgeschlagene Jobs,,site/modules/Relay/Relay.module.php,a0ddafd3319505d73b0891530663f509
+%d session-only demo action. No schedule jobs or page states are changed.,%d Demo-Aktion nur für Sitzungen. Es werden keine geplanten Jobs oder Seitenzustände geändert.,,site/modules/Relay/Relay.module.php,b9df1d9878c0a28107069b73d2dcff88
+%d session-only demo actions. No schedule jobs or page states are changed.,%d Demo-Aktionen nur für Sitzungen. Es werden keine geplanten Jobs oder Seitenzustände geändert.,,site/modules/Relay/Relay.module.php,03ebae3d39cd1696b24b493d9db2d710
+%d template,%d-Vorlage,,site/modules/Relay/Relay.module.php,2e97680673e9f48756601bd5672b0d45
+%d templates,%d-Vorlagen,,site/modules/Relay/Relay.module.php,f78cb52b393842a378dcbee7bd241ffe
+%d upcoming action,%d bevorstehende Aktion,,site/modules/Relay/Relay.module.php,2861365b8287f80b6b8c2d6fe56bd63e
+%d upcoming actions,%d bevorstehende Aktionen,,site/modules/Relay/Relay.module.php,b718159aca4e0e94ed8db2f051112718
+%s (not installed),%s (nicht installiert),,site/modules/Relay/Relay.module.php,1307e7441c89b0828007900bfd3f2171
+3 days,3 Tage,,site/modules/Relay/Relay.module.php,45fe0d3293152fa29cf10ef8a3c1871d
+3-day calendar,3-Tage-Kalender,,site/modules/Relay/Relay.module.php,38e6af5f4884e28e44bb23d5f6af6677
+Absolute path or a path relative to the ProcessWire root. Relay only generates the command; it never writes the system crontab.,Absoluter Pfad oder ein Pfad relativ zum ProcessWire-Stamm. Relay generiert nur den Befehl; Es schreibt niemals die System-Crontab.,,site/modules/Relay/Relay.module.php,220d13541eac933c9acfb78f07514d20
+Access,Zugang,,site/modules/Relay/Relay.module.php,bf733d8a933c1601697f364223fc7ecb
+Action,Aktion,,site/modules/Relay/Relay.module.php,004bf6c9a40003140292e97330236c53
+Actions,Aktionen,,site/modules/Relay/Relay.module.php,06df33001c1d7187fdd81ea1f5b277aa
+Actions in current view by status,Aktionen in der aktuellen Ansicht nach Status,,site/modules/Relay/Relay.module.php,af64477cfee328730682df824f4f4527
+Active,Aktiv,,site/modules/Relay/Relay.module.php,4d3d769b812b6faa6b76e1a8abaece2d
+Adds /relay-api/v1/ routes with session/CSRF or an explicitly rotated Bearer credential. CORS remains disabled.,Fügt /relay-api/v1/-Routen mit session/CSRF oder einer explizit rotierten Bearer-Anmeldeinformation hinzu. CORS bleibt deaktiviert.,,site/modules/Relay/Relay.module.php,9b843d3fcc73feed1090d1cc97f93994
+Adds a compact action/clock marker and local-time tooltip for users with relay-view.,Fügt eine kompakte Aktions-/Uhrmarkierung und einen Ortszeit-Tooltip für Benutzer mit relay-view hinzu.,,site/modules/Relay/Relay.module.php,663e5ab2d43fd1eede404e7d7623588b
+Adds a subtle weekend background in date-based calendar views. Disable it for a uniform grid.,Fügt in datumsbasierten Kalenderansichten einen dezenten Wochenendhintergrund hinzu. Deaktivieren Sie es für ein einheitliches Raster.,,site/modules/Relay/Relay.module.php,75d3e7a7bfcdde3525309af275c77048
+AI planning proposals,KI-Planungsvorschläge,,site/modules/Relay/Relay.module.php,ce74f68e998d966d107b0e413109aafd
+"Alerts contain metadata, not editorial content","Warnungen enthalten Metadaten, keinen redaktionellen Inhalt",,site/modules/Relay/Relay.module.php,e2ff31dc656705e2b2d89110a4dac14c
+All actions,Alle Aktionen,,site/modules/Relay/Relay.module.php,2701bbdc7ebed3bba6e85534149c85b1
+All editable templates,Alle bearbeitbaren Vorlagen,,site/modules/Relay/Relay.module.php,c4665cd5c7c6178de30de7f3c8056ba4
+Allowed templates,Erlaubte Vorlagen,,site/modules/Relay/Relay.module.php,309be34a512a2a051e6e43bb6da151b9
+All statuses,Alle Status,,site/modules/Relay/Relay.module.php,96e3d398260724e0a83da53a2e9f20e7
+All templates,Alle Vorlagen,,site/modules/Relay/Relay.module.php,d4e3a3afd7f0073d8b3967cf2995edc9
+An action fails,Eine Aktion schlägt fehl,,site/modules/Relay/Relay.module.php,c9987dc7822b8c86232ea7dac2a53950
+An action is cancelled,Eine Aktion wird abgebrochen,,site/modules/Relay/Relay.module.php,d73a22447bf29c5c8b6ec10edb2ddf15
+An action is rescheduled,Eine Aktion wird verschoben,,site/modules/Relay/Relay.module.php,de25faabb04cfecc9d35e31628b8fe76
+An action is scheduled,Eine Aktion ist geplant,,site/modules/Relay/Relay.module.php,5c5c92a301f9adb4c09fd18daf4b2830
+An editor can request an editable publication-time and note proposal. Nothing is scheduled and no page is changed automatically.,Ein Redakteur kann einen editierbaren Veröffentlichungszeit- und Notizvorschlag anfordern. Es ist nichts geplant und keine Seite wird automatisch geändert.,,site/modules/Relay/Relay.module.php,bf9d1f92b299ff2027159bb4ad01ee1c
+Any action completes,Jede Aktion wird abgeschlossen,,site/modules/Relay/Relay.module.php,4c1a63ec3b633e25dff8c7c0d954fdf8
+A page is successfully published,Eine Seite wurde erfolgreich veröffentlicht,,site/modules/Relay/Relay.module.php,f4fa1bf941f484b0acd75613e7fde479
+API,API,,site/modules/Relay/Relay.module.php,db974238714ca8de634a7ce1d083a14f
+API access,API-Zugriff,,site/modules/Relay/Relay.module.php,333157a2df341277b8e5bf1ac7b9afd0
+API keys and SMTP passwords remain in the selected WireMail provider. Relay sends operational page and job metadata only; a delivery failure never blocks a job state change.,API-Schlüssel und SMTP-Passwörter verbleiben beim ausgewählten WireMail-Anbieter. Relay sendet nur operative Seiten- und Jobmetadaten; Ein Lieferfehler blockiert niemals eine Auftragsstatusänderung.,,site/modules/Relay/Relay.module.php,335db0f60c195441bf768ffc9a695a42
+Apply filters,Wenden Sie Filter an,,site/modules/Relay/Relay.module.php,79ee641715155ec7d121815215f2b70c
+"A request triggers the check, not the clock","Eine Anfrage löst die Prüfung aus, nicht die Uhr",,site/modules/Relay/Relay.module.php,8b8b2dee506dea84460e65c8dac45ce2
+A runtime credential is active; the saved token is not used.,Eine Laufzeitanmeldeinformation ist aktiv; Der gespeicherte Token wird nicht verwendet.,,site/modules/Relay/Relay.module.php,c4956cadc1053597ded6bac69c666e50
+"A session-only demo sandbox. Create, reschedule, cancel, filter, and run test actions without writing schedule jobs or changing pages. Real jobs are hidden and workers are paused while enabled.","Eine reine Sitzungs-Demo-Sandbox. Erstellen, planen, stornieren, filtern und führen Sie Testaktionen aus, ohne Zeitplanaufträge zu schreiben oder Seiten zu wechseln. Echte Jobs werden ausgeblendet und Arbeiter werden angehalten, solange sie aktiviert sind.",,site/modules/Relay/Relay.module.php,e021fd243bfab1b74a65440ec0649a84
+Assistance,Hilfe,,site/modules/Relay/Relay.module.php,1741ec6ed69cf571adac9eeb641c4f87
+Authentication does not bypass permissions,Durch die Authentifizierung werden Berechtigungen nicht umgangen,,site/modules/Relay/Relay.module.php,3105bd97f2e5366f5c658323e62a7d61
+Available,Verfügbar,,site/modules/Relay/Relay.module.php,78945de8de090e90045d299651a68a9b
+Batch limit,Chargenlimit,,site/modules/Relay/Relay.module.php,c434994f87d80496315aabb424d301ac
+Bearer token,Bearer-Token,,site/modules/Relay/Relay.module.php,25d95961a44037e555767a429cb7864e
+Bounded filtered job list.,Begrenzte gefilterte Jobliste.,,site/modules/Relay/Relay.module.php,d28acff2ebaac2f03b246ad07ab890cb
+Bounded filtered jobs.,Begrenzte gefilterte Jobs.,,site/modules/Relay/Relay.module.php,a63e0c300eda884def8ac90cee995aee
+"Bound execution, retry failed work, and configure the optional traffic-driven fallback.","Begrenzen Sie die Ausführung, wiederholen Sie fehlgeschlagene Arbeiten und konfigurieren Sie den optionalen verkehrsgesteuerten Fallback.",,site/modules/Relay/Relay.module.php,1287ef14325adcd0c658131d23c85733
+Browse pages,Seiten durchsuchen,,site/modules/Relay/Relay.module.php,5e0b73696a62c55958548373ca1b8685
+Build a server-ready crontab line from the detected paths and worker limits. This page never installs or executes it.,Erstellen Sie aus den erkannten Pfaden und Worker-Grenzwerten eine serverbereite Crontab-Zeile. Diese Seite installiert oder führt es niemals aus.,,site/modules/Relay/Relay.module.php,c6716b8ef9880688b036ee21e2b24786
+"Build the exact production worker command to review, copy, and install in the server scheduler.","Erstellen Sie den genauen Produktions-Worker-Befehl, um ihn im Server-Scheduler zu überprüfen, zu kopieren und zu installieren.",,site/modules/Relay/Relay.module.php,3dc3e866979d8821bbbaf6c1593d8b46
+Calendar,Kalender,,site/modules/Relay/Relay.module.php,8ff922bbcd8ad41cdfc48d3c5163b2ab
+Calendar is clear,Der Kalender ist übersichtlich,,site/modules/Relay/Relay.module.php,97c3f628453fd7631afa4ff83e6cf353
+Calendar range,Kalenderbereich,,site/modules/Relay/Relay.module.php,1421ce9923c5e5d1c1b17300282da3d1
+Cancel,Abbrechen,,site/modules/Relay/Relay.module.php,ea4788705e6873b424c65e91c2846b19
+Cancel action,Aktion abbrechen,,site/modules/Relay/Relay.module.php,1bf87e44da33943a3baad59edd51f4a0
+Cancel a pending action.,Eine ausstehende Aktion abbrechen.,,site/modules/Relay/Relay.module.php,b6d129c814ed58a2a5f019b6dbbf3cb5
+Cancel editing,Bearbeitung abbrechen,,site/modules/Relay/Relay.module.php,12c110ad1b37cf8db33fa1246ec4143d
+Cancelled,Abgesagt,,site/modules/Relay/Relay.module.php,a149e85a44aeec9140e92733d9ed694e
+Cancel pending job.,Ausstehenden Auftrag abbrechen.,,site/modules/Relay/Relay.module.php,8bdd42c19fd7e9a544c6f8b007ab0bde
+Cancel this scheduled action?,Diese geplante Aktion abbrechen?,,site/modules/Relay/Relay.module.php,a5ff052f361c36edf80cdd32fbd0d468
+Cards are grouped by status; open any card for full details and actions.,"Karten sind nach Status gruppiert; Öffnen Sie eine beliebige Karte, um alle Details und Aktionen anzuzeigen.",,site/modules/Relay/Relay.module.php,49a239f405913b1094ea1cbab8dce2b7
+Channel and capability manifest.,Kanal- und Fähigkeitsmanifest.,,site/modules/Relay/Relay.module.php,d424fe59c2ccbde6fc73ac9b8d3d9993
+Channels and stable capabilities.,Kanäle und stabile Funktionen.,,site/modules/Relay/Relay.module.php,a0b7a50f9cffaa9bcbe43579ecb44fa0
+Check paths,Überprüfen Sie die Pfade,,site/modules/Relay/Relay.module.php,46380281d1978ca571499940ac460734
+"Choose an interface to see what it does, whether it is ready, what it can change, and where to configure it.","Wählen Sie eine Schnittstelle aus, um zu sehen, was sie tut, ob sie bereit ist, was sie ändern kann und wo sie konfiguriert werden muss.",,site/modules/Relay/Relay.module.php,792b6c4ecd8ede98fda36a2d900e5909
+Choose a schedule action first.,Wählen Sie zunächst eine geplante Aktion aus.,,site/modules/Relay/Relay.module.php,b5ca6bee4a1a4df268843a5ed568baea
+Choose Kanban column,Wählen Sie die Spalte Kanban,,site/modules/Relay/Relay.module.php,a75a612ebcfc9a2c29b980d76c23dfc7
+Choose month and year,Wählen Sie Monat und Jahr,,site/modules/Relay/Relay.module.php,a7175c2ee9b6981892ad0d0cb0770a3c
+Choose one or more page templates. Leave empty to allow every editable non-admin page.,"Wählen Sie eine oder mehrere Seitenvorlagen. Lassen Sie das Feld leer, um jede bearbeitbare Nicht-Administratorseite zuzulassen.",,site/modules/Relay/Relay.module.php,62f53ddacf90ac1a1a282667dd84f6ba
+Choose publish or unpublish.,Wählen Sie „Veröffentlichen“ oder „Veröffentlichung aufheben“.,,site/modules/Relay/Relay.module.php,52a5e2ae21b418ac0b637e80b695e59b
+Choose the roles whose users may be selected by someone with relay-run-as permission.,"Wählen Sie die Rollen aus, deren Benutzer von jemandem mit relay-run-as-Berechtigung ausgewählt werden können.",,site/modules/Relay/Relay.module.php,cc5c4664914c5717b118af4ffbb7b656
+Choose timeline date,Wählen Sie das Timeline-Datum,,site/modules/Relay/Relay.module.php,58c26170f40ee134863a4e2265318259
+Choose up to eight scalar fields. Only these bounded values are included after an editor requests a proposal. Use title alone for the smallest disclosure.,"Wählen Sie bis zu acht Skalarfelder. Nur diese begrenzten Werte werden einbezogen, nachdem ein Redakteur einen Vorschlag angefordert hat. Verwenden Sie für die kleinste Offenlegung nur den Titel.",,site/modules/Relay/Relay.module.php,9caa28121a764be018236b2647157e0b
+"Choose what should happen to the page, when it should happen, and who should perform it.","Wählen Sie aus, was mit der Seite passieren soll, wann es passieren soll und wer es ausführen soll.",,site/modules/Relay/Relay.module.php,03029f0acc3df7ea5b91d1fcf3694bd7
+Choose which pages and editorial identities Relay may operate on.,"Wählen Sie aus, auf welchen Seiten und redaktionellen Identitäten Relay arbeiten darf.",,site/modules/Relay/Relay.module.php,6b448a4ff5e5058375e4118a2718db83
+Clear all demo actions from this session?,Alle Demo-Aktionen dieser Sitzung löschen?,,site/modules/Relay/Relay.module.php,0afe20513d4c6a3d9f609d4983d57823
+Clear demo data,Demodaten löschen,,site/modules/Relay/Relay.module.php,a13c9b268dc6b84aa629f0d3974fb7a6
+Clear filter,Filter löschen,,site/modules/Relay/Relay.module.php,f53b6f6ba5a4c2c190041fe59d8926a0
+Clear filters,Filter löschen,,site/modules/Relay/Relay.module.php,0b275442d6556cff30b75f37f1918899
+CLI,CLI,,site/modules/Relay/Relay.module.php,91af5705f16502125e8b2187e64202c0
+CLI + LazyCron,CLI + LazyCron,,site/modules/Relay/Relay.module.php,29cf269ee8cf09d63ec883b3f88f9b1b
+CLI worker,CLI Arbeiter,,site/modules/Relay/Relay.module.php,0450b38d94a0f09d42a2e35a093d82ac
+Close details,Details schließen,,site/modules/Relay/Relay.module.php,d1a5096b0b613e40eea77aa1dd350342
+Comma-separated administrator addresses.,Durch Kommas getrennte Administratoradressen.,,site/modules/Relay/Relay.module.php,83feeffce6708ac3652653cce1ef4372
+Command,Befehl,,site/modules/Relay/Relay.module.php,ee97be03cb04119af45014d815621ce1
+Command-line access,Befehlszeilenzugriff,,site/modules/Relay/Relay.module.php,1ae7429170bfbb819a1fafac758dbaff
+Commands,Befehle,,site/modules/Relay/Relay.module.php,c441ee50c88f6e5e3a7c69fc69dad8b8
+Compare pages across a two-week planning board and spot competing publication changes.,Vergleichen Sie die Seiten einer zweiwöchigen Planungstafel und erkennen Sie konkurrierende Veröffentlichungsänderungen.,,site/modules/Relay/Relay.module.php,36416f7fba3b68afaa8caf609a6b402d
+"Compare three months at a glance, then select any date to inspect it in detail.","Vergleichen Sie drei Monate auf einen Blick und wählen Sie dann ein beliebiges Datum aus, um es im Detail zu betrachten.",,site/modules/Relay/Relay.module.php,44fb40bb578f67863cc572f8ccc6837f
+Completed,Abgeschlossen,,site/modules/Relay/Relay.module.php,07ca5050e697392c9ed47e6453f1453f
+Completed action,Aktion abgeschlossen,,site/modules/Relay/Relay.module.php,bded5a028477d97fee35867fc5306474
+Configuration snapshot,Konfigurations-Snapshot,,site/modules/Relay/Relay.module.php,a0723ddce45680734891027186cc3da4
+Configured,Konfiguriert,,site/modules/Relay/Relay.module.php,61aa63eb3ac1c3408640463ee5fe8aa3
+"Configure editorial defaults, module boundaries, and worker safety. Planning tools remain in the Relay workspace.","Konfigurieren Sie redaktionelle Vorgaben, Modulgrenzen und Arbeitssicherheit. Planungstools bleiben im Relay-Arbeitsbereich.",,site/modules/Relay/Relay.module.php,840ee1e2378e3ae14ab5a2612a6cb829
+Connect a trusted application with a ProcessWire session or one scoped Bearer token. Every request still acts as the assigned user.,Verbinden Sie eine vertrauenswürdige Anwendung mit einer ProcessWire-Sitzung oder einem bereichsbezogenen Bearer-Token. Jede Anfrage fungiert weiterhin als zugewiesener Benutzer.,,site/modules/Relay/Relay.module.php,832dbb4732956012611aaa8902c9020d
+Connected,Verbunden,,site/modules/Relay/Relay.module.php,2ec0d16e4ca169baedb9b2d50ec5c6d7
+Connect trusted internal tools through the PHP API or REST while keeping ProcessWire permissions in control.,Verbinden Sie vertrauenswürdige interne Tools über die PHP-API oder REST und behalten Sie dabei die Kontrolle über die ProcessWire-Berechtigungen.,,site/modules/Relay/Relay.module.php,c68fa890692512c3064dfde4ea5e0374
+"Controls the weekday order and range boundaries in month, week, quarter, and timeline views.","Steuert die Wochentagsreihenfolge und Bereichsgrenzen in den Monats-, Wochen-, Quartals- und Zeitachsenansichten.",,site/modules/Relay/Relay.module.php,a35093bd21860077027b3bed0a40b3b2
+Copied,Kopiert,,site/modules/Relay/Relay.module.php,a588b1abc58b8b758c4b34b69b9e10bb
+Copy failed,Der Kopiervorgang ist fehlgeschlagen,,site/modules/Relay/Relay.module.php,5496a81d145ee0c172e6c616cabbf89c
+Copy line,Zeile kopieren,,site/modules/Relay/Relay.module.php,1b318b7364fe667573f0b08a40bf3504
+Copy now,Jetzt kopieren,,site/modules/Relay/Relay.module.php,68b3e342561fc3fd7a4b776bce7b32de
+Copy publication URL,Veröffentlichungs-URL kopieren,,site/modules/Relay/Relay.module.php,de31ad66e8f4c571db77ca043fc64151
+Could not copy the publication URL.,Die Veröffentlichungs-URL konnte nicht kopiert werden.,,site/modules/Relay/Relay.module.php,7de6cdd0cea64636b71bb7daf2eb4330
+Create a bot with @BotFather. TeleWire module settings are not used; Relay owns this credential and a private runtime override takes precedence.,Erstellen Sie einen Bot mit @BotFather. Die Moduleinstellungen TeleWire werden nicht verwendet; Relay besitzt diese Anmeldeinformationen und eine private Laufzeitüberschreibung hat Vorrang.,,site/modules/Relay/Relay.module.php,1e104bb8cac50f1203e2b0082cc35378
+Create action/window from JSON.,Aktion/Fenster aus JSON erstellen.,,site/modules/Relay/Relay.module.php,e809c38a148988d6868a2e26132820d3
+Create an action or publication window.,Erstellen Sie ein Aktions- oder Veröffentlichungsfenster.,,site/modules/Relay/Relay.module.php,6724697fdf125552ad446dbd15a9006b
+Credential boundary,Berechtigungsgrenze,,site/modules/Relay/Relay.module.php,0068e8594ce82519d038f615bd036630
+Credentials,Anmeldeinformationen,,site/modules/Relay/Relay.module.php,2daf1cb573c2c61422faf64610cf9402
+Credentials remain encrypted in Squad. Leave blank to use its active default provider and model.,"Anmeldeinformationen bleiben in Squad verschlüsselt. Lassen Sie das Feld leer, um den aktiven Standardanbieter und das Modell zu verwenden.",,site/modules/Relay/Relay.module.php,4fe66c555255afc3d6071252d53ae094
+Cron paths may contain only ordinary path characters and must not contain line breaks.,Cron-Pfade dürfen nur normale Pfadzeichen enthalten und dürfen keine Zeilenumbrüche enthalten.,,site/modules/Relay/Relay.module.php,e18eb6890a7d414858d490f91d52ed60
+Crontab,Crontab,,site/modules/Relay/Relay.module.php,7ac05e39c9ac2dca8d85eb369276b5f9
+Crontab command builder,Crontab-Befehlsersteller,,site/modules/Relay/Relay.module.php,436b64e2d82ccd300bdd7083fcb96bb7
+Crontab interval,Crontab-Intervall,,site/modules/Relay/Relay.module.php,413239b7ad45b126284d48d2d302a307
+Crontab log path,Crontab Protokollpfad,,site/modules/Relay/Relay.module.php,2a0e6f286d79fee4d193ded7d101565a
+Crontab PHP binary,Crontab PHP binär,,site/modules/Relay/Relay.module.php,298c1b65b0849b7b8d4608bdeb172f14
+Current runtime,Aktuelle Laufzeit,,site/modules/Relay/Relay.module.php,1ff985a7372fb2007f693065be4ec93f
+Current state,Aktueller Stand,,site/modules/Relay/Relay.module.php,48358648336d501e2336d5360a559533
+Date,Datum,,site/modules/Relay/Relay.module.php,44749712dbec183e983dcd78a7736c41
+Date and time,Datum und Uhrzeit,,site/modules/Relay/Relay.module.php,2b0b7c9cbd6d6e9fa6b99aa06e828673
+Dates are entered in this timezone and stored as UTC. Existing jobs retain their timezone snapshot.,Daten werden in dieser Zeitzone eingegeben und als UTC gespeichert. Vorhandene Jobs behalten ihren Zeitzonen-Snapshot.,,site/modules/Relay/Relay.module.php,ef3b9053e482cbbbcb81b70404c333b8
+Default planning view,Standard-Planungsansicht,,site/modules/Relay/Relay.module.php,7bfd5d7d9aa3cd647746fdd0b268ea2d
+Default scheduling time,Standardplanungszeit,,site/modules/Relay/Relay.module.php,5139b5fa243889383ebcf2eb4e4b6ff3
+Defaults editors see when they plan and review publication changes.,"Standardredakteure sehen, wann sie Veröffentlichungsänderungen planen und überprüfen.",,site/modules/Relay/Relay.module.php,866a71238cd697abfcdfe659271e4924
+Default time %s,Standardzeit %s,,site/modules/Relay/Relay.module.php,39d05a37d73e961af3d143549681cbf4
+Default workspace,Standardarbeitsbereich,,site/modules/Relay/Relay.module.php,200b2afc357800a45e6f94aff0e41378
+Delivery,Lieferung,,site/modules/Relay/Relay.module.php,065ab3a28ca4f16f55f103adc7d0226f
+Demo: action currently being processed,Demo: Aktion wird derzeit verarbeitet,,site/modules/Relay/Relay.module.php,4e977e78254673a0518e9506f0e3b26e
+Demo: afternoon editorial release,Demo: Redaktionelle Veröffentlichung am Nachmittag,,site/modules/Relay/Relay.module.php,53a7d9e119530324a72233463166c2a1
+Demo: article published successfully,Demo: Artikel erfolgreich veröffentlicht,,site/modules/Relay/Relay.module.php,c219f7ee8f274c285b2fda9764660d1a
+Demo: campaign closed on schedule,Demo: Kampagne pünktlich abgeschlossen,,site/modules/Relay/Relay.module.php,37bb96a328e8c40cffcd48749cf3b0c7
+Demo: campaign closing action,Demo: Aktion zum Abschluss der Kampagne,,site/modules/Relay/Relay.module.php,f066f0c72cf4115df0e3d170591f9e17
+Demo: campaign landing page,Demo: Landingpage der Kampagne,,site/modules/Relay/Relay.module.php,8e385810eed22833bdc5e78b324ec556
+Demo: cancelled weekend release,Demo: Veröffentlichung am Wochenende abgesagt,,site/modules/Relay/Relay.module.php,16d5392b56592788fe2acee7e9baf7e0
+Demo: due action for testing the worker,Demo: Angemessene Maßnahme zum Testen des Arbeiters,,site/modules/Relay/Relay.module.php,0abcb64269c52b16d25131c1d6ffab99
+Demo: duplicate launch cancelled,Demo: Doppelstart abgebrochen,,site/modules/Relay/Relay.module.php,382ba1f1057626ca2237b4bfa2705463
+Demo: early campaign publication completed,Demo: Die frühe Veröffentlichung der Kampagne ist abgeschlossen,,site/modules/Relay/Relay.module.php,e3d5f3a32b5421ced92d87f5ffbeceac
+Demo: editorial launch was cancelled,Demo: Redaktionsstart wurde abgesagt,,site/modules/Relay/Relay.module.php,a01270e1dbfc1e2769918d75edf321c9
+Demo: evening feature release,Demo: abendliche Feature-Veröffentlichung,,site/modules/Relay/Relay.module.php,567f1fb2c94383e790f3418e142baf74
+Demo: evening launch cancelled,Demo: Abendstart abgesagt,,site/modules/Relay/Relay.module.php,01fc1bca507f5108d78708c516c816b4
+Demo: expired publication removed,Demo: abgelaufene Veröffentlichung entfernt,,site/modules/Relay/Relay.module.php,b763e6b4f53c3fd7a9de4f47a0c2114e
+Demo: failed action ready for review,Demo: fehlgeschlagene Aktion zur Überprüfung bereit,,site/modules/Relay/Relay.module.php,5859cace48df8a80fd1e50d0a44db568
+Demo: fortnight editorial milestone,Demo: zweiwöchiger redaktioneller Meilenstein,,site/modules/Relay/Relay.module.php,628d6aee4011ccee88dc1bf6b6c6a870
+Demo: future content retirement,Demo: zukünftige Einstellung von Inhalten,,site/modules/Relay/Relay.module.php,bdc873844e059ddcae9990287bc292bd
+Demo: knowledge-base update,Demo: Aktualisierung der Wissensdatenbank,,site/modules/Relay/Relay.module.php,c48930a7b7c6f8ff23ff055391d425ac
+Demo: late editorial release,Demo: späte redaktionelle Veröffentlichung,,site/modules/Relay/Relay.module.php,b791b6bcfd612979c4687115f84eb08e
+Demo: long-range publication plan,Demo: Langfristiger Veröffentlichungsplan,,site/modules/Relay/Relay.module.php,400ab62682aa49552e4380713ad93e0a
+Demo: midday failure awaiting review,Demo: Mittagsfehler wartet auf Überprüfung,,site/modules/Relay/Relay.module.php,89c5dec77182b2aa09c797b388425c12
+Demo: morning product announcement,Demo: Produktankündigung am Morgen,,site/modules/Relay/Relay.module.php,cfc62a32cc355880439d5fdef545d001
+Demo: morning publication completed,Demo: Morgenveröffentlichung abgeschlossen,,site/modules/Relay/Relay.module.php,2e8dff2e51605dbdeab759499467499c
+Demo: next-month opening slot,Demo: Eröffnungsslot im nächsten Monat,,site/modules/Relay/Relay.module.php,a878e7698bf4faedb78c19170b1cf719
+Demo: next-month preview release,Demo: Vorschauversion im nächsten Monat,,site/modules/Relay/Relay.module.php,af1bd2075439d8df12b07e11bf05d1b9
+Demo: older unpublication plan was replaced,Demo: Der ältere Unveröffentlichungsplan wurde ersetzt,,site/modules/Relay/Relay.module.php,34c8d916e9e146e6fb5fc3dd901b44a8
+Demo: partner announcement,Demo: Partnerankündigung,,site/modules/Relay/Relay.module.php,b2a018fc7c3d19dcdf4d0695c724acc6
+Demo: planned unpublication,Demo: geplante Nichtveröffentlichung,,site/modules/Relay/Relay.module.php,e7d5b5bc493fabbe51504d69e0f43ca6
+Demo: primary publication slot,Demo: Hauptveröffentlichungsplatz,,site/modules/Relay/Relay.module.php,4483db70aab9eca19c24e99fcbad5e9d
+Demo: publication failed after retries,Demo: Veröffentlichung nach Wiederholungsversuchen fehlgeschlagen,,site/modules/Relay/Relay.module.php,6f60e14c8fd741c66345e49096581f4c
+Demo: quarterly archive plan,Demo: vierteljährlicher Archivplan,,site/modules/Relay/Relay.module.php,97590c824e1a54db97e0e72240d1c493
+Demo: queued editorial processing,Demo: Redaktionelle Bearbeitung in der Warteschlange,,site/modules/Relay/Relay.module.php,ece98969aa73936c424d7448d63bacb3
+Demo: replaced end-of-day plan,Demo: Tagesendplan ersetzt,,site/modules/Relay/Relay.module.php,2679b07e8c9e4e61109af074c6186e6e
+Demo: scheduled release completed,Demo: geplante Veröffentlichung abgeschlossen,,site/modules/Relay/Relay.module.php,ec72c83754784238e397d3339ae104d9
+Demo: short-lived notice expiry,Demo: Kurzfristiger Ablauf der Kündigungsfrist,,site/modules/Relay/Relay.module.php,fb8069cd90115c02ca5e02390962d2e2
+Demo: temporary page expiry,Demo: vorübergehender Seitenablauf,,site/modules/Relay/Relay.module.php,777528530b00495f5bbffd74c0bb0d22
+Demo: timed content expiry,Demo: zeitgesteuerter Inhaltsablauf,,site/modules/Relay/Relay.module.php,0609257a5b1203389dca701490616329
+Demo: weekend publication,Demo: Wochenendveröffentlichung,,site/modules/Relay/Relay.module.php,772e6de1d5d877a83cf5234d6d45d09a
+Demo: weekly editorial opening,Demo: wöchentliche Redaktionseröffnung,,site/modules/Relay/Relay.module.php,517174a2ddde8d07dd50a71b3156a195
+Demo action cancelled. No real data was changed.,Demo-Aktion abgebrochen. Es wurden keine echten Daten geändert.,,site/modules/Relay/Relay.module.php,9a3da0c5f659e2d591b558084f562a16
+Demo action created. No real data was added.,Demo-Aktion erstellt. Es wurden keine echten Daten hinzugefügt.,,site/modules/Relay/Relay.module.php,84aa0e76a7be503b5914d4aaad23b893
+Demo actions,Demo-Aktionen,,site/modules/Relay/Relay.module.php,dc058d439f9787fa13ea7d0189fc9a67
+Demo action updated. No real data was changed.,Demo-Aktion aktualisiert. Es wurden keine echten Daten geändert.,,site/modules/Relay/Relay.module.php,5e788eab456f5d2537002e54d9028edd
+Demo failure: retry limit reached,Demo-Fehler: Wiederholungslimit erreicht,,site/modules/Relay/Relay.module.php,1b648a384fab436f6371cbb50fed1432
+Demo publication window created. No real data was added.,Demo-Publikationsfenster erstellt. Es wurden keine echten Daten hinzugefügt.,,site/modules/Relay/Relay.module.php,fe51125b66789ffd624b0fcb116cd4e4
+Demo sandbox cleared.,Demo-Sandbox gelöscht.,,site/modules/Relay/Relay.module.php,0f4bc421a79c379c6088bfc9da36d518
+Disabled,Deaktiviert,,site/modules/Relay/Relay.module.php,b9f5c797ebbf55adccdd8539a65a0241
+Disable this option to return to the real schedule. Imitation data can be cleared from the Relay workspace.,"Deaktivieren Sie diese Option, um zum tatsächlichen Zeitplan zurückzukehren. Imitationsdaten können aus dem Relay-Arbeitsbereich gelöscht werden.",,site/modules/Relay/Relay.module.php,44d4af7a081e376050300527f4ccf823
+Dismiss notification,Benachrichtigung verwerfen,,site/modules/Relay/Relay.module.php,f60fdb90ef3ee39faa9ae1dcf41b99bc
+Drag selected fields into priority order; only fields present on the requested page are sent.,"Ziehen Sie ausgewählte Felder in die Prioritätsreihenfolge. Es werden nur Felder gesendet, die auf der angeforderten Seite vorhanden sind.",,site/modules/Relay/Relay.module.php,75cd4af5e243ca9b7097e3efb57820eb
+"Drag this pending action to another date, or open it for exact rescheduling.",Ziehen Sie diese ausstehende Aktion auf ein anderes Datum oder öffnen Sie sie für eine genaue Neuplanung.,,site/modules/Relay/Relay.module.php,6c838aa8af183942b8654bc03625178e
+Edit,Bearbeiten,,site/modules/Relay/Relay.module.php,7dce122004969d56ae2e0245cb754d35
+Editorial identity,Redaktionelle Identität,,site/modules/Relay/Relay.module.php,e439c9c6d21a35df29cc1f53267b38ef
+Editorial identity roles,Redaktionelle Identitätsrollen,,site/modules/Relay/Relay.module.php,d61b0692a07d7f1642dc1884b7d65530
+Editorial planning,Redaktionelle Planung,,site/modules/Relay/Relay.module.php,e58d817da46eec7830b8d99de903ca60
+Editorial planning assistance,Unterstützung bei der redaktionellen Planung,,site/modules/Relay/Relay.module.php,811e14b0c4ed2ee9fd897d35100089dc
+Editorial timezone,Redaktionelle Zeitzone,,site/modules/Relay/Relay.module.php,ad7793c2d4edb026f49afee8542b6620
+"Editors can explicitly request a draft publication time and note. Squad never creates, changes, or executes a schedule job.","Redakteure können explizit den Zeitpunkt und die Anmerkung zur Veröffentlichung eines Entwurfs anfordern. Squad erstellt, ändert oder führt niemals einen Zeitplanjob aus.",,site/modules/Relay/Relay.module.php,be5bd4d8f894e2fc2b7e3b7b4b09752d
+Editors with relay-manage can move pending actions between calendar dates. The original local time is preserved and permissions are checked again on drop.,Redakteure mit relay-manage können ausstehende Aktionen zwischen Kalenderdaten verschieben. Die ursprüngliche Ortszeit bleibt erhalten und die Berechtigungen werden beim Ablegen erneut überprüft.,,site/modules/Relay/Relay.module.php,707dbc0e342d941c54ee8a2a45e8412f
+Edit page,Seite bearbeiten,,site/modules/Relay/Relay.module.php,3fa4031425bbfdb55a03849422d8d9dc
+Edit settings,Einstellungen bearbeiten,,site/modules/Relay/Relay.module.php,54a029420d74c0dff69239155cf510b5
+Email,E-Mail,,site/modules/Relay/Relay.module.php,ce8ae9da5b7cd6c3df2929543a9af92d
+Email delivery,E-Mail-Zustellung,,site/modules/Relay/Relay.module.php,d359a149116a34dbb0a901aa8c337c4c
+Email notifications,E-Mail-Benachrichtigungen,,site/modules/Relay/Relay.module.php,a67ce68ccac082ad54a552bdbcb6ecd7
+Email recipients,E-Mail-Empfänger,,site/modules/Relay/Relay.module.php,f5faf8c2381b3d9154eb5f5dd691f283
+Enabled,Aktiviert,,site/modules/Relay/Relay.module.php,00d23a76e43b46dae9ec7aa9dcbebb32
+Enable drag-and-drop rescheduling,Aktivieren Sie die Neuplanung per Drag-and-Drop,,site/modules/Relay/Relay.module.php,de3d3578ddd25bffda96bf156db01bf3
+Enabled — workers paused,Aktiviert – Arbeiter pausiert,,site/modules/Relay/Relay.module.php,3256a4eb4f44a634d22d59a68ba3f48d
+Enable imitation mode,Aktivieren Sie den Imitationsmodus,,site/modules/Relay/Relay.module.php,24b73324071c5dfbb0e305ce0206866e
+Enable LazyCron fallback,Aktivieren Sie den LazyCron-Fallback,,site/modules/Relay/Relay.module.php,106a7d734be466cb4eb1286c0db300a3
+Enable local JSON interface CLI,Aktivieren Sie die lokale JSON-Schnittstelle CLI,,site/modules/Relay/Relay.module.php,7793def117fcb0eb807953482ecc3d0f
+Enable operational email notifications,Aktivieren Sie betriebliche E-Mail-Benachrichtigungen,,site/modules/Relay/Relay.module.php,4bea2ffacb2de7eb3fce6499b0eda9ec
+Enable or pause the every-minute fallback and set its bounded batch size.,Aktivieren oder pausieren Sie den minütlichen Fallback und legen Sie die begrenzte Batchgröße fest.,,site/modules/Relay/Relay.module.php,ca52ee9554bac5b7dd4c0d3e6e463a0d
+Enable permission-gated PHP API,Aktivieren Sie die berechtigungsgesteuerte PHP-API,,site/modules/Relay/Relay.module.php,3bdac8c3a13162887c083f74520a6ea0
+Enables bin/relay-interface. Mutations require --execute. The production worker bin/relay.php remains independent.,Aktiviert bin/relay-interface. Mutationen erfordern --execute. Der Produktionsmitarbeiter bin/relay.php bleibt unabhängig.,,site/modules/Relay/Relay.module.php,172e32e49e129e75af69a597d99dfe23
+Enable Squad planning proposals,Aktivieren Sie Squad Planungsvorschläge,,site/modules/Relay/Relay.module.php,42c93340016391831d130f75b7cefac5
+Enable Telegram administrator notifications,Aktivieren Sie Telegram-Administratorbenachrichtigungen,,site/modules/Relay/Relay.module.php,89ac77e9a3dc9c1f4dc60866931a1a19
+Enable template filtering and sorting,Aktivieren Sie das Filtern und Sortieren von Vorlagen,,site/modules/Relay/Relay.module.php,b3bdbdea4bd2dd92725bc5f4c3430130
+Enable versioned JSON REST API,Aktivieren Sie die versionierte JSON REST-API,,site/modules/Relay/Relay.module.php,e256b106ec9f9f22f30ca9baab8e0c77
+Event move cancelled.,Event-Verschiebung abgesagt.,,site/modules/Relay/Relay.module.php,91e1342594826d2f3f00b8eabcab926f
+Events,Veranstaltungen,,site/modules/Relay/Relay.module.php,87f9f735a1d36793ceaecd4e47124b63
+Every %d minute,Jede %d Minute,,site/modules/Relay/Relay.module.php,157ec7e34382181c1058341d45a28e43
+Every %d minutes,Alle %d Minuten,,site/modules/Relay/Relay.module.php,1158687b6e1022c76fd594985a098e3c
+Executable,Ausführbar,,site/modules/Relay/Relay.module.php,38492e6b60e40c59a376e2151778e2c7
+Execution,Ausführung,,site/modules/Relay/Relay.module.php,8f44785c8c19412c5b6611db30984514
+Execution boundary,Ausführungsgrenze,,site/modules/Relay/Relay.module.php,51df7f1559f4fbd296dfe38ee563d54c
+"Expose Relay only through explicit, independently enabled API, CLI, email, and Telegram channels.","Stellen Sie Relay nur über explizite, unabhängig aktivierte API-, CLI-, E-Mail- und Telegram-Kanäle bereit.",,site/modules/Relay/Relay.module.php,9dd22c58984eec93da8fde0494aa42d7
+Failed,Fehlgeschlagen,,site/modules/Relay/Relay.module.php,d7c8c85bf79bbe1b7188497c32c3b0ca
+Failed action,Fehlgeschlagene Aktion,,site/modules/Relay/Relay.module.php,662cd226c08fafcf8b4f965552624506
+Failed jobs need attention,Fehlgeschlagene Jobs brauchen Aufmerksamkeit,,site/modules/Relay/Relay.module.php,a1c2d57aa9f8db4ba9d478c64c57c7b1
+Fallback,Rückfall,,site/modules/Relay/Relay.module.php,882277bdf25efaeb8295e842ebcb3d11
+First day of the week,Erster Tag der Woche,,site/modules/Relay/Relay.module.php,6a4bb3d78eae10076729e0a34d8a9bc6
+Focus on the immediate publishing window without losing action status and ownership.,"Konzentrieren Sie sich auf das unmittelbare Veröffentlichungsfenster, ohne den Aktionsstatus und die Eigentümerschaft zu verlieren.",,site/modules/Relay/Relay.module.php,c0ae0b20995ff568f22be3f233ac6780
+Future changes,Zukünftige Änderungen,,site/modules/Relay/Relay.module.php,dccd1fc1b7511b0993d6c5601d8cc8f6
+Generated crontab line,Generierte Crontab-Zeile,,site/modules/Relay/Relay.module.php,6d49833d3be123d974723812cc883631
+Generate one scoped token for an eligible ProcessWire actor. Rotation invalidates the previous token immediately.,Generieren Sie ein bereichsbezogenes Token für einen berechtigten ProcessWire-Akteur. Durch die Drehung wird der vorherige Token sofort ungültig.,,site/modules/Relay/Relay.module.php,b3bd0cf5e92005a5a280e61572e36ab9
+Generate token,Token generieren,,site/modules/Relay/Relay.module.php,2d171048040ef7ea557988caa0812bf3
+Grouped by template; actions inside each template stay in date and time order.,Gruppiert nach Vorlage; Aktionen innerhalb jeder Vorlage bleiben in der Reihenfolge von Datum und Uhrzeit.,,site/modules/Relay/Relay.module.php,c6bdd1ee6744c0d8c508beae22506ef5
+Highlight Saturdays and Sundays,Markieren Sie Samstage und Sonntage,,site/modules/Relay/Relay.module.php,5e69b54c3f595a4538ca6332fdfc394b
+Hook,Haken,,site/modules/Relay/Relay.module.php,b9b371458ab7c314f88b81c553f6ce51
+Imitation mode,Imitationsmodus,,site/modules/Relay/Relay.module.php,e49ea13b6b7d1e7986b0b673e50d2e6a
+Imitation mode is active,Der Imitationsmodus ist aktiv,,site/modules/Relay/Relay.module.php,cd10da6ada8f971f2ccb20212441b5fe
+Imitation mode is active. All workers remain paused until it is disabled.,"Der Imitationsmodus ist aktiv. Alle Worker bleiben angehalten, bis sie deaktiviert werden.",,site/modules/Relay/Relay.module.php,ce7f4690cdb1bde226ad1e65a0ca7ff2
+Imitation mode is not enabled.,Der Imitationsmodus ist nicht aktiviert.,,site/modules/Relay/Relay.module.php,1c594cab0cc5d4a93ba7c2f22312b715
+Imitation mode · Empty,Imitationsmodus · Leer,,site/modules/Relay/Relay.module.php,9a55c7c8a6199466be3e92737d2ffd36
+Imitation sandbox,Nachgemachter Sandkasten,,site/modules/Relay/Relay.module.php,32fdfe79a9795a093f89f2cf94a3c501
+Inactive,Inaktiv,,site/modules/Relay/Relay.module.php,3cab03c00dbd11bc3569afa0748013f0
+Inspect schedule data from the server shell. Commands that change data run only when --execute is supplied explicitly.,"Überprüfen Sie die Zeitplandaten von der Server-Shell. Befehle, die Daten ändern, werden nur ausgeführt, wenn --execute explizit angegeben wird.",,site/modules/Relay/Relay.module.php,7df86ea815079226f0c495188750143c
+Installed,Installiert,,site/modules/Relay/Relay.module.php,98dd43dfae05b11befe1f140e0ec787a
+Install or update TeleWire 1.0.2 before enabling Telegram delivery.,"Installieren oder aktualisieren Sie TeleWire 1.0.2, bevor Sie die Telegram-Lieferung aktivieren.",,site/modules/Relay/Relay.module.php,3351985839729c8df5d2d82d9a27a734
+Install Squad and configure an active provider key before enabling planning assistance.,"Installieren Sie Squad und konfigurieren Sie einen aktiven Anbieterschlüssel, bevor Sie die Planungsunterstützung aktivieren.",,site/modules/Relay/Relay.module.php,2922e4e68f2a4db397c7f04f566b2045
+Install the ProcessWire LazyCron module before enabling the fallback.,"Installieren Sie das Modul ProcessWire LazyCron, bevor Sie den Fallback aktivieren.",,site/modules/Relay/Relay.module.php,4112d9917c9abf8290c7c7a716f0481d
+Integration,Integration,,site/modules/Relay/Relay.module.php,1115b855bb2a508bc2ca0609cc2d0f65
+Interface CLI,Schnittstelle CLI,,site/modules/Relay/Relay.module.php,4a4d79b6ea4d61e67ecb97d0574c7a37
+Interfaces,Schnittstellen,,site/modules/Relay/Relay.module.php,756640f0aea5f5bea1cbe250a9d08989
+Internal note,Interner Hinweis,,site/modules/Relay/Relay.module.php,08643daceac5930a01274e8e41de11b3
+Interval,Intervall,,site/modules/Relay/Relay.module.php,d16dd01adf735ed9b87eebff5fc39ce5
+Job,Arbeit,,site/modules/Relay/Relay.module.php,cf51066f49e517f274b8173cc265c60b
+Job totals by status.,Auftragssummen nach Status.,,site/modules/Relay/Relay.module.php,dd221ff89b3a59a63d0e27a8de45ce07
+Kanban,Kanban,,site/modules/Relay/Relay.module.php,39b32dd45982038aa5704ca2728334ee
+Keep plans within a deliberate time range and reject accidental far-future dates. Choose 1–20 years.,Halten Sie Ihre Pläne innerhalb eines bewussten Zeitrahmens und lehnen Sie versehentliche Termine in der fernen Zukunft ab. Wählen Sie 1–20 Jahre.,,site/modules/Relay/Relay.module.php,04eb067bbaefa7a4d7146998be7c1f66
+LazyCron,LazyCron,,site/modules/Relay/Relay.module.php,30d7a80090e845f560b7784238e85969
+LazyCron configuration,LazyCron-Konfiguration,,site/modules/Relay/Relay.module.php,4cdafc253d9d807533e365465062d98a
+LazyCron fallback,LazyCron-Fallback,,site/modules/Relay/Relay.module.php,c7a86287d25be0c5760532c8788231ab
+LazyCron module,LazyCron-Modul,,site/modules/Relay/Relay.module.php,b4ad066173e7adbff3a86a8c55f8ac29
+Let an editor request an editable timing and note suggestion without scheduling or changing the page automatically.,"Lassen Sie einen Redakteur einen bearbeitbaren Timing- und Notizvorschlag anfordern, ohne die Seite automatisch zu planen oder zu ändern.",,site/modules/Relay/Relay.module.php,e58a884e8d5501418d957557e3b6f34a
+Load demo data,Demodaten laden,,site/modules/Relay/Relay.module.php,efa922b4fc033e3663ba85d6e1fe21b1
+"Load the dense demo dataset to test calendars, filters, drag-and-drop, popovers, and worker behavior.","Laden Sie den dichten Demodatensatz, um Kalender, Filter, Drag-and-Drop, Popovers und Arbeiterverhalten zu testen.",,site/modules/Relay/Relay.module.php,232a41cb2fee127ed68c4c339000f97c
+Local command interface,Lokale Befehlsschnittstelle,,site/modules/Relay/Relay.module.php,0d7995182e070137ea07a8db7e3a07db
+Local command line,Lokale Befehlszeile,,site/modules/Relay/Relay.module.php,5d7396f39b94d305ebae8c1b8b950893
+Log file,Protokolldatei,,site/modules/Relay/Relay.module.php,46b3eff0289269c9569c3801c3a158d4
+Log path,Protokollpfad,,site/modules/Relay/Relay.module.php,18d84cc78011f06226f5bf0e008c971a
+"Low traffic, full-page caches, or downtime can delay publication because LazyCron runs only after ProcessWire serves a request. Use system crontab when publication time matters.","Geringer Datenverkehr, ganzseitige Caches oder Ausfallzeiten können die Veröffentlichung verzögern, da LazyCron erst ausgeführt wird, nachdem ProcessWire eine Anfrage bearbeitet hat. Verwenden Sie System-Crontab, wenn die Veröffentlichungszeit wichtig ist.",,site/modules/Relay/Relay.module.php,ebf34db04b06669a0bece9fbc4e70562
+Manual page status remains in effect.,Der Handbuchseitenstatus bleibt bestehen.,,site/modules/Relay/Relay.module.php,fa56368b78047c00be805dabf845f0d8
+Maximum attempts,Maximale Versuche,,site/modules/Relay/Relay.module.php,c01198d652d05f1acc9926e7b0c509a0
+Maximum jobs per run,Maximale Jobs pro Lauf,,site/modules/Relay/Relay.module.php,c4741f245b222b56dab3620fe125ee70
+Maximum jobs per worker run,Maximale Jobs pro Worker-Ausführung,,site/modules/Relay/Relay.module.php,b66f2e57b112512e97f199ba2dd8da04
+Maximum planning horizon (years),Maximaler Planungshorizont (Jahre),,site/modules/Relay/Relay.module.php,ec35405bc94e0e2f6fb1840d174b0cbe
+Method,Methode,,site/modules/Relay/Relay.module.php,4c3880bb027f159e801041b1021e88e8
+Missing,Fehlt,,site/modules/Relay/Relay.module.php,2aee0be2678ee90fd327cc186826438e
+Mode,Modus,,site/modules/Relay/Relay.module.php,650be61892bf690026089544abbd9d26
+Model,Modell,,site/modules/Relay/Relay.module.php,a559b87068921eec05086ce5485e9784
+Module,Modul,,site/modules/Relay/Relay.module.php,e55f75a29310d7b60f7ac1d390c8ae42
+Monday,Montag,,site/modules/Relay/Relay.module.php,6f8522e0610541f1ef215a22ffa66ff6
+Monday first,Montag zuerst,,site/modules/Relay/Relay.module.php,ecccd7a021822f5de320382dec458cc6
+Month,Monat,,site/modules/Relay/Relay.module.php,7cbb885aa1164b390a0bc050a64e1812
+Month calendar,Monatskalender,,site/modules/Relay/Relay.module.php,93608c3a92a31b6a7edbfae7fe10df07
+Move a pending action.,Verschieben Sie eine ausstehende Aktion.,,site/modules/Relay/Relay.module.php,56222c089d75401f4efc1688af31ee6c
+Move pending job.,Ausstehenden Job verschieben.,,site/modules/Relay/Relay.module.php,9bda1fe484d54380e8cbcaf72e221bde
+Moving {title}. Drop it on another date.,Umzug {title}. Geben Sie es an einem anderen Datum ab.,,site/modules/Relay/Relay.module.php,d229f7f122905e3dd8eb0db922dde96e
+Needs attention,Braucht Aufmerksamkeit,,site/modules/Relay/Relay.module.php,d6f5722e464f95d8d6411841b90ee6d2
+Never,Niemals,,site/modules/Relay/Relay.module.php,6e7b34fa59e1bd229b207892956dc41c
+New Bearer token,Neuer Bearer-Token,,site/modules/Relay/Relay.module.php,ec95928654904601bc79fa9e4fad48c8
+Next,Als nächstes,,site/modules/Relay/Relay.module.php,10ac3d04253ef7e1ddc73e6091c0cd55
+No actions,Keine Aktionen,,site/modules/Relay/Relay.module.php,7259b16f470234d3719d77cff1d16546
+No actions in this period,Keine Aktionen in diesem Zeitraum,,site/modules/Relay/Relay.module.php,f0a919427679873de1e9fb5fcece5b72
+No eligible actor exists. Grant relay-api and relay-manage first.,Es gibt keinen geeigneten Schauspieler. Gewähren Sie zuerst relay-api und relay-manage.,,site/modules/Relay/Relay.module.php,0b6f09497bdafdeff6f1c07174ca5653
+No note added.,Keine Notiz hinzugefügt.,,site/modules/Relay/Relay.module.php,8f9b824270285fdbd6576c818b62d0b9
+No publication actions are waiting.,Es warten keine Veröffentlichungsaktionen.,,site/modules/Relay/Relay.module.php,7523610678d36a96eca668bb6345af4a
+No real schedule jobs or page states will be changed.,Es werden keine echten Zeitplanjobs oder Seitenzustände geändert.,,site/modules/Relay/Relay.module.php,8b6a8ab06f4ccbe94b4efb731b028bb5
+No scheduled changes,Keine geplanten Änderungen,,site/modules/Relay/Relay.module.php,31b760361559b4324cbeff339370c53e
+Not assigned,Nicht zugewiesen,,site/modules/Relay/Relay.module.php,63d8c71daa2adfb569eb9c363eaa7a89
+Not configured,Nicht konfiguriert,,site/modules/Relay/Relay.module.php,db3f921088947d83680a80a0285ef414
+Not detected,Nicht erkannt,,site/modules/Relay/Relay.module.php,60a449ec73e10cf5e78387d34fe72f59
+Not exact: it runs only when the site receives traffic. Use the CLI worker every minute for production.,"Nicht genau: Es wird nur ausgeführt, wenn die Site Datenverkehr empfängt. Verwenden Sie den CLI-Worker jede Minute für die Produktion.",,site/modules/Relay/Relay.module.php,a9bf497e7f1342ddd4343ce0d3499aca
+Nothing has been scheduled for this page yet.,Für diese Seite ist noch nichts geplant.,,site/modules/Relay/Relay.module.php,1312da3b07492d4a595b2cb50f92a7fa
+Notify administrators when,"Benachrichtigen Sie Administratoren, wenn",,site/modules/Relay/Relay.module.php,8fed5cbdb8a11b579bce0ac7c5d9fd88
+Not installed,Nicht installiert,,site/modules/Relay/Relay.module.php,d12fb360f73c34226d1e50228875d8cf
+Not ready,Nicht bereit,,site/modules/Relay/Relay.module.php,486fbd81a5c5c8fe1c1dd191fdbe007f
+"On a touch screen, open an action and use Date and time to move it precisely.","Öffnen Sie auf einem Touchscreen eine Aktion und verwenden Sie Datum und Uhrzeit, um sie präzise zu verschieben.",,site/modules/Relay/Relay.module.php,126b6ef26659b11b064b012fe276e301
+One job.,Ein Job.,,site/modules/Relay/Relay.module.php,3c0a103ef790e8e82393eb1a88c73af8
+One numeric chat ID or @channel username per line.,Eine numerische Chat-ID oder ein @channel-Benutzername pro Zeile.,,site/modules/Relay/Relay.module.php,842b87c91f0657be0e639360d4f550e7
+One redacted schedule job.,Ein geschwärzter Zeitplanjob.,,site/modules/Relay/Relay.module.php,863ffcec3f7ead672fa6c84d75fe4687
+Only pending demo actions can be cancelled.,Nur ausstehende Demo-Aktionen können storniert werden.,,site/modules/Relay/Relay.module.php,b925c34b94090f0ced19051090d08a70
+Only pending jobs can be cancelled.,Es können nur ausstehende Aufträge abgebrochen werden.,,site/modules/Relay/Relay.module.php,bcca68fda82c77a19c4b030ee533a8cc
+Only pending jobs can be rescheduled.,Es können nur ausstehende Aufträge umgeplant werden.,,site/modules/Relay/Relay.module.php,0ae30f650cf62061be0428786afd053f
+Open %s in the three-day view,Öffnen Sie %s in der Drei-Tages-Ansicht,,site/modules/Relay/Relay.module.php,a0147078e5c3807099e3c6e8bc6aad4f
+Open %s on the timeline,Öffnen Sie %s auf der Timeline,,site/modules/Relay/Relay.module.php,b8dc0edc3bfc72a166efb5aed4cf64bf
+Open actions for details or drag pending work while preserving its local time.,Öffnen Sie Aktionen für Details oder ziehen Sie ausstehende Arbeiten unter Beibehaltung der Ortszeit.,,site/modules/Relay/Relay.module.php,9e264d47eed20ad7d80b3f6853964f33
+"Open a day for its agenda, or use compact pending events for details and drag-and-drop.",Öffnen Sie einen Tag für seine Agenda oder nutzen Sie kompakte ausstehende Ereignisse für Details und Drag-and-Drop.,,site/modules/Relay/Relay.module.php,47d6571ba24fc70978d56035315ad1be
+"Open an action for details, or drag a pending action between days.","Öffnen Sie eine Aktion, um Details anzuzeigen, oder ziehen Sie eine ausstehende Aktion zwischen den Tagen.",,site/modules/Relay/Relay.module.php,de8ad42583797a15bdc14d2a3dd629bb
+Open editorial calendar,Redaktionskalender öffnen,,site/modules/Relay/Relay.module.php,36f4faf1ae1fc2650cd33907e9675e48
+Open publication URL,Veröffentlichungs-URL öffnen,,site/modules/Relay/Relay.module.php,bf638fae3ec3b3189fd18ebe6f5249a1
+Open Relay,Öffnen Sie Relay,,site/modules/Relay/Relay.module.php,cce1ea74532483448976cd6c0bcbaf14
+Operational email,Betriebs-E-Mail,,site/modules/Relay/Relay.module.php,a59c893dbf6463dc7fa4f413eaaa16e1
+Operational interfaces,Operative Schnittstellen,,site/modules/Relay/Relay.module.php,b9d0716888f640c6bb55253e02e8b9cf
+Optional absolute CLI PHP path. Leave empty to use the binary detected by Relay.,"Optionaler absoluter CLI PHP-Pfad. Lassen Sie das Feld leer, um die von Relay erkannte Binärdatei zu verwenden.",,site/modules/Relay/Relay.module.php,fc1cc364c1fae024089655e4416bfacc
+Order,Bestellen,,site/modules/Relay/Relay.module.php,a240fa27925a635b08dc28c9e4f9216d
+Output,Ausgabe,,site/modules/Relay/Relay.module.php,29c2c02a361c9d7028472e5d92cd4a54
+Overall schedule,Gesamtplan,,site/modules/Relay/Relay.module.php,ee288d53bc1c1b1d9d09360b05449721
+Overview,Übersicht,,site/modules/Relay/Relay.module.php,3b878279a04dc47d60932cb294d96259
+Page,Seite,,site/modules/Relay/Relay.module.php,193cfc9be3b995831c6af2fea6650e60
+Page fields shared with Squad,Mit Squad geteilte Seitenfelder,,site/modules/Relay/Relay.module.php,03322b57054de30f2db31c5035092c67
+Page published,Seite veröffentlicht,,site/modules/Relay/Relay.module.php,d6b0fb88c2bc70d9227d8c6019627014
+Page schedule,Seitenplan,,site/modules/Relay/Relay.module.php,0e511b74ffb214e3bc957b2692d5056d
+Page timeline,Zeitleiste der Seite,,site/modules/Relay/Relay.module.php,c4e84ad73fa62b34e6d144c5344ab976
+Past and future publication actions for this page.,Vergangene und zukünftige Veröffentlichungsaktionen für diese Seite.,,site/modules/Relay/Relay.module.php,dbb371ac27ab91f9ee3d12048000f604
+Paused by imitation,Angehalten durch Nachahmung,,site/modules/Relay/Relay.module.php,ba990f624cbd7c08aeb24c927a7e595b
+Pending actions,Ausstehende Aktionen,,site/modules/Relay/Relay.module.php,c054a7deca822c899ac734543443b094
+Permanent safety and planning instructions. Page values are supplied separately as untrusted context.,Ständige Sicherheits- und Planungshinweise. Seitenwerte werden separat als nicht vertrauenswürdiger Kontext bereitgestellt.,,site/modules/Relay/Relay.module.php,9bd18b00c6a90c138599c718422b9bf2
+Permissions and mutation CSRF token.,Berechtigungen und Mutation CSRF-Token.,,site/modules/Relay/Relay.module.php,72043eca1d63f5feedc439ec34d80def
+PHP binary,PHP-Binärdatei,,site/modules/Relay/Relay.module.php,557a2a23ac67051108310879203374d7
+PHP facade,PHP Fassade,,site/modules/Relay/Relay.module.php,3f397dbe47b1a9452df9f6a4e3c72887
+Plan a publication change,Planen Sie eine Publikationsänderung,,site/modules/Relay/Relay.module.php,642e182b6c20b48e7a14e599af12f91c
+Planning,Planung,,site/modules/Relay/Relay.module.php,21d28aa03f67eb242b1c95a6a0594ff5
+Plan publication changes without adding fields to the page template. Times are displayed in,"Planen Sie Veröffentlichungsänderungen, ohne der Seitenvorlage Felder hinzuzufügen. Die Zeiten werden in angezeigt",,site/modules/Relay/Relay.module.php,644874957871efb8ae73f9f9bc27021f
+Previous,Zurück,,site/modules/Relay/Relay.module.php,dd1f775e443ff3b9a89270713580a51b
+Privacy boundary,Datenschutzgrenze,,site/modules/Relay/Relay.module.php,283b0ce628b8a10d8923af1921d7d447
+Private runtime override,Private Laufzeitüberschreibung,,site/modules/Relay/Relay.module.php,70fad1ed108d3bef630c20886e1f3516
+Processed %d job(s).,Verarbeitete(n) %d-Job(s).,,site/modules/Relay/Relay.module.php,8a4ef761295f6617787a6d547aac80ff
+Processing,Verarbeitung,,site/modules/Relay/Relay.module.php,643562a9ae7099c8aabfdc93478db117
+ProcessWire root,ProcessWire-Root,,site/modules/Relay/Relay.module.php,ac3e4a2dfc1b73ebfab04e602e1458b1
+Production worker,Produktionsmitarbeiter,,site/modules/Relay/Relay.module.php,f8d760f032ce10447934c3f875ceafb8
+Production worker schedule,Zeitplan für Produktionsmitarbeiter,,site/modules/Relay/Relay.module.php,2a5d3927d22a2485302a2dc679a57936
+Provider,Anbieter,,site/modules/Relay/Relay.module.php,27703c8f150ac4bb0a3a83a7857353af
+Publication,Veröffentlichung,,site/modules/Relay/Relay.module.php,6bd6beac1da76b2d2a9c3b7914ba034c
+Publication action,Veröffentlichungsaktion,,site/modules/Relay/Relay.module.php,dadb48cbe16dd21fd1830c5f05a048a6
+Publication action cancelled,Veröffentlichungsaktion abgebrochen,,site/modules/Relay/Relay.module.php,72cd0abc0ea0d13d5f3401d9e4d922f8
+Publication action completed,Veröffentlichungsaktion abgeschlossen,,site/modules/Relay/Relay.module.php,24e41131b3e3ede705f75e6fb30ded07
+Publication action failed,Die Veröffentlichungsaktion ist fehlgeschlagen,,site/modules/Relay/Relay.module.php,2b82ba46560cc49cc5a4b2590e7a3810
+Publication action rescheduled,Veröffentlichungsaktion verschoben,,site/modules/Relay/Relay.module.php,452f960923936bc6387c2bfdf7c58642
+Publication action scheduled,Veröffentlichungsaktion geplant,,site/modules/Relay/Relay.module.php,f192c92be12428895c71979f8f262e48
+Publication details,Veröffentlichungsdetails,,site/modules/Relay/Relay.module.php,5b5a5357b1225e7c4782d8b87ae5f1f9
+Publication schedule,Veröffentlichungsplan,,site/modules/Relay/Relay.module.php,391360562ffbf7e7954e887515d12d2f
+Publication URL copied.,Veröffentlichungs-URL kopiert.,,site/modules/Relay/Relay.module.php,8c1922f45f474187f4011a72721121ce
+Publication window dates must use the same timezone.,Die Daten des Veröffentlichungsfensters müssen dieselbe Zeitzone verwenden.,,site/modules/Relay/Relay.module.php,aa4b2fe1dd956f414211bc54fcdf1543
+Publication window scheduled.,Veröffentlichungsfenster geplant.,,site/modules/Relay/Relay.module.php,dc2d62b1b17fc08c73fae9f7f4479f4d
+"Publication window — publish, then unpublish","Veröffentlichungsfenster – veröffentlichen, dann Veröffentlichung rückgängig machen",,site/modules/Relay/Relay.module.php,773c3734d225c29503114fa7f60bdfb3
+Publish,Veröffentlichen,,site/modules/Relay/Relay.module.php,110a4b01beabd53b661a47d4b44bd7a8
+Publish date and time,Datum und Uhrzeit der Veröffentlichung,,site/modules/Relay/Relay.module.php,ea8c357a79ebe2a4776d4e8926954151
+Published,Veröffentlicht,,site/modules/Relay/Relay.module.php,9b9d8a976b42e0bd66381797644943d5
+Published page,Veröffentlichte Seite,,site/modules/Relay/Relay.module.php,ac2a2b7773d5d957c03b0fcd272f921d
+Publishing plan is active,Der Veröffentlichungsplan ist aktiv,,site/modules/Relay/Relay.module.php,dce2e31c5cbc865e6ea6dcd91d3dc65d
+Publishing schedule,Veröffentlichungsplan,,site/modules/Relay/Relay.module.php,2f2cc68111d3ba853e4e5d6990cfcbc7
+Publish page — make publicly visible,Seite veröffentlichen – öffentlich sichtbar machen,,site/modules/Relay/Relay.module.php,89da54a14225a280d2c77d2ae5d30866
+Purpose,Zweck,,site/modules/Relay/Relay.module.php,261addf78c7b2c961032b3dd08ba0b1f
+Quarter,Viertel,,site/modules/Relay/Relay.module.php,b25cde1e74f3d27f678c2e309e06102e
+Quarter calendar,Viertelkalender,,site/modules/Relay/Relay.module.php,07077e5577bf3b7664ff7ca6b9d9badb
+Readiness,Bereitschaft,,site/modules/Relay/Relay.module.php,7236964cf567c0cdefc5aca8def85044
+Reading is direct; changing data is deliberate,Das Lesen ist direkt; Das Ändern von Daten ist absichtlich,,site/modules/Relay/Relay.module.php,8af38c119c4181af57682d2b90b67d76
+Read schedule data or run an explicit write command from the ProcessWire host with JSON input and output.,Lesen Sie Zeitplandaten oder führen Sie einen expliziten Schreibbefehl vom ProcessWire-Host mit JSON-Eingabe und -Ausgabe aus.,,site/modules/Relay/Relay.module.php,5a6abfdec389c6d18190138bac698807
+Ready,Bereit,,site/modules/Relay/Relay.module.php,e7d31fc0602fb2ede144d18cdffd816b
+Recipients,Empfänger,,site/modules/Relay/Relay.module.php,5959cf158e76f7c6f27bff2917ee05b1
+Requested by,Angefordert von,,site/modules/Relay/Relay.module.php,aeaf08746080e6e79b89c08174a2e279
+Request failed.,Die Anfrage ist fehlgeschlagen.,,site/modules/Relay/Relay.module.php,52c1432f44aebb8c91042d5403ef378b
+Requires an authenticated actor with relay-api and relay-manage. This setting alone creates no HTTP route.,Erfordert einen authentifizierten Akteur mit relay-api und relay-manage. Diese Einstellung allein erstellt keine HTTP-Route.,,site/modules/Relay/Relay.module.php,006c98c53ba58e195e03a23ee7b90d19
+Reschedule,Neu planen,,site/modules/Relay/Relay.module.php,4d71f6e4d505e2025e99a24491603763
+Rescheduled,Verschoben,,site/modules/Relay/Relay.module.php,5d9213fc51a33bdcf4ea64ca0e6bf3ff
+Resolved worker,Entschlossener Arbeiter,,site/modules/Relay/Relay.module.php,d7b756bab3cd854eb0074b7353f22628
+Restricted page,Eingeschränkte Seite,,site/modules/Relay/Relay.module.php,74fba10d490b0e79128d4556d1fab9a2
+REST routes,REST-Routen,,site/modules/Relay/Relay.module.php,0e1dd55276c7cc41ed8b90fd98b21999
+Review before installing,Überprüfen Sie es vor der Installation,,site/modules/Relay/Relay.module.php,2855cd389ae46f7150a74786c46cfbaa
+Review boundary,Überprüfen Sie die Grenze,,site/modules/Relay/Relay.module.php,af14605022be44ba7700df309cff9c62
+"Review every action in the selected quarter, grouped by its current workflow status.","Überprüfen Sie jede Aktion im ausgewählten Quartal, gruppiert nach ihrem aktuellen Workflow-Status.",,site/modules/Relay/Relay.module.php,ce45fc23baf863964adfb9ba188b1938
+Review every field before scheduling. Nothing has been saved.,Überprüfen Sie jedes Feld vor der Planung. Es wurde nichts gespeichert.,,site/modules/Relay/Relay.module.php,2d64e2d7a74b0eaa81954c485817ab81
+Review seven days of publishing work in a focused editorial agenda.,Lassen Sie sieben Tage Veröffentlichungsarbeit in einer fokussierten redaktionellen Agenda Revue passieren.,,site/modules/Relay/Relay.module.php,9f4168a8b552a24996b30e6051e082af
+Revoke token,Token widerrufen,,site/modules/Relay/Relay.module.php,8df393176f0b6666eec544975d0a3b6c
+Rotated,Gedreht,,site/modules/Relay/Relay.module.php,4f8d7de5d5a3860f0a27f8848de1ba40
+Rotate token,Token drehen,,site/modules/Relay/Relay.module.php,7891287d5d2427e8faee133c41901ac7
+Route,Route,,site/modules/Relay/Relay.module.php,9405c3aff9112c3c60d03b94792877dc
+Routes,Routen,,site/modules/Relay/Relay.module.php,b41067229f91bece9cdfc66681cdd7a3
+Rows are pages and columns are days; pending markers can move within their page row.,Zeilen sind Seiten und Spalten sind Tage; Ausstehende Markierungen können innerhalb ihrer Seitenzeile verschoben werden.,,site/modules/Relay/Relay.module.php,41d9070c5262e27ee3cea2804a06d701
+Run a bounded due batch.,Führen Sie einen begrenzten fälligen Stapel aus.,,site/modules/Relay/Relay.module.php,0642a222de1ff1a1375a3c14d6a6dccf
+Run a bounded worker check after ProcessWire receives traffic. Use this only when a system cron is unavailable and exact timing is not required.,"Führen Sie eine begrenzte Worker-Prüfung durch, nachdem ProcessWire Datenverkehr empfängt. Verwenden Sie dies nur, wenn ein System-Cron nicht verfügbar ist und kein genaues Timing erforderlich ist.",,site/modules/Relay/Relay.module.php,70b9cc9a548b4d31d68f8d972198a8f1
+Run as,Ausführen als,,site/modules/Relay/Relay.module.php,825c8c5da55b0d246ab35912cde99aac
+Run due work.,Führen Sie fällige Arbeiten aus.,,site/modules/Relay/Relay.module.php,4ec0317dfd667cf1ea28c65bf4e2ba16
+Runs after LazyCron::everyMinute only when ProcessWire receives traffic.,"Wird nach LazyCron::everyMinute nur ausgeführt, wenn ProcessWire Datenverkehr empfängt.",,site/modules/Relay/Relay.module.php,396a8708fb8c535fcd258f267e89a4b1
+Save command settings,Befehlseinstellungen speichern,,site/modules/Relay/Relay.module.php,0a02d8ee124737719ed52932810b7cb1
+Save LazyCron settings,Speichern Sie die LazyCron-Einstellungen,,site/modules/Relay/Relay.module.php,02799bf7d51707a718d5d8fa0b390ca8
+"Save the worker parameters, then copy the generated line into the server scheduler.",Speichern Sie die Worker-Parameter und kopieren Sie dann die generierte Zeile in den Server-Scheduler.,,site/modules/Relay/Relay.module.php,4497bce9b3413429dc9d4b484c3596a9
+"Saving changes only rebuilds the preview. Review the line, copy it, and install it manually through the hosting control panel or crontab -e. Relay never changes the operating-system crontab itself.","Durch das Speichern von Änderungen wird nur die Vorschau neu erstellt. Überprüfen Sie die Zeile, kopieren Sie sie und installieren Sie sie manuell über das Hosting-Kontrollfeld oder crontab -e. Relay ändert niemals die Betriebssystem-Crontab selbst.",,site/modules/Relay/Relay.module.php,838bdc97c66c8b90affd256b5a43c2e4
+Saving…,Sparen…,,site/modules/Relay/Relay.module.php,eedf6b8bfc83284c3294ec4b38188e8a
+"Scan the whole month, then select a date to focus on its three-day window.","Scannen Sie den gesamten Monat und wählen Sie dann ein Datum aus, um sich auf das Drei-Tage-Fenster zu konzentrieren.",,site/modules/Relay/Relay.module.php,c6eff67605658e3fa969495e5f52ce07
+Relay,Relay,,site/modules/Relay/Relay.module.php,34c4c50fc7bdd0394f3954f73f2be34d
+Relay action,Relay-Aktion,,site/modules/Relay/Relay.module.php,bc6e5c9481818496ad06bada8db6065b
+Relay an action from the Relay tab on any editable page.,Relay eine Aktion über die Registerkarte Relay auf einer beliebigen bearbeitbaren Seite.,,site/modules/Relay/Relay.module.php,e7de8a5c45a47d62cce702d6fda42783
+Relay API,Relay-API,,site/modules/Relay/Relay.module.php,fd139cd3b339b5dd4cacb9198e7c9708
+Relay cancelled.,Relay abgesagt.,,site/modules/Relay/Relay.module.php,308879894150f15f521978d7de6322f6
+Relay CLI,Relay CLI,,site/modules/Relay/Relay.module.php,700b7cd4efdbde8995559f09e07a4e0c
+Relay Crontab,Relay Crontab,,site/modules/Relay/Relay.module.php,9c5bb04149de105b0544738e49392d18
+Scheduled,Geplant,,site/modules/Relay/Relay.module.php,2b7dabba0077abe3732e0418b048a56b
+Scheduled time must be in the future.,Der geplante Zeitpunkt muss in der Zukunft liegen.,,site/modules/Relay/Relay.module.php,4a8938e0be67e8218ffe647920934232
+Scheduled time must be within %d year.,Der geplante Zeitpunkt muss innerhalb des %d-Jahres liegen.,,site/modules/Relay/Relay.module.php,556596b0352043f7550b5fff986db808
+Scheduled time must be within %d years.,Die geplante Zeit muss innerhalb von %d Jahren liegen.,,site/modules/Relay/Relay.module.php,94b26dddc83ca453798de71f57709a87
+Relay Email,Relay E-Mail,,site/modules/Relay/Relay.module.php,74fcc5c1b75a38459f00d339ef766ec3
+Relay interface sections,Relay-Schnittstellenabschnitte,,site/modules/Relay/Relay.module.php,002e36c95cd81d780b0e04796f927f24
+Relay job was not found.,Relay-Job wurde nicht gefunden.,,site/modules/Relay/Relay.module.php,891fd33172e4a9103bc03b2005ca7529
+Relay LazyCron,Relay LazyCron,,site/modules/Relay/Relay.module.php,ade801d2aa5012bc778747c19b94a1ca
+Relay module configuration,Relay Modulkonfiguration,,site/modules/Relay/Relay.module.php,6f97efa222704d2538ca50d8d0047c0e
+Relay prepares the command; the server runs it,Relay bereitet den Befehl vor; Der Server führt es aus,,site/modules/Relay/Relay.module.php,ef46e5c4590731647e15c08cb9da8bba
+Relay saved.,Relay gespeichert.,,site/modules/Relay/Relay.module.php,6fdeb40961fd2a7c94dd84bd694f52b9
+Relay settings,Relay-Einstellungen,,site/modules/Relay/Relay.module.php,fa74697402c50a411e724fb85df17d30
+Relay Squad,Relay Squad,,site/modules/Relay/Relay.module.php,e65c203724174e0969fe5d232ab63b92
+Relay Telegram,Relay Telegram,,site/modules/Relay/Relay.module.php,bf3d25a0cd41e60c2470e7e510a484ac
+Relay updated.,Relay aktualisiert.,,site/modules/Relay/Relay.module.php,dac54da6f9c47a10599bd2cdbe6bb2e3
+"Relay uses TeleWire 1.0.2+ as its transport while keeping separate credentials, recipients, and events.","Relay verwendet TeleWire 1.0.2+ als Transportmittel und behält dabei separate Anmeldeinformationen, Empfänger und Ereignisse bei.",,site/modules/Relay/Relay.module.php,d36d792a034e2ebac9299bea1b78123b
+Relay uses WireMail without copying its secrets,"Relay verwendet WireMail, ohne seine Geheimnisse zu kopieren",,site/modules/Relay/Relay.module.php,9f282271d9a1bb1bbdaf0fe97b425b56
+Relay views,Relay Ansichten,,site/modules/Relay/Relay.module.php,19b03bd34d883dd67044e451f0c47f6a
+Scope,Umfang,,site/modules/Relay/Relay.module.php,5d113f2038d289f391614c39043629e8
+Scope and identities,Umfang und Identitäten,,site/modules/Relay/Relay.module.php,f6d175a2ad3bc8d4c126c6aa3d1f03de
+Security boundary,Sicherheitsgrenze,,site/modules/Relay/Relay.module.php,ccfb9379aea5c468f7e4cbdcb63a42e1
+"Select a date number for its agenda, or drag a pending action to another day.",Wählen Sie eine Datumsnummer für die Tagesordnung aus oder ziehen Sie eine ausstehende Aktion auf einen anderen Tag.,,site/modules/Relay/Relay.module.php,ff39b7f4335248b0f13610903a1d755e
+Selected provider,Ausgewählter Anbieter,,site/modules/Relay/Relay.module.php,294f9cfd19e5d6500b0c9cb102a3b4c0
+Send concise operational alerts to configured chats through TeleWire without sharing page content or notes.,"Senden Sie prägnante Betriebswarnungen über TeleWire an konfigurierte Chats, ohne Seiteninhalte oder Notizen zu teilen.",,site/modules/Relay/Relay.module.php,ce28ebaa0958d33c9457e9ff88bdb850
+Send concise Relay lifecycle alerts to configured administrator chats through TeleWire.,Senden Sie über TeleWire prägnante Relay-Lebenszykluswarnungen an konfigurierte Administrator-Chats.,,site/modules/Relay/Relay.module.php,e8fef1bba9abc855a3cf27c9247cc6ec
+Sender,Absender,,site/modules/Relay/Relay.module.php,8aace3ec18d83874d22850b7eee93c7d
+Sender email,E-Mail des Absenders,,site/modules/Relay/Relay.module.php,31df4171f2ebec0b6f84d0cc0b91722a
+Sender name,Absendername,,site/modules/Relay/Relay.module.php,90ed58883831551ef960da4f7cde1240
+Send selected Relay lifecycle alerts to configured administrators through the chosen WireMail provider.,Senden Sie ausgewählte Relay-Lebenszykluswarnungen über den ausgewählten WireMail-Anbieter an konfigurierte Administratoren.,,site/modules/Relay/Relay.module.php,3184695774b7ce8d46240d77e3b7d458
+Send selected schedule lifecycle alerts to configured administrators through WireMail.,Senden Sie ausgewählte Zeitplan-Lebenszykluswarnungen über WireMail an konfigurierte Administratoren.,,site/modules/Relay/Relay.module.php,1d4736ac334186e59f4b3709a1ec5a5d
+Sends only selected Relay events through the chosen WireMail provider.,Sendet nur ausgewählte Relay-Ereignisse über den ausgewählten WireMail-Anbieter.,,site/modules/Relay/Relay.module.php,b1b747dea5f2b3e4764a5e0f7dbff71c
+Server boundary,Servergrenze,,site/modules/Relay/Relay.module.php,4356fb4a1555a50268cf85c65d1ea0ec
+"Session writes require the Relay CSRF token. Bearer requests inherit the assigned actor permissions, are rate-limited, stay header-only, and receive no CORS opt-in.","Für Sitzungsschreibvorgänge ist das Token Relay CSRF erforderlich. Bearer-Anfragen erben die zugewiesenen Akteurberechtigungen, sind ratenbegrenzt, bleiben nur im Header und erhalten kein CORS-Opt-in.",,site/modules/Relay/Relay.module.php,933f5263de2bc390e24db941cef497f2
+Settings sections,Abschnitte „Einstellungen“.,,site/modules/Relay/Relay.module.php,b52d9089601abe3bbeeac633f861452f
+Shared fields,Gemeinsame Felder,,site/modules/Relay/Relay.module.php,5c3a0d6a114881631d89967e1c21ab1b
+Shown once; Relay stores only its SHA-256 hash.,Einmal gezeigt; Relay speichert nur seinen SHA-256-Hash.,,site/modules/Relay/Relay.module.php,d966820b08bf17d8b76a0d7e71477a42
+Shows Template and Order controls in the calendar. Disable it to keep the filter bar focused on actions and statuses only.,"Zeigt Vorlagen- und Bestellsteuerelemente im Kalender an. Deaktivieren Sie es, damit sich die Filterleiste nur auf Aktionen und Status konzentriert.",,site/modules/Relay/Relay.module.php,9b279845771dcc102a125174f026f6a4
+Show upcoming actions in the page tree,Zeigen Sie anstehende Aktionen im Seitenbaum an,,site/modules/Relay/Relay.module.php,9b07c108973c9d089250e5f081b9bd33
+Site default,Site-Standard,,site/modules/Relay/Relay.module.php,1da71dc1ead54d8aaf7c8692a1f32f84
+Squad,Squad,,site/modules/Relay/Relay.module.php,5c7d6a353fd951a31ea16999f68e4000
+Squad assistance,Squad Hilfe,,site/modules/Relay/Relay.module.php,aa303e704380c37cb628597efafac7c6
+Squad could not prepare a planning proposal. Check the active provider and model.,Squad konnte keinen Planungsvorschlag erstellen. Überprüfen Sie den aktiven Anbieter und das Modell.,,site/modules/Relay/Relay.module.php,1e5fde775b3f5abaa33ab93e1fa844ad
+Squad default,Squad Standard,,site/modules/Relay/Relay.module.php,379df8c2ecca7f514c9cf71e7f215a34
+Squad integration,Squad-Integration,,site/modules/Relay/Relay.module.php,4a5aa6e91723703b9aba5bebb36a2b34
+Squad is preparing a draft…,Squad bereitet einen Entwurf vor…,,site/modules/Relay/Relay.module.php,dbc9a475d4dc30ebce9e2ddca9a80e74
+Squad planning assistance is not ready. Check Relay and Squad settings.,Die Planungshilfe Squad ist nicht bereit. Überprüfen Sie die Einstellungen Relay und Squad.,,site/modules/Relay/Relay.module.php,128015bacf398a0ecd43821dfa17e9e7
+Squad planning instructions,Squad Planungshinweise,,site/modules/Relay/Relay.module.php,62af3c6cbbf24210b93a87e66bb99322
+Squad prepared a draft. Review it before scheduling.,"Squad hat einen Entwurf erstellt. Überprüfen Sie es, bevor Sie einen Termin vereinbaren.",,site/modules/Relay/Relay.module.php,4b308a2648f48f1f7cd2804f68f6c17a
+Squad proposal,Squad-Vorschlag,,site/modules/Relay/Relay.module.php,eb01d96b0694bb51e9568e730594237b
+Squad provider %s is available for staff-requested planning proposals.,Der Squad-Anbieter %s steht für vom Personal angeforderte Planungsvorschläge zur Verfügung.,,site/modules/Relay/Relay.module.php,8919d8320580135a8c15a3b24f445fdf
+Squad provider and model,Squad Anbieter und Modell,,site/modules/Relay/Relay.module.php,4f25e2685a2049f4af30cad48a44a488
+"Squad receives only the configured page fields after an editor clicks Suggest with Squad. Its response fills editable draft fields; it never creates a job, changes a page, or publishes content.","Squad empfängt nur die konfigurierten Seitenfelder, nachdem ein Redakteur mit Squad auf „Vorschlagen“ klickt. Seine Antwort füllt bearbeitbare Entwurfsfelder aus; Es wird niemals ein Job erstellt, eine Seite geändert oder Inhalte veröffentlicht.",,site/modules/Relay/Relay.module.php,156c58483cdd610da0e391bf689e2680
+Squad request timeout,Squad Zeitüberschreitung bei der Anforderung,,site/modules/Relay/Relay.module.php,95f4e4ed4ee2023064debfde651b150c
+Squad returned an invalid planning proposal.,Squad hat einen ungültigen Planungsvorschlag zurückgegeben.,,site/modules/Relay/Relay.module.php,e13be6ab7b91e3dd243fd6e0350cadbe
+Squad returned an invalid publication-window end.,Squad hat ein ungültiges Ende des Veröffentlichungsfensters zurückgegeben.,,site/modules/Relay/Relay.module.php,1fa12c42fb5d940b4b4e2bd48f1810e3
+Squad returned an invalid publication time.,Squad hat eine ungültige Veröffentlichungszeit zurückgegeben.,,site/modules/Relay/Relay.module.php,11450c816307ff3927e519de70bdcc45
+Squad returned a publication window whose end is not after its start.,"Squad hat ein Veröffentlichungsfenster zurückgegeben, dessen Ende nicht nach seinem Anfang liegt.",,site/modules/Relay/Relay.module.php,a1fde4c31f6f82d305dd8da461e7859b
+Squad returned invalid JSON.,Squad hat ein ungültiges JSON zurückgegeben.,,site/modules/Relay/Relay.module.php,3adc431d9a2e2a3c05d5c4277371f773
+Stale worker lease (minutes),Veralteter Arbeitnehmervertrag (Minuten),,site/modules/Relay/Relay.module.php,6ea94094dde312460ff1802f0b3a606b
+Status,Status,,site/modules/Relay/Relay.module.php,ec53a8c4f07baed5d8825072c89799be
+Status totals.,Statussummen.,,site/modules/Relay/Relay.module.php,b91b08b793e3d113e560274a9bae7e47
+Stored in ProcessWire module configuration. Never commit this value to source control.,Gespeichert in der ProcessWire-Modulkonfiguration. Übergeben Sie diesen Wert niemals an die Quellcodeverwaltung.,,site/modules/Relay/Relay.module.php,d49465138a8719cfe49fe22d2b9b2bbe
+Suggest with Squad,Mit Squad vorschlagen,,site/modules/Relay/Relay.module.php,49a05dfada822101eace8367d7a0f35a
+Sunday,Sonntag,,site/modules/Relay/Relay.module.php,9d1a0949c39e66a0cd65240bc0ac9177
+Sunday first,Sonntag zuerst,,site/modules/Relay/Relay.module.php,41cdf74bf9ebafbd753cb060c3fc8904
+Superseded,Abgelöst,,site/modules/Relay/Relay.module.php,f5a5364cf9b9f4f0517ad12aa15e62f5
+System and admin templates are excluded from the choices.,System- und Admin-Vorlagen sind von der Auswahl ausgeschlossen.,,site/modules/Relay/Relay.module.php,edea33aa1473a69423b4fa9b319c1ef6
+System crontab,System-Crontab,,site/modules/Relay/Relay.module.php,ed3e1432479765f2f7680b891f8cee13
+Telegram,Telegram,,site/modules/Relay/Relay.module.php,c915683f3ec888b8edcc7b06bd1428ec
+Telegram administrator chat IDs,Telegram Administrator-Chat-IDs,,site/modules/Relay/Relay.module.php,c5aaf43e47f0525c523f1658214ce647
+Telegram bot token,Telegram Bot-Token,,site/modules/Relay/Relay.module.php,2a50bfce0518bfdbd83d423bc8215859
+Telegram delivery,Telegram Lieferung,,site/modules/Relay/Relay.module.php,6db01305cec63ac02d94c0df7781088b
+Telegram delivery timeout,Telegram Lieferzeitüberschreitung,,site/modules/Relay/Relay.module.php,6e21b9d7bd3cbf93cf1f8de1751903c6
+Telegram notifications,Telegram-Benachrichtigungen,,site/modules/Relay/Relay.module.php,0f026cfdc57a9d3e0221adf5a6a6e62a
+Telegram payload,Telegram Nutzlast,,site/modules/Relay/Relay.module.php,44fb59600a0cb3e319734febe4797d84
+"Telegram receives only the publication event, job ID, action, page title, scheduled time, workflow status, and an authenticated admin link. Notes, page content, credentials, and unpublished field values are excluded.","Telegram erhält nur das Veröffentlichungsereignis, die Job-ID, die Aktion, den Seitentitel, die geplante Zeit, den Workflow-Status und einen authentifizierten Admin-Link. Notizen, Seiteninhalte, Anmeldeinformationen und unveröffentlichte Feldwerte sind ausgeschlossen.",,site/modules/Relay/Relay.module.php,4ce25769237eb0aaf05c81c21934ac4e
+"Telegram receives the event, job ID, action, page title, scheduled time, status, and authenticated admin link. Internal notes, credentials, unpublished fields, and page content are excluded.","Telegram empfängt das Ereignis, die Job-ID, die Aktion, den Seitentitel, die geplante Zeit, den Status und den authentifizierten Admin-Link. Interne Notizen, Anmeldeinformationen, unveröffentlichte Felder und Seiteninhalte sind ausgeschlossen.",,site/modules/Relay/Relay.module.php,eb799b76f4380517b3a65f03f9409f50
+TeleWire integration,TeleWire-Integration,,site/modules/Relay/Relay.module.php,ebe56336ad6b1f8dc0fc8ca3f47d5482
+Template,Vorlage,,site/modules/Relay/Relay.module.php,278c491bdd8a53618c149c4ac790da34
+"Template, then time","Vorlage, dann Zeit",,site/modules/Relay/Relay.module.php,57cfda444a642bc1df7a3c485e60f3a8
+That editorial identity is not available.,Diese redaktionelle Identität ist nicht verfügbar.,,site/modules/Relay/Relay.module.php,56007d46cd54d89379e66c438ba8b50e
+The cron PHP binary must use an absolute path.,Die Cron-Binärdatei PHP muss einen absoluten Pfad verwenden.,,site/modules/Relay/Relay.module.php,611816ea91c6b3a42c9eb237b041db4d
+The demo action changed before it could be updated. Reload and try again.,"Die Demo-Aktion wurde geändert, bevor sie aktualisiert werden konnte. Laden Sie es neu und versuchen Sie es erneut.",,site/modules/Relay/Relay.module.php,bf24741245dc72bf5a7511b1026dd68f
+The editorial identity cannot publish this page.,Die redaktionelle Identität kann diese Seite nicht veröffentlichen.,,site/modules/Relay/Relay.module.php,c4f94b0d8597f9b86084a0167c25b824
+The editorial identity cannot unpublish this page.,Die redaktionelle Identität kann die Veröffentlichung dieser Seite nicht rückgängig machen.,,site/modules/Relay/Relay.module.php,6046e7956d4a1da5b28412f97d566803
+The editor remains responsible for every change,Für jede Änderung bleibt der Herausgeber verantwortlich,,site/modules/Relay/Relay.module.php,89592dc559483ffee0485fbbc2b81c8f
+The first view editors see when opening the global publishing schedule.,"Die erste Ansicht, die Redakteure sehen, wenn sie den globalen Veröffentlichungsplan öffnen.",,site/modules/Relay/Relay.module.php,301de59d31a321c59aee9934dfb655d9
+"The local CLI accepts no remote API credentials. Relay, reschedule, cancel, and run commands require --execute. The production cron worker remains a separate command.","Der lokale CLI akzeptiert keine Remote-API-Anmeldeinformationen. Für die Befehle Relay, Neuplanung, Abbrechen und Ausführen ist --execute erforderlich. Der Produktions-Cron-Worker bleibt ein separater Befehl.",,site/modules/Relay/Relay.module.php,5e9cd48e7b02c1e4ec15b46e0b0554e6
+The page will become publicly visible at the selected date and time.,Die Seite wird zum ausgewählten Datum und zur ausgewählten Uhrzeit öffentlich sichtbar.,,site/modules/Relay/Relay.module.php,5ef702851db7ec75248c031237cb0356
+The page will be published at the start time and automatically unpublished at the end time.,Die Seite wird zum Startzeitpunkt veröffentlicht und zum Endzeitpunkt automatisch wieder aufgehoben.,,site/modules/Relay/Relay.module.php,0025461727a3f38f67b286d0d3cbf6eb
+The page will be removed from public view at the selected date and time.,Die Seite wird zum ausgewählten Datum und zur ausgewählten Uhrzeit aus der öffentlichen Ansicht entfernt.,,site/modules/Relay/Relay.module.php,324263f15f143e97061db73fa27af279
+The schedule changed before it could be updated. Reload and try again.,"Der Zeitplan wurde geändert, bevor er aktualisiert werden konnte. Laden Sie es neu und versuchen Sie es erneut.",,site/modules/Relay/Relay.module.php,ed5b65fc8e47df872e8361a969a5260b
+The unpublish time must be after the publish time.,Der Zeitpunkt zum Aufheben der Veröffentlichung muss nach dem Zeitpunkt der Veröffentlichung liegen.,,site/modules/Relay/Relay.module.php,b256f48698bcbd56a67cc2fe103f574e
+This view is limited to the first 500 actions. Narrow the date range or filter by page.,Diese Ansicht ist auf die ersten 500 Aktionen beschränkt. Grenzen Sie den Datumsbereich ein oder filtern Sie nach Seite.,,site/modules/Relay/Relay.module.php,6617095af8e90baef9ed214af694badb
+Three-day calendar,Drei-Tage-Kalender,,site/modules/Relay/Relay.module.php,216ec29317538ae9831370e3ac588212
+Timeline,Zeitleiste,,site/modules/Relay/Relay.module.php,3d1f92a565d3b1a61880236e33c49bf3
+Timeout,Auszeit,,site/modules/Relay/Relay.module.php,c85a251cc457840f1e032f1b733e9398
+Timing boundary,Timing-Grenze,,site/modules/Relay/Relay.module.php,2f7693a70392d8d205fcfc8fb33917e0
+Timing guarantee,Timing-Garantie,,site/modules/Relay/Relay.module.php,59e5f69a5cae791d501c40d3f447c221
+Today,Heute,,site/modules/Relay/Relay.module.php,1dd1c5fb7f25cd41b291d43a89e3aefd
+Token,Token,,site/modules/Relay/Relay.module.php,459a6f79ad9b13cbcb5f692d2cc7a94d
+Token actor,Token-Akteur,,site/modules/Relay/Relay.module.php,e9cd3513139fa56b9cacb7a1a9df2115
+Token credential,Token-Anmeldeinformationen,,site/modules/Relay/Relay.module.php,2a17031b5c7436758ae73f8b99428e7f
+Traffic-dependent; not exact,Verkehrsabhängig; nicht genau,,site/modules/Relay/Relay.module.php,160bba82791037658b083547ea220f2c
+Traffic-driven fallback,Verkehrsbedingter Fallback,,site/modules/Relay/Relay.module.php,40f7b4c59b308653c5fd3a66375ec73f
+unavailable,nicht verfügbar,,site/modules/Relay/Relay.module.php,7060e0481896e00b3f7d20f1e8e2749a
+Unavailable,Nicht verfügbar,,site/modules/Relay/Relay.module.php,453e6aa38d87b28ccae545967c53004f
+Undo,Rückgängig machen,,site/modules/Relay/Relay.module.php,1cdc076b28f70afac5fcedadf99fa119
+Unknown template,Unbekannte Vorlage,,site/modules/Relay/Relay.module.php,caeb7ef6eeac742432695cbfbe74b306
+Unknown version,Unbekannte Version,,site/modules/Relay/Relay.module.php,387e333b81cffff0a5c1dda54022d2d8
+Unpublish,Veröffentlichung aufheben,,site/modules/Relay/Relay.module.php,181e9a13059454fb2212f1bf10f394ac
+Unpublish date and time,Datum und Uhrzeit der Veröffentlichung aufheben,,site/modules/Relay/Relay.module.php,5f50bf511f799a6e5e8df774ce09d774
+Unpublished,Unveröffentlicht,,site/modules/Relay/Relay.module.php,0774e163cd7df482edd2abd498189f8b
+Unpublish page — remove from public view,Veröffentlichung der Seite aufheben – aus der öffentlichen Ansicht entfernen,,site/modules/Relay/Relay.module.php,3d7ed8258d1fa9431daa7e7c9c0f07a5
+Unsupported crontab interval.,Nicht unterstütztes Crontab-Intervall.,,site/modules/Relay/Relay.module.php,cbe0436307964bf4adb5ac60f11c4459
+Unsupported worker settings action.,Nicht unterstützte Worker-Einstellungsaktion.,,site/modules/Relay/Relay.module.php,5d2e322c8ba533b20f361984a7774144
+Update schedule,Zeitplan aktualisieren,,site/modules/Relay/Relay.module.php,7db2303554a3114e1319ce0e5c6682f1
+URL,URL,,site/modules/Relay/Relay.module.php,e6b391a8d2c4d45902a23a8b6585703d
+Used to generate the crontab line in Interfaces. One minute is recommended for publication timing.,Wird zum Generieren der Crontab-Zeile in Interfaces verwendet. Für den Zeitpunkt der Veröffentlichung wird eine Minute empfohlen.,,site/modules/Relay/Relay.module.php,38d50dc182610ff7d7437a4f7f651418
+Used when the page composer opens. Enter a 24-hour time such as 09:00.,"Wird verwendet, wenn der Seiten-Composer geöffnet wird. Geben Sie eine 24-Stunden-Zeit ein, z. B. 09:00.",,site/modules/Relay/Relay.module.php,d85f4acf0f24b317cf32ddbe9e3ace21
+Use request-triggered processing only when a system cron is unavailable; publication timing is not exact.,"Verwenden Sie die durch Anfragen ausgelöste Verarbeitung nur, wenn ein System-Cron nicht verfügbar ist. Der Zeitpunkt der Veröffentlichung ist nicht genau.",,site/modules/Relay/Relay.module.php,8ed4620a0c5c6d82423ae90a510a4dbd
+Use Squad default,Verwenden Sie die Standardeinstellung Squad,,site/modules/Relay/Relay.module.php,ed6b70adfc15258a993bfdc380f6202d
+Uses TeleWire with Relay-owned credentials. Delivery failures never block scheduling or worker execution.,Verwendet TeleWire mit Relay-eigenen Anmeldeinformationen. Lieferfehler blockieren niemals die Planung oder die Ausführung durch die Mitarbeiter.,,site/modules/Relay/Relay.module.php,1a679bbcdd3dbca5ed2bcdf8db9773e1
+Verify path,Pfad überprüfen,,site/modules/Relay/Relay.module.php,ea0622132e10c30a3825ac1290dce969
+Version,Version,,site/modules/Relay/Relay.module.php,34b6cd75171affba6957e308dcbd92be
+Versioned JSON API,Versionierte JSON-API,,site/modules/Relay/Relay.module.php,9f45df513d8330f482b9136d9280b933
+View details,Details anzeigen,,site/modules/Relay/Relay.module.php,6e9783376d951cfd780e9fdb67a0f02c
+View guide,Anleitung ansehen,,site/modules/Relay/Relay.module.php,bd88923f0c9ed90337d46b307d2db0c0
+View publication,Publikation ansehen,,site/modules/Relay/Relay.module.php,4bd261e9317cac5c142ecff3b338f70b
+Week,Woche,,site/modules/Relay/Relay.module.php,d2ce009594dcc60befa6a4e6cbeb71fc
+Week calendar,Wochenkalender,,site/modules/Relay/Relay.module.php,73b400870ae42805d484abfe1ab22672
+When,Wann,,site/modules/Relay/Relay.module.php,4e97aeeaa8b15ca1180fcd1f3ac478d1
+WireMail provider,WireMail-Anbieter,,site/modules/Relay/Relay.module.php,ba8eadbaf0afa17524d7e45cbd03e28e
+Worker,Arbeiter,,site/modules/Relay/Relay.module.php,62efb9ec331e364b96efe68c8b03ca20
+Worker and resilience,Arbeiter und Belastbarkeit,,site/modules/Relay/Relay.module.php,fdb167a27270e0f8813dfbd99798d796
+Worker is processing jobs,Arbeiter bearbeitet Aufträge,,site/modules/Relay/Relay.module.php,ff9e3ff8b90a1b3df939bf14c6e5ac2e
+Worker script,Worker-Skript,,site/modules/Relay/Relay.module.php,6a1f4c4267380d303284e243d78ca3b1
+Workflow board,Workflow-Board,,site/modules/Relay/Relay.module.php,44ea1fd1cf8d30c84c82517187e32b61
+You cannot choose another editorial identity.,Sie können keine andere redaktionelle Identität wählen.,,site/modules/Relay/Relay.module.php,c9ead31d055944e5901624db6159dcd6
+You cannot schedule this page.,Sie können diese Seite nicht planen.,,site/modules/Relay/Relay.module.php,736325c3318166ea2cc0b8029d69fd77
+You do not have permission to manage schedules.,"Sie sind nicht berechtigt, Zeitpläne zu verwalten.",,site/modules/Relay/Relay.module.php,3aa7945fd4b4ec5c8aa613a5bb1c634d
+You do not have permission to run scheduled jobs.,"Sie sind nicht berechtigt, geplante Jobs auszuführen.",,site/modules/Relay/Relay.module.php,eeb96a29f3ee6505dbbc06b23bf6c016
+"%d job imported.","%d Auftrag importiert.",,site/modules/Relay/Relay.module.php,99df9023a345e7c121c7c8c6d9a6cdb9
+"%d jobs imported.","%d Aufträge importiert.",,site/modules/Relay/Relay.module.php,5e40cb82680881b314be113df12789cf
+"Apply the reviewed import","Geprüften Import anwenden",,site/modules/Relay/Relay.module.php,d92d3d6c6c97a5d1278cc0f439f74ca6
+"Choose a Relay JSON file or paste its contents.","Wählen Sie eine Relay-JSON-Datei oder fügen Sie ihren Inhalt ein.",,site/modules/Relay/Relay.module.php,072e531156d35668bab2182f44bdd30c
+"Confirm the reviewed import before applying it.","Bestätigen Sie den geprüften Import, bevor Sie ihn anwenden.",,site/modules/Relay/Relay.module.php,b0841c56d7ae36d82a81b8dfe541324f
+"Create a portable file without credentials, page content, worker locks, or delivery data.","Portable Datei ohne Zugangsdaten, Seiteninhalte, Worker-Sperren oder Zustelldaten erstellen.",,site/modules/Relay/Relay.module.php,a59187c6e59a1f66c8b6032c28013887
+"Create real scheduled jobs. Existing pending actions for the same page and action may be superseded.","Echte geplante Aufträge erstellen. Vorhandene ausstehende Aktionen für dieselbe Seite und Aktion können ersetzt werden.",,site/modules/Relay/Relay.module.php,a96042f32289532dca3d9c0c899c70a4
+"Create session-only imitation jobs. No database rows or page states will change.","Sitzungsgebundene Imitationsaufträge erstellen. Es werden keine Datenbankzeilen oder Seitenzustände geändert.",,site/modules/Relay/Relay.module.php,71d9ead14aed41fbe0cfc23673cbb9c1
+"Data boundary",Datengrenze,,site/modules/Relay/Relay.module.php,1e3d23d4ce31aa5ec10f04fbfed82e5c
+"Download a portable JSON document or preview a reviewed file before creating future scheduled actions.","Ein portables JSON-Dokument herunterladen oder eine geprüfte Datei in der Vorschau anzeigen, bevor zukünftige geplante Aktionen erstellt werden.",,site/modules/Relay/Relay.module.php,8899e970266cf311b689826c25c40bf1
+Errors,Fehler,,site/modules/Relay/Relay.module.php,5ef0c737746fae2ca90e66c39333f8f6
+Export,Export,,site/modules/Relay/Relay.module.php,0095a9fa74d1713e43e370a7d7846224
+"Export complete history","Vollständigen Verlauf exportieren",,site/modules/Relay/Relay.module.php,b2fb0e17a4aef79552efe04a6e29644c
+"Export jobs","Aufträge exportieren",,site/modules/Relay/Relay.module.php,9dbe7b4a10bb060737f81a9a3a896cb2
+"Export scheduled jobs","Geplante Aufträge exportieren",,site/modules/Relay/Relay.module.php,23b07e71b6fc53221c54ef993822b950
+"History remains useful for audit and backup, but only future scheduled jobs are importable.","Der Verlauf bleibt für Prüfung und Sicherung nützlich, aber nur zukünftige geplante Aufträge können importiert werden.",,site/modules/Relay/Relay.module.php,54c17e0acff6496f77e15bbc8e56f139
+Imitation,Imitation,,site/modules/Relay/Relay.module.php,1b3ed33b29533474215c6a1e3e1efffe
+"Imitation import",Imitationsimport,,site/modules/Relay/Relay.module.php,53180b337719b54217bbb24ce98807a9
+"Imitation mode is active. Applying this preview changes session data only.","Der Imitationsmodus ist aktiv. Das Anwenden dieser Vorschau ändert nur Sitzungsdaten.",,site/modules/Relay/Relay.module.php,a62b50b6b76adf4e23af7444e7b40e75
+Import,Import,,site/modules/Relay/Relay.module.php,72d6d7a1885885bb55a565fd1070581a
+"Import %d job","%d Auftrag importieren",,site/modules/Relay/Relay.module.php,06ef11d6e0a3a21deff43fcc8cdd0e3f
+"Import %d jobs","%d Aufträge importieren",,site/modules/Relay/Relay.module.php,187d4fe55f98ae3848e8905b97b3683a
+"Import / Export","Import / Export",,site/modules/Relay/Relay.module.php,97ccd1af9113ed7817b0a3c77b8ac1de
+Importable,Importierbar,,site/modules/Relay/Relay.module.php,79e41f293980da78b8ed7b49ad5462b5
+"Import complete","Import abgeschlossen",,site/modules/Relay/Relay.module.php,a218495ad30949e8ea1f64a261e37463
+"Import creates scheduled actions only after review","Import erstellt geplante Aktionen erst nach der Prüfung",,site/modules/Relay/Relay.module.php,3f54b8c0d5545c43472b1b8e41515bdb
+"Import jobs","Aufträge importieren",,site/modules/Relay/Relay.module.php,d0c38066743cc00a3d5d04b94ececf4e
+"Import preview",Importvorschau,,site/modules/Relay/Relay.module.php,3ec77b90818695cb749d4241faabd2f5
+"Jobs in this mode","Aufträge in diesem Modus",,site/modules/Relay/Relay.module.php,0ccbaa77437d50c80a74ce56e1cbae21
+"JSON document",JSON-Dokument,,site/modules/Relay/Relay.module.php,7c29c6870694a046f8ea037e7a37d389
+"JSON file",JSON-Datei,,site/modules/Relay/Relay.module.php,a6c9e3a7671c1fd9d7328c3be5d107b5
+"Maximum per file","Maximum pro Datei",,site/modules/Relay/Relay.module.php,d2a32ac018b0ca2b9fbba07d716768f7
+"Move a bounded set of scheduled actions between Relay installations with a preview-first portable file.","Eine begrenzte Menge geplanter Aktionen mit einer portablen, zuerst geprüften Datei zwischen Relay-Installationen übertragen.",,site/modules/Relay/Relay.module.php,ba536c1bc2375004d5abe09434134d67
+"Move Relay jobs safely","Relay-Aufträge sicher übertragen",,site/modules/Relay/Relay.module.php,5ec726fe17755ff823ce13cd72960ded
+"No jobs are created until you confirm and apply this preview.","Es werden keine Aufträge erstellt, bis Sie diese Vorschau bestätigen und anwenden.",,site/modules/Relay/Relay.module.php,a2a025c3b1414269bf022599ad44a451
+"or paste JSON","oder JSON einfügen",,site/modules/Relay/Relay.module.php,614df38ddf67ab911fab871a6e0935a0
+"Preview first","Zuerst Vorschau",,site/modules/Relay/Relay.module.php,07b6d3bdbff97a2e0657ccce87b6ee7b
+"Preview import",Importvorschau,,site/modules/Relay/Relay.module.php,3e1851ccdc15d8e7195d313526955cfc
+"Ready to apply","Bereit zum Anwenden",,site/modules/Relay/Relay.module.php,4a62a41a6b2b3cbd4822e298319cf498
+"Real jobs","Echte Aufträge",,site/modules/Relay/Relay.module.php,dc195b5cff0d69be25307e946d76b20c
+"Relay Import / Export","Relay Import / Export",,site/modules/Relay/Relay.module.php,258b4848bf113d241cbc0ae3196992ed
+"Relay import files are limited to 1 MiB.","Relay-Importdateien sind auf 1 MiB begrenzt.",,site/modules/Relay/Relay.module.php,313c5fe2eadeb9351bf5901ea9b1fdd3
+Result,Ergebnis,,site/modules/Relay/Relay.module.php,8eea62084ca7e541d918e823422bd82e
+"Review the reported problems","Gemeldete Probleme prüfen",,site/modules/Relay/Relay.module.php,d19f29de88a277c8320b89afdb85b86c
+Rows,Zeilen,,site/modules/Relay/Relay.module.php,530f488f7a9800411efc6926ab189708
+Skipped,Übersprungen,,site/modules/Relay/Relay.module.php,d9c8f187972e6320a34e9c40b4cba605
+"The imported jobs are now visible in the Relay calendar and stored in relay_jobs.","Die importierten Aufträge sind jetzt im Relay-Kalender sichtbar und in relay_jobs gespeichert.",,site/modules/Relay/Relay.module.php,b6e56816598ec43bba0cd7d8feeb163f
+"The imported jobs exist only in this session; relay_jobs was not changed.","Die importierten Aufträge existieren nur in dieser Sitzung; relay_jobs wurde nicht geändert.",,site/modules/Relay/Relay.module.php,8478594c53b24e417cab7818082b8a66
+"The import preview expired or the execution mode changed. Preview the file again.","Die Importvorschau ist abgelaufen oder der Ausführungsmodus wurde geändert. Zeigen Sie die Datei erneut in der Vorschau an.",,site/modules/Relay/Relay.module.php,3f12825e2cc16fc2bef5b25115f0ef3a
+"The portable file contains page paths, dates, editorial identities, and internal notes. Processing history is export-only. Secrets, lock tokens, errors, and page content are never included.","Die portable Datei enthält Seitenpfade, Daten, redaktionelle Identitäten und interne Notizen. Der Verarbeitungsverlauf ist nur für den Export bestimmt. Geheimnisse, Sperrtoken, Fehler und Seiteninhalte werden nie einbezogen.",,site/modules/Relay/Relay.module.php,001861faf79da3316d1ab758133bc03b
+"The uploaded JSON file is empty.","Die hochgeladene JSON-Datei ist leer.",,site/modules/Relay/Relay.module.php,d7fc4d9661a5d9678fb744c3b8145e70
+"The upload must be a valid JSON file no larger than 1 MiB.","Der Upload muss eine gültige JSON-Datei mit höchstens 1 MiB sein.",,site/modules/Relay/Relay.module.php,a61694ff49cacee832b069df7e7624aa
+Transfer,Übertragung,,site/modules/Relay/Relay.module.php,6950810f0d2bba97a6f710c7b965b84e
+"Unsupported transfer action.","Nicht unterstützte Übertragungsaktion.",,site/modules/Relay/Relay.module.php,04e666a28a66505ee68e85ba75e588a6
+"Upload a Relay JSON file or paste its contents. Preview performs no writes.","Laden Sie eine Relay-JSON-Datei hoch oder fügen Sie ihren Inhalt ein. Die Vorschau führt keine Schreibvorgänge aus.",,site/modules/Relay/Relay.module.php,c6f77b8d4dca901f21edb474b29b10a0
+Warnings,Warnungen,,site/modules/Relay/Relay.module.php,e17fdb615452f440c793b5ddad90dd5e
+"Action must be publish or unpublish.","Die Aktion muss „Veröffentlichen“ oder „Veröffentlichung aufheben“ sein.",,site/modules/Relay/Relay.module.php,021e6c0032a196ee19244fe964a54992
+"A Relay import can contain at most 500 jobs.","Ein Relay-Import darf höchstens 500 Aufträge enthalten.",,site/modules/Relay/Relay.module.php,a57978e377a8b69513d72f8eacd5dfff
+"Date or timezone is invalid, past, or outside the planning horizon.","Datum oder Zeitzone ist ungültig, liegt in der Vergangenheit oder außerhalb des Planungshorizonts.",,site/modules/Relay/Relay.module.php,b7a1db6f535332d50db4ee5687ca2b96
+"Editorial identity was not found; the importing user will be used.","Die redaktionelle Identität wurde nicht gefunden; der importierende Benutzer wird verwendet.",,site/modules/Relay/Relay.module.php,6b4440f75d52684be232bc2796b83f10
+"Export scope must be scheduled or all.","Der Exportumfang muss „scheduled“ oder „all“ sein.",,site/modules/Relay/Relay.module.php,3fd8ad697d365cc986d3bff7c55902df
+"Job must be a JSON object.","Der Auftrag muss ein JSON-Objekt sein.",,site/modules/Relay/Relay.module.php,007d4d870d75820810562b481cda510a
+"Only scheduled jobs can be imported.","Nur geplante Aufträge können importiert werden.",,site/modules/Relay/Relay.module.php,2a717a4dbcc1f8424bd3463e5a8a1a6b
+"Page is missing, outside the allowed templates, or not editable.","Die Seite fehlt, liegt außerhalb der erlaubten Templates oder kann nicht bearbeitet werden.",,site/modules/Relay/Relay.module.php,f1563262a6076eaad5d3c9c78afc97ad
+"Relay import and export access denied.","Zugriff auf Relay-Import und -Export verweigert.",,site/modules/Relay/Relay.module.php,7ad3caf22c2cad8546e0dfba59de7ce7
+"Resolve every import error before applying the file.","Beheben Sie alle Importfehler, bevor Sie die Datei anwenden.",,site/modules/Relay/Relay.module.php,a7f2db5031b0e320f5995192440efa50
+"The file is not a supported Relay jobs export.","Die Datei ist kein unterstützter Relay-Auftragsexport.",,site/modules/Relay/Relay.module.php,684f5fc3cc078c7dadeb6a078f3b902e
+"The file repeats the same page and action.","Die Datei wiederholt dieselbe Seite und Aktion.",,site/modules/Relay/Relay.module.php,56171623d2f03e2fb91ad3b6a6fb75f6
+"The import file is not valid JSON.","Die Importdatei ist kein gültiges JSON.",,site/modules/Relay/Relay.module.php,33b9217caa3b3d4d49059456287750c8
+"The page or editorial identity cannot perform this action.","Die Seite oder redaktionelle Identität kann diese Aktion nicht ausführen.",,site/modules/Relay/Relay.module.php,7b9acfb38d6c6f4b6d356e6412b54f09
+"The Relay jobs list is missing.","Die Relay-Auftragsliste fehlt.",,site/modules/Relay/Relay.module.php,7bf3ceb4403422597213761f7f9f16e5
+"+{count} more","+{count} weitere",,site/modules/Relay/Relay.module.php,ee3a220a25f825b902611b941f4c15d1
+"+%d more","+%d weitere",,site/modules/Relay/Relay.module.php,29a572c2a49d00d40c4aafb6a1af35e4
+"Choose file","Datei auswählen",,site/modules/Relay/Relay.module.php,cbe55e77ffa67d13322eb1ce7d22f1ba
+"No file selected","Keine Datei ausgewählt",,site/modules/Relay/Relay.module.php,f787618e514c038851726224d7e4421e
+"Enable Relay logging","Relay-Protokollierung aktivieren",,site/modules/Relay/Relay.module.php,533bc56d23c3e93cdd179b96ab03f13a
+"Writes audit, integration, and performance events to ProcessWire logs and keeps the generated crontab worker output file.","Schreibt Audit-, Integrations- und Leistungsereignisse in ProcessWire-Protokolle und behält die Ausgabedatei des generierten Crontab-Workers bei.",,site/modules/Relay/Relay.module.php,4aefeb4b9802db4809449d8a36bdd846
+"Disable this only when another observability system captures Relay activity. Existing log files are not deleted.","Deaktivieren Sie dies nur, wenn ein anderes Beobachtungssystem die Relay-Aktivität erfasst. Vorhandene Protokolldateien werden nicht gelöscht.",,site/modules/Relay/Relay.module.php,2109f3a4862a495139f428c1a0fa70c2
+"Relay logging is disabled. Generated worker output will be discarded.","Die Relay-Protokollierung ist deaktiviert. Die erzeugte Worker-Ausgabe wird verworfen.",,site/modules/Relay/Relay.module.php,da4554f39cb33bb55e32853b27a8828f
+"Add one preset per line in the form Label|HH:MM. Relay ignores invalid and duplicate times.","Fügen Sie eine Voreinstellung pro Zeile im Format Bezeichnung|HH:MM hinzu. Relay ignoriert ungültige und doppelte Zeiten.",,site/modules/Relay/Relay.module.php,96e58763589530293ae0c2da8675d4a3
+"Presets change only the time and keep the date already selected by the editor. Leave empty to hide them.","Voreinstellungen ändern nur die Uhrzeit und behalten das bereits gewählte Datum bei. Leer lassen, um sie auszublenden.",,site/modules/Relay/Relay.module.php,38919c8a8d31aa520c89319d7fae7dd9
+"Set time to %s","Zeit auf %s setzen",,site/modules/Relay/Relay.module.php,e5af3eb0740f1cb104b20af4011f2e6f
+"Scheduling rules","Scheduling rules",,site/modules/Relay/Relay.module.php,8ae221bca544e684cbfba6e254b6d302
+Rules,Rules,,site/modules/Relay/Relay.module.php,1f4da964f8eab62e96e8cfe406e44364
+"Template scheduling rules","Template scheduling rules",,site/modules/Relay/Relay.module.php,860137b4703925b360e60d7fc70c0c71
+"Define recurring editorial slots once, then let matching page templates start with the next suitable date and action.","Define recurring editorial slots once, then let matching page templates start with the next suitable date and action.",,site/modules/Relay/Relay.module.php,fa6bf7ec51e9bda167a3c8787c3dc42e
+Templates,Templates,,site/modules/Relay/Relay.module.php,7df96b18c230f90ada0a9e2307226338
+"Editorial boundary","Editorial boundary",,site/modules/Relay/Relay.module.php,18d987483da6378c508d113dcd27d0a8
+"Rules propose the next slot; editors still create the job","Rules propose the next slot; editors still create the job",,site/modules/Relay/Relay.module.php,04c7df306105619a0b7486ef4084d877
+"A matching rule fills the page planner with an editable action, date, time, window, and note. It never publishes a page or creates repeated jobs automatically.","A matching rule fills the page planner with an editable action, date, time, window, and note. It never publishes a page or creates repeated jobs automatically.",,site/modules/Relay/Relay.module.php,78e060b4c21a8cbf7fbc4cd7ad603b76
+"Scheduling rule deleted.","Scheduling rule deleted.",,site/modules/Relay/Relay.module.php,21425017f0cce16b44369de0f09375a4
+"Unsupported scheduling rule action.","Unsupported scheduling rule action.",,site/modules/Relay/Relay.module.php,b3372e7678f04c07f40a9273c009f7f8
+"Rule name and page template are required.","Rule name and page template are required.",,site/modules/Relay/Relay.module.php,00d766e19b4bf219afb06711095e6413
+"Choose an available page template.","Choose an available page template.",,site/modules/Relay/Relay.module.php,161623c829c1ca5bc07ade3537d90a03
+"Relay supports up to 50 scheduling rules.","Relay supports up to 50 scheduling rules.",,site/modules/Relay/Relay.module.php,d642efc4627330efd4887f627a2fb36f
+"Scheduling rule updated.","Scheduling rule updated.",,site/modules/Relay/Relay.module.php,75cd6e00a5c0cf6a250f8a16a17f9299
+"Scheduling rule created.","Scheduling rule created.",,site/modules/Relay/Relay.module.php,fc46e7cc1080043445e66fabeb692bf6
+"Custom schedule","Custom schedule",,site/modules/Relay/Relay.module.php,b2575a80ba7e221059a294ef3fee3b6e
+"Scheduling rule","Scheduling rule",,site/modules/Relay/Relay.module.php,524eb74f4ae6dfa7ccacc499ca368894
+"Automatically matched to template %s","Automatically matched to template %s",,site/modules/Relay/Relay.module.php,fe8d1b8d76e476062b5d46d5ae437305
+day,day,,site/modules/Relay/Relay.module.php,628b7db04235f228d40adc671413a8c8
+week,week,,site/modules/Relay/Relay.module.php,172a8327fcd3685ab3c0f740d031da09
+month,month,,site/modules/Relay/Relay.module.php,7436f942d5ea836cb84f1bb2527d8286
+year,year,,site/modules/Relay/Relay.module.php,84cdc76cabf41bd7c961f6ab12f117d8
+"Every %1$d %2$s at %3$s","Every %1$d %2$s at %3$s",,site/modules/Relay/Relay.module.php,fa5b4b03600b524ff4c847bcbf607f49
+Mon,Mon,,site/modules/Relay/Relay.module.php,fd29458ae58ac32a2d8734ed90ad51ec
+Tue,Tue,,site/modules/Relay/Relay.module.php,2ddecde85408faf230652444db78cb72
+Wed,Wed,,site/modules/Relay/Relay.module.php,510c292b1686eb070d9e90a575f74106
+Thu,Thu,,site/modules/Relay/Relay.module.php,ed5e8353dfc585f4c6b3a55d1a9fc01d
+Fri,Fri,,site/modules/Relay/Relay.module.php,ac616f844b9a5ea5a827bf7fb99b1ad5
+Sat,Sat,,site/modules/Relay/Relay.module.php,13c7d2d737f81f7bf89aed9fbcd0ad55
+Sun,Sun,,site/modules/Relay/Relay.module.php,ef6572e4cd58bb39a3f4e82fc64fe9f0
+"Rule library","Rule library",,site/modules/Relay/Relay.module.php,1764d3e08320cd01a30297263498f17a
+"Recurring editorial slots","Recurring editorial slots",,site/modules/Relay/Relay.module.php,7e5fe4774a8ef413fa1c269b5fd3ae3d
+"Rules are matched by page template and ordered by their next available occurrence.","Rules are matched by page template and ordered by their next available occurrence.",,site/modules/Relay/Relay.module.php,877d710df5ae427e34bbff9e3563bd9c
+"New rule","New rule",,site/modules/Relay/Relay.module.php,39567c78b6d13fd92f369db9977a97fb
+"No scheduling rules yet","No scheduling rules yet",,site/modules/Relay/Relay.module.php,fdcf10d5e8ed307a2fe25859a421d209
+"Create a rule to give one page template a reliable next publication slot.","Create a rule to give one page template a reliable next publication slot.",,site/modules/Relay/Relay.module.php,76a313dbc6fe82167c0f517336e4f904
+Paused,Paused,,site/modules/Relay/Relay.module.php,e99180abf47a8b3a856e0bcb2656990a
+"Next slot","Next slot",,site/modules/Relay/Relay.module.php,6f979d33177a6b8239eb47d44c42a00f
+"No future slot","No future slot",,site/modules/Relay/Relay.module.php,2630c2ef96f94a56f923edc149248463
+"Delete this scheduling rule?","Delete this scheduling rule?",,site/modules/Relay/Relay.module.php,2fc15909352c70fdf7f11b62fe7b2be6
+Delete,Delete,,site/modules/Relay/Relay.module.php,f2a6c498fb90ee345d997f888fce3b18
+"Choose template","Choose template",,site/modules/Relay/Relay.module.php,52a868afead26bf5092fb277c07a25e7
+"Edit rule","Edit rule",,site/modules/Relay/Relay.module.php,2f47901af231c2bfae1e437fe5f43397
+"Create scheduling rule","Create scheduling rule",,site/modules/Relay/Relay.module.php,2b8343238d23edbdde23ab05801a33db
+"Choose the template, slot cadence, default action, and when the rule should stop offering dates.","Choose the template, slot cadence, default action, and when the rule should stop offering dates.",,site/modules/Relay/Relay.module.php,10dc12728edd33a2b5a0cca08ab723db
+"Rule name","Rule name",,site/modules/Relay/Relay.module.php,a4257b70dd090b12a16890a8df21a097
+"Page template","Page template",,site/modules/Relay/Relay.module.php,3ef41dd629e48b66e03d80ec31d6dbe6
+"Default action","Default action",,site/modules/Relay/Relay.module.php,97958f6549e2103b384d135fa5c9b7e6
+"Publication window","Publication window",,site/modules/Relay/Relay.module.php,314f5debfa27ae88d61a427282221e9e
+"Starts on","Starts on",,site/modules/Relay/Relay.module.php,b26018154712daf8cb06967bcc03395a
+"Slot time","Slot time",,site/modules/Relay/Relay.module.php,cd9a7d9cc6cc3c1c40efdd16bb3a28ef
+"Repeats every","Repeats every",,site/modules/Relay/Relay.module.php,1eedcd9e6f76a006ca6a27389b638375
+Day,Day,,site/modules/Relay/Relay.module.php,03727ac48595a24daed975559c944a44
+Year,Year,,site/modules/Relay/Relay.module.php,537c66b24ef5c83b7382cdc3f34885f2
+"Repeat on","Repeat on",,site/modules/Relay/Relay.module.php,db439ba7bc091c4b9ecefdcf502d9de8
+Ends,Ends,,site/modules/Relay/Relay.module.php,da22a1837931d6562e6f8491055bcd14
+"On date","On date",,site/modules/Relay/Relay.module.php,4f3ea7ccd964ef365f7102d2d4ce85bf
+"After occurrences","After occurrences",,site/modules/Relay/Relay.module.php,ff3212eb9994fbe409a2be3e2392a7b5
+"End date","End date",,site/modules/Relay/Relay.module.php,b7de7e4247d4ab279ef031b7a44c201d
+Occurrences,Occurrences,,site/modules/Relay/Relay.module.php,e52e6aa1a43a0187e44f048f658db5f9
+"Window duration (hours)","Window duration (hours)",,site/modules/Relay/Relay.module.php,b127a5cb615aafee4bea40ab809846e0
+"Default internal note","Default internal note",,site/modules/Relay/Relay.module.php,d6e9e0df93a9ae398fc374b88761af88
+"Rule enabled","Rule enabled",,site/modules/Relay/Relay.module.php,9acb703046d26c3a2fc13e1742821f6a
+"Matching page templates receive this rule in the publication planner.","Matching page templates receive this rule in the publication planner.",,site/modules/Relay/Relay.module.php,8438a9948179cc4890f65d2b2795b641
+"Save rule","Save rule",,site/modules/Relay/Relay.module.php,ca017e490bc70576d70074c5d17f92d0
+"Create rule","Create rule",,site/modules/Relay/Relay.module.php,ccee2cbec967e636d931fe9909b28d4e
+"%d day","%d day",,site/modules/Relay/Relay.module.php,fdb916cf48513ee9884330392f49349b
+"%d days","%d days",,site/modules/Relay/Relay.module.php,cdca48ec5dde79b84b395c0c557bb290
+"Anyone with the subscription URL can read its events","Anyone with the subscription URL can read its events",,site/modules/Relay/Relay.module.php,c33801adc47e6f5db49ee75ec66e0989
+"Calendar feed",Kalender-Feed,,site/modules/Relay/Relay.module.php,11b4bddfe26514a629a9a7b02a73d02b
+"Calendar subscriptions",Kalenderabonnements,,site/modules/Relay/Relay.module.php,bffc346ac077c9438f2cecb4b9a87338
+"Copy URL","URL kopieren",,site/modules/Relay/Relay.module.php,9de711d6eb379d46caa26e86cdafa0e9
+"Created / rotated","Created / rotated",,site/modules/Relay/Relay.module.php,174e4ed62e0b3269d9e13d2a76e3b7d5
+Credential,Credential,,site/modules/Relay/Relay.module.php,03bc142e6422dbb9b288ad2cabee08c7
+"Enable calendar feed","Kalender-Feed aktivieren",,site/modules/Relay/Relay.module.php,3cd7dec28cd7fc59838a4ba5954880df
+Feed,Feed,,site/modules/Relay/Relay.module.php,a80425472d94ae02c836da5b6f205b7b
+"Future days","Future days",,site/modules/Relay/Relay.module.php,7f80e12001fc7412f69a08100aba0682
+"Future range","Future range",,site/modules/Relay/Relay.module.php,6dc13c307100a5d27100df8ba323dc8d
+"Generate a secret URL before enabling the calendar feed.","Generate a secret URL before enabling the calendar feed.",,site/modules/Relay/Relay.module.php,29beb671e34bd6ad5f8029f0bac18b0d
+"Generate secret URL","Geheime URL erzeugen",,site/modules/Relay/Relay.module.php,08895a1bc9177d54ef8f7aa3959885cc
+"Google and Apple Calendar","Google- & Apple-Kalender",,site/modules/Relay/Relay.module.php,4754bab0892390ba9d548c360a1ec1ad
+Hidden,Hidden,,site/modules/Relay/Relay.module.php,7acdf85c69cc3c5305456a293524386e
+"HTTPS is required before sharing this subscription URL.","HTTPS is required before sharing this subscription URL.",,site/modules/Relay/Relay.module.php,df9966cb3024b20476f29705aa25fdc6
+Included,Included,,site/modules/Relay/Relay.module.php,984ceac16fab685fc50b8d8a5eabf7de
+"Include page titles","Seitentitel einbeziehen",,site/modules/Relay/Relay.module.php,30aad8938f4665c9bdcb6133b59bbe50
+"Include public page links","Öffentliche Seitenlinks einbeziehen",,site/modules/Relay/Relay.module.php,6c5c4a89e59e77000f8d5092e2279f3a
+"May reveal titles of unpublished pages to anyone holding the URL.","May reveal titles of unpublished pages to anyone holding the URL.",,site/modules/Relay/Relay.module.php,505fc9043d4c77ba6d5f3c3d844040b8
+"New calendar subscription URL","New calendar subscription URL",,site/modules/Relay/Relay.module.php,5c15fa41c7eebfc551badb14a9e64611
+"Only links viewable to the public visitor are exported.","Only links viewable to the public visitor are exported.",,site/modules/Relay/Relay.module.php,8ed921338aa3e7c6a224dbe1641f6294
+"Open Google Calendar","Google Kalender öffnen",,site/modules/Relay/Relay.module.php,4e9b909b58679ba978d2bba213c030f7
+"Page titles","Page titles",,site/modules/Relay/Relay.module.php,a5e05237783f08f5f0423df1ca29b9fd
+"Past days","Past days",,site/modules/Relay/Relay.module.php,89d94ffaa5116bc604041aa68d2fd46e
+"Past range","Past range",,site/modules/Relay/Relay.module.php,cb52a3578357615ed8c4a25793458d7f
+"Pause or resume access without changing the secret URL.","Pause or resume access without changing the secret URL.",,site/modules/Relay/Relay.module.php,d53b3543d4c0d9ae9d9afe8aaad0bb09
+"Public page links","Public page links",,site/modules/Relay/Relay.module.php,2b2d4d59d42cd3ea1829c5116a48d279
+"Publish a revocable read-only subscription without granting calendar providers control of Relay or ProcessWire.","Publish a revocable read-only subscription without granting calendar providers control of Relay or ProcessWire.",,site/modules/Relay/Relay.module.php,4157e57e86a68b6e06761f210ed2d5bc
+"Publish Relay dates to Google Calendar, Apple Calendar, and other iCalendar clients without granting control of jobs or pages.","Publish Relay dates to Google Calendar, Apple Calendar, and other iCalendar clients without granting control of jobs or pages.",,site/modules/Relay/Relay.module.php,4d923d056ac86529534cebe5e3a9b1a1
+"Read-only calendar subscriptions","Schreibgeschützte Kalenderabonnements",,site/modules/Relay/Relay.module.php,75a65ffe5eb3d5dc6e2d58931729689c
+"Read-only scheduled publication actions from Relay.","Read-only scheduled publication actions from Relay.",,site/modules/Relay/Relay.module.php,2799f12d69329ba9b5511108d576c3e3
+"Relay Calendar subscriptions","Relay Calendar subscriptions",,site/modules/Relay/Relay.module.php,0e54c5c26592611f76730d6835b814c9
+"Relay publication schedule","Relay publication schedule",,site/modules/Relay/Relay.module.php,a7811d09168471e83a24272d9cce0338
+"Relay stores only a SHA-256 hash of the 256-bit token. Keep the URL out of tickets, analytics, public documents, and screenshots; rotate it immediately if exposed. Internal notes, users, errors, page content, and non-public links are never exported.","Relay stores only a SHA-256 hash of the 256-bit token. Keep the URL out of tickets, analytics, public documents, and screenshots; rotate it immediately if exposed. Internal notes, users, errors, page content, and non-public links are never exported.",,site/modules/Relay/Relay.module.php,c3687f2996379f1605ad253f97baa2c3
+Required,Required,,site/modules/Relay/Relay.module.php,b651efdb98a5d6bd2b3935d0c3f4a5e2
+"Revoke access","Zugriff widerrufen",,site/modules/Relay/Relay.module.php,e4c27e9d17bd34073a120ad7bba9e8f4
+"Rotate secret URL","Geheime URL rotieren",,site/modules/Relay/Relay.module.php,03db98bbf89829a9045772fba1ff8b20
+"Save feed settings","Feed-Einstellungen speichern",,site/modules/Relay/Relay.module.php,ffa9683aa35402f84a059c0208cdfbc2
+"Secret-link boundary","Secret-link boundary",,site/modules/Relay/Relay.module.php,1e02069ba39a738771590035a877bd4e
+Secure,Secure,,site/modules/Relay/Relay.module.php,7a2ccf251ecb20b2b84ce0e3c3f72a29
+"SHA-256 hash stored","SHA-256 hash stored",,site/modules/Relay/Relay.module.php,c4e1a2d0be5fe09f917e140bb2d34a76
+"Shown once. Add the HTTPS URL to Google Calendar or open the Apple subscription link before leaving this page.","Shown once. Add the HTTPS URL to Google Calendar or open the Apple subscription link before leaving this page.",,site/modules/Relay/Relay.module.php,5704fefc59a7bb23cce6db5de5d662f8
+"Subscribe in Apple Calendar","In Apple Kalender abonnieren",,site/modules/Relay/Relay.module.php,f436219c58e0b4558bf97f62fe0d688f
+"Subscription access","Subscription access",,site/modules/Relay/Relay.module.php,51d9c1977cf5ecdd13b56a6f5089f5fa
+"Subscription feed","Subscription feed",,site/modules/Relay/Relay.module.php,3bfdec8675034d2609c199fc713a73cf
+"Unsupported calendar feed action.","Unsupported calendar feed action.",,site/modules/Relay/Relay.module.php,78b8674309b41a942d595de8ac3a90c3
+"Use one revocable secret URL for read-only calendar clients. Relay never receives Google or Apple credentials.","Use one revocable secret URL for read-only calendar clients. Relay never receives Google or Apple credentials.",,site/modules/Relay/Relay.module.php,4e85a1678fb755b6e2413b739db02b54
+"%d preset","%d Preset",,site/modules/Relay/Relay.module.php,97a902674aea87e2ee3b6f38408fa78b
+"%d presets","%d Presets",,site/modules/Relay/Relay.module.php,4a348fcac91df1ca58f74618186f5973
+Apply,Anwenden,,site/modules/Relay/Relay.module.php,9639e32cab248434a17ab32237cb3b71
+"Delete preset","Preset löschen",,site/modules/Relay/Relay.module.php,89a090484b7a165093ab2a8927d5bcec
+"Delete preset %s","Preset %s löschen",,site/modules/Relay/Relay.module.php,5acc386b2dfeb241b994bdfaf5c42b1e
+"Delete this quick preset?","Dieses Quick-Preset löschen?",,site/modules/Relay/Relay.module.php,77d3fa8033b52679ff3ad871ed8af1f2
+"Give the quick preset a name.","Gib dem Quick-Preset einen Namen.",,site/modules/Relay/Relay.module.php,1e5d071a5025ab995ffa47630c4061e5
+"Quick preset deleted.","Quick-Preset gelöscht.",,site/modules/Relay/Relay.module.php,4ad33d9deb0e9c50bcbdd97d719a3990
+"Quick presets",Quick-Presets,,site/modules/Relay/Relay.module.php,fbb3efd0159bf546249e5754b541a44a
+"Quick preset saved. A preset with the same name is updated.","Quick-Preset gespeichert. Ein Preset mit demselben Namen wird aktualisiert.",,site/modules/Relay/Relay.module.php,50be3b0ac692d3750c23caa67f3f9662
+"Save the current rule form as your first quick preset.","Speichere das aktuelle Regelformular als erstes Quick-Preset.",,site/modules/Relay/Relay.module.php,a4d842ef315c4b664f997b3a58e1fe4b
+"Unsupported quick preset action.","Nicht unterstützte Quick-Preset-Aktion.",,site/modules/Relay/Relay.module.php,91075084e5229b9bcca7f9ec666e51f2
+"Choose a common interval, or enter any custom number and unit in the rule editor.","Wähle ein häufiges Intervall oder gib im Regeleditor eine eigene Zahl und Einheit ein.",,site/modules/Relay/Relay.module.php,dd6961f98983a28091881daec00b3577
+days,Tage,,site/modules/Relay/Relay.module.php,44fdec47036f482b68b748f9d786801b
+"Every %1$d %2$s from %3$s","Alle %1$d %2$s ab %3$s",,site/modules/Relay/Relay.module.php,3ff98f442b32515e8037549ee4b4e51d
+"Every 4 days","Alle 4 Tage",,site/modules/Relay/Relay.module.php,22132f358ac6d0c93d34ae4d6b19bc1a
+"Every 15 minutes","Alle 15 Minuten",,site/modules/Relay/Relay.module.php,cb2531191d62f80599c99e6e62d27b62
+"Every 30 minutes","Alle 30 Minuten",,site/modules/Relay/Relay.module.php,4f6969a7095a445329e6510879d4e23a
+"Every 69 minutes","Alle 69 Minuten",,site/modules/Relay/Relay.module.php,eb50677e21f3ab19ffb2ff57aa6acd73
+"Every month","Jeden Monat",,site/modules/Relay/Relay.module.php,8ed91b71d01993965915f3b296c20336
+"Every week","Jede Woche",,site/modules/Relay/Relay.module.php,64863d871b7d8ecb1eb689ceb3595cb5
+minute,Minute,,site/modules/Relay/Relay.module.php,0a7d55be9d12a369a6a8da0fb517fba4
+minutes,Minuten,,site/modules/Relay/Relay.module.php,640fd0cc0ffa0316ae087652871f4486
+Minutes,Minuten,,site/modules/Relay/Relay.module.php,f670ea66cfb0e90bd6090472ad692694
+months,Monate,,site/modules/Relay/Relay.module.php,da36cfaf48b9e19896e23e1207040d1e
+"Save cadence as preset","Rhythmus als Preset speichern",,site/modules/Relay/Relay.module.php,774d84fa10bffbba1b5f24fe1e21d0af
+"Set recurrence in one click","Wiederholung mit einem Klick festlegen",,site/modules/Relay/Relay.module.php,c84c558af56aa0100fd62d3fcdb920ea
+weeks,Wochen,,site/modules/Relay/Relay.module.php,ae60f11ab51860bdb22794a943335a34
+years,Jahre,,site/modules/Relay/Relay.module.php,75aeb98e5241592ad6a6c2c4c78a16ef
+"Publication times",Veröffentlichungszeiten,,site/modules/Relay/Relay.module.php,5798acc428b14872ea2560dcc171b307
+"Quick publication times","Schnelle Veröffentlichungszeiten",,site/modules/Relay/Relay.module.php,5db75e05b8b61398235e02849a07d651
+"Quick time choices for one-time publication scheduling. Recurrence is configured in Rules.","Schnelle Zeitauswahl für einmalige Veröffentlichungen. Wiederholungen werden in Rules konfiguriert.",,site/modules/Relay/Relay.module.php,2cfe58ac3966b2dee715959f32bc0b6f

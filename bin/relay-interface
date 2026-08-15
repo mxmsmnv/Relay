@@ -1,0 +1,72 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+if (PHP_SAPI !== 'cli' && PHP_SAPI !== 'phpdbg') exit(1);
+$args = array_slice($argv, 1); $command = 'help'; $options = [];
+foreach ($args as $arg) {
+    if (str_starts_with($arg, '--')) { $pair = explode('=', substr($arg, 2), 2); $options[$pair[0]] = $pair[1] ?? true; }
+    elseif ($command === 'help') $command = $arg;
+}
+$help = <<<'TXT'
+Relay interface CLI — bounded JSON operations
+
+Usage: relay-interface <command> --root=/path/to/processwire [options]
+
+Read: capabilities | counts | jobs [--from= --to= --page-id= --status= --action= --limit=100] | job --id=1
+Write: schedule --stdin --execute | reschedule --id=1 --stdin --execute | cancel --id=1 --execute | run [--limit=50] --execute
+
+Relay stdin JSON:
+  {"page_id":123,"action":"publish","scheduled_at":"2026-09-01 09:00","timezone":"Europe/Berlin","run_as_user_id":41,"note":"Campaign"}
+
+The interface is disabled until enable_interface_cli is set. Production worker
+bin/relay.php remains independent. All mutations require --execute.
+TXT;
+if ($command === 'help' || isset($options['help'])) { fwrite(STDOUT, $help . PHP_EOL); exit(0); }
+
+$root = rtrim((string)($options['root'] ?? ''), DIRECTORY_SEPARATOR);
+if ($root === '') {
+    $candidate = getcwd();
+    while ($candidate && $candidate !== dirname($candidate)) {
+        if (is_file($candidate . '/index.php') && is_dir($candidate . '/wire')) { $root = $candidate; break; }
+        $candidate = dirname($candidate);
+    }
+}
+try {
+    if ($root === '' || !is_file($root . '/wire/core/ProcessWire.php')) throw new RuntimeException('ProcessWire root not found.');
+    chdir($root); require_once $root . '/wire/core/ProcessWire.php';
+    $config = \ProcessWire\ProcessWire::buildConfig($root);
+    $processWire = new \ProcessWire\ProcessWire($config);
+    $wire = $processWire;
+    $relay = $wire->modules->getModule('Relay', ['noPermissionCheck' => true]);
+    if (!$relay instanceof \ProcessWire\Relay) throw new RuntimeException('Relay is not installed.');
+    if (!(bool)$relay->enable_interface_cli) throw new RuntimeException('Relay interface CLI is disabled in module settings.');
+    $actor = null;
+    foreach ($wire->users->find('include=all') as $candidate) if ($candidate->isSuperuser()) { $actor = $candidate; break; }
+    if (!$actor instanceof \ProcessWire\User || !$actor->id) throw new RuntimeException('A ProcessWire superuser is required.');
+    $wire->users->setCurrentUser($actor); $api = $relay->api($actor, 'cli');
+    $id = static function() use ($options): int {
+        $value = trim((string)($options['id'] ?? '')); if (!preg_match('/^-?[1-9][0-9]*$/', $value)) throw new InvalidArgumentException('--id is required.'); return (int)$value;
+    };
+    $stdin = static function() use ($options): array {
+        if (!isset($options['stdin'])) throw new InvalidArgumentException('This command requires --stdin.');
+        $raw = stream_get_contents(STDIN, 65537); $data = is_string($raw) ? json_decode($raw, true) : null;
+        if (!is_array($data) || strlen((string)$raw) > 65536) throw new InvalidArgumentException('Standard input must be a bounded JSON object.'); return $data;
+    };
+    $execute = static function(string $operation) use ($options): void { if (!isset($options['execute'])) throw new InvalidArgumentException($operation . ' requires --execute.'); };
+    $result = match ($command) {
+        'capabilities' => $api->capabilities(),
+        'counts' => $api->counts(),
+        'jobs' => $api->jobs(array_filter(['from'=>$options['from']??'', 'to'=>$options['to']??'', 'page_id'=>$options['page-id']??'', 'status'=>$options['status']??'', 'action'=>$options['action']??'', 'limit'=>$options['limit']??100], static fn($v) => $v !== '')),
+        'job' => $api->job($id()),
+        'schedule' => (function() use ($execute, $api, $stdin) { $execute('Schedule creation'); return $api->schedule($stdin()); })(),
+        'reschedule' => (function() use ($execute, $api, $stdin, $id) { $execute('Schedule update'); return $api->reschedule($id(), $stdin()); })(),
+        'cancel' => (function() use ($execute, $api, $id) { $execute('Schedule cancellation'); return $api->cancel($id()); })(),
+        'run' => (function() use ($execute, $api, $options) { $execute('Worker execution'); return $api->runDue(isset($options['limit']) ? max(1, min(500, (int)$options['limit'])) : null); })(),
+        default => throw new InvalidArgumentException('Unknown command: ' . $command),
+    };
+    fwrite(STDOUT, json_encode(['ok'=>true,'result'=>$result], JSON_PRETTY_PRINT|JSON_UNESCAPED_SLASHES|JSON_UNESCAPED_UNICODE) . PHP_EOL); exit(0);
+} catch (Throwable $e) {
+    fwrite(STDERR, json_encode(['ok'=>false,'error'=>$e->getMessage()], JSON_UNESCAPED_SLASHES|JSON_UNESCAPED_UNICODE) . PHP_EOL); exit(1);
+}
